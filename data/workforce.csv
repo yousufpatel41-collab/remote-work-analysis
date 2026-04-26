@@ -1,0 +1,2001 @@
+employee_id,country,department,job_level,work_mode,tenure_years,annual_salary_eur,productivity_score,satisfaction_score,annual_cost_saving_eur,meetings_per_week,commute_hours_pw
+GE-0001,Germany,Product Management,Mid,Fully Remote,1.7,60342.0,6.05,7.61,12000.0,14,0.0
+GE-0002,Germany,Product Management,Junior,In-Office,5.8,56582.0,7.77,8.11,0.0,15,3.6865001635778514
+GE-0003,Germany,Data & Analytics,Junior,Hybrid,6.1,74674.0,9.86,6.85,6000.0,8,2.3246274774614397
+GE-0004,Germany,Product Management,Lead,Hybrid,1.7,62644.0,9.21,6.14,6000.0,6,1.5788817899364165
+GE-0005,Germany,Product Management,Lead,Fully Remote,2.2,56558.0,8.91,5.23,12000.0,15,0.0
+GE-0006,Germany,Engineering,Senior,Fully Remote,1.3,82177.0,6.39,3.85,12000.0,10,0.0
+GE-0007,Germany,HR & Ops,Senior,Fully Remote,9.4,83455.0,5.81,9.88,12000.0,5,0.0
+GE-0008,Germany,Sales,Junior,In-Office,0.5,57194.0,7.05,4.85,0.0,13,7.79736091477706
+GE-0009,Germany,HR & Ops,Junior,Hybrid,9.5,40735.0,7.67,7.07,6000.0,13,2.6728843849397395
+GE-0010,Germany,Sales,Senior,Hybrid,4.0,78098.0,8.91,6.98,6000.0,17,2.4407679971728915
+GE-0011,Germany,Engineering,Mid,Fully Remote,2.7,56100.0,4.97,7.26,12000.0,3,0.0
+GE-0012,Germany,Product Management,Senior,In-Office,0.5,75278.0,9.04,7.72,0.0,5,6.546944109121931
+GE-0013,Germany,Product Management,Lead,In-Office,2.3,39389.0,7.01,7.79,0.0,17,6.528176981844908
+GE-0014,Germany,Sales,Mid,Fully Remote,1.8,76604.0,6.49,5.93,12000.0,3,0.0
+GE-0015,Germany,HR & Ops,Senior,Fully Remote,0.6,49255.0,5.79,6.55,12000.0,9,0.0
+GE-0016,Germany,Data & Analytics,Mid,Fully Remote,3.7,74500.0,5.01,7.22,12000.0,16,0.0
+GE-0017,Germany,Data & Analytics,Junior,Fully Remote,12.4,65186.0,7.99,6.43,12000.0,8,0.0
+GE-0018,Germany,Product Management,Senior,Hybrid,2.9,52599.0,7.69,9.81,6000.0,6,1.46614562378167
+GE-0019,Germany,Product Management,Senior,Hybrid,4.4,59709.0,6.05,8.14,6000.0,15,1.5965449084682455
+GE-0020,Germany,Sales,Junior,Fully Remote,0.5,73922.0,5.45,7.9,12000.0,16,0.0
+GE-0021,Germany,HR & Ops,Mid,Hybrid,1.9,66377.0,7.2,8.39,6000.0,3,1.1123240198066262
+GE-0022,Germany,HR & Ops,Mid,Fully Remote,0.5,72597.0,9.0,8.56,12000.0,15,0.0
+GE-0023,Germany,Data & Analytics,Junior,Fully Remote,3.3,90694.0,6.69,7.07,12000.0,9,0.0
+GE-0024,Germany,Sales,Junior,Fully Remote,9.8,44665.0,5.2,4.85,12000.0,15,0.0
+GE-0025,Germany,Engineering,Junior,Hybrid,3.8,86024.0,7.31,8.0,6000.0,10,1.7935101129110587
+GE-0026,Germany,Data & Analytics,Junior,Hybrid,0.5,66357.0,7.27,6.42,6000.0,16,2.7383497148061746
+GE-0027,Germany,Sales,Mid,Fully Remote,1.5,53316.0,3.76,6.01,12000.0,15,0.0
+GE-0028,Germany,Sales,Lead,Hybrid,2.8,47706.0,7.53,8.28,6000.0,7,2.6405066378897795
+GE-0029,Germany,Data & Analytics,Senior,Hybrid,1.8,62541.0,7.32,9.26,6000.0,13,1.9160572331677372
+GE-0030,Germany,Data & Analytics,Junior,Fully Remote,6.3,76981.0,7.84,6.83,12000.0,6,0.0
+GE-0031,Germany,Sales,Senior,Hybrid,5.9,63342.0,9.82,7.86,6000.0,16,2.1921002315219003
+GE-0032,Germany,Engineering,Mid,Fully Remote,3.3,84645.0,8.35,9.35,12000.0,6,0.0
+GE-0033,Germany,Product Management,Junior,Fully Remote,1.6,46135.0,6.68,7.16,12000.0,10,0.0
+GE-0034,Germany,Engineering,Mid,In-Office,1.0,64843.0,5.87,10.0,0.0,11,3.5270264297808347
+GE-0035,Germany,Product Management,Lead,In-Office,0.5,48719.0,10.0,7.35,0.0,8,6.711461157434735
+GE-0036,Germany,Sales,Junior,In-Office,1.5,69727.0,7.27,3.86,0.0,16,7.38096239134778
+GE-0037,Germany,Engineering,Junior,Fully Remote,1.9,76530.0,7.02,7.93,12000.0,3,0.0
+GE-0038,Germany,HR & Ops,Mid,Fully Remote,3.9,59530.0,6.97,7.37,12000.0,4,0.0
+GE-0039,Germany,Product Management,Mid,Hybrid,3.8,31145.0,7.84,9.33,6000.0,3,2.4374362265244045
+GE-0040,Germany,Engineering,Senior,Hybrid,0.5,67586.0,7.43,8.41,6000.0,14,2.9886606053714297
+GE-0041,Germany,Data & Analytics,Junior,Fully Remote,1.8,70678.0,6.31,6.59,12000.0,12,0.0
+GE-0042,Germany,Engineering,Mid,Hybrid,0.7,70256.0,6.94,5.56,6000.0,4,1.9044049582070774
+GE-0043,Germany,Engineering,Mid,Fully Remote,0.6,81065.0,6.96,6.49,12000.0,9,0.0
+GE-0044,Germany,Sales,Mid,In-Office,6.1,51076.0,6.55,5.22,0.0,17,6.865917506293791
+GE-0045,Germany,Product Management,Junior,Fully Remote,0.5,73843.0,6.14,5.93,12000.0,4,0.0
+GE-0046,Germany,Data & Analytics,Junior,Hybrid,1.9,80503.0,7.73,8.28,6000.0,9,1.9664641517508703
+GE-0047,Germany,Data & Analytics,Senior,Fully Remote,0.6,41878.0,6.69,9.3,12000.0,8,0.0
+GE-0048,Germany,Data & Analytics,Mid,Hybrid,7.4,69155.0,9.4,7.99,6000.0,16,1.797284988426128
+GE-0049,Germany,Data & Analytics,Junior,Hybrid,2.8,58446.0,4.42,5.61,6000.0,7,2.0693218461510474
+GE-0050,Germany,Engineering,Junior,Fully Remote,0.9,63940.0,8.31,7.47,12000.0,14,0.0
+GE-0051,Germany,Data & Analytics,Junior,In-Office,2.4,69520.0,8.7,8.29,0.0,5,3.091375348617531
+GE-0052,Germany,HR & Ops,Lead,Hybrid,4.6,58666.0,5.11,6.49,6000.0,8,2.983778391894983
+GE-0053,Germany,Engineering,Junior,In-Office,11.1,56216.0,6.79,6.3,0.0,17,3.9246014873357216
+GE-0054,Germany,Engineering,Mid,In-Office,0.9,65444.0,6.75,6.52,0.0,5,4.816363981994497
+GE-0055,Germany,Sales,Lead,Hybrid,7.6,50866.0,5.91,6.22,6000.0,6,2.6157312913679625
+GE-0056,Germany,Product Management,Mid,In-Office,9.5,50884.0,6.27,7.47,0.0,4,7.199988803021717
+GE-0057,Germany,Data & Analytics,Mid,Fully Remote,8.7,73832.0,5.67,6.62,12000.0,3,0.0
+GE-0058,Germany,Engineering,Lead,Fully Remote,3.5,50066.0,9.1,7.43,12000.0,10,0.0
+GE-0059,Germany,Product Management,Senior,Fully Remote,3.5,73662.0,8.12,5.47,12000.0,5,0.0
+GE-0060,Germany,Engineering,Junior,Fully Remote,1.8,71014.0,8.53,6.14,12000.0,5,0.0
+GE-0061,Germany,Data & Analytics,Junior,Hybrid,4.9,42565.0,8.47,8.48,6000.0,6,2.7293047092054916
+GE-0062,Germany,Sales,Junior,Fully Remote,2.7,56192.0,5.65,6.24,12000.0,3,0.0
+GE-0063,Germany,Product Management,Senior,In-Office,4.0,80523.0,6.57,9.09,0.0,14,5.200355375332492
+GE-0064,Germany,Data & Analytics,Mid,Fully Remote,2.0,52245.0,7.59,6.2,12000.0,3,0.0
+GE-0065,Germany,HR & Ops,Manager,Fully Remote,4.6,58963.0,5.53,7.14,12000.0,13,0.0
+GE-0066,Germany,Engineering,Lead,Hybrid,6.1,71007.0,8.46,8.8,6000.0,9,2.9615876108291697
+GE-0067,Germany,Sales,Mid,Fully Remote,0.6,75184.0,6.71,4.67,12000.0,17,0.0
+GE-0068,Germany,Data & Analytics,Mid,In-Office,6.3,61730.0,6.75,3.86,0.0,6,6.772684579512303
+GE-0069,Germany,Product Management,Senior,Fully Remote,2.7,57232.0,7.85,4.51,12000.0,4,0.0
+GE-0070,Germany,Sales,Mid,In-Office,6.5,83491.0,7.73,8.39,0.0,14,6.982202807617386
+GE-0071,Germany,Engineering,Senior,Hybrid,2.0,87606.0,7.17,6.57,6000.0,8,1.2364448241449197
+GE-0072,Germany,Data & Analytics,Junior,Fully Remote,1.7,77725.0,8.39,10.0,12000.0,4,0.0
+GE-0073,Germany,Sales,Junior,Fully Remote,8.6,66109.0,5.7,5.95,12000.0,9,0.0
+GE-0074,Germany,Data & Analytics,Junior,In-Office,1.0,54493.0,7.94,6.78,0.0,17,7.7681630391484475
+GE-0075,Germany,Data & Analytics,Senior,Hybrid,6.5,54204.0,8.31,9.71,6000.0,6,1.358189878656363
+GE-0076,Germany,Product Management,Manager,Hybrid,2.3,71793.0,7.23,10.0,6000.0,15,2.007377218656478
+GE-0077,Germany,Data & Analytics,Junior,Hybrid,2.5,70439.0,7.99,10.0,6000.0,9,2.240482708537824
+GE-0078,Germany,Sales,Mid,Fully Remote,1.3,83221.0,5.5,8.61,12000.0,17,0.0
+GE-0079,Germany,Product Management,Junior,Fully Remote,3.0,73456.0,8.11,8.34,12000.0,4,0.0
+GE-0080,Germany,Engineering,Manager,Fully Remote,1.4,45460.0,6.78,7.69,12000.0,9,0.0
+GE-0081,Germany,Product Management,Lead,In-Office,0.5,78675.0,6.57,7.67,0.0,17,7.041341056081391
+GE-0082,Germany,Engineering,Mid,Hybrid,1.1,52025.0,8.86,6.57,6000.0,16,2.342812145287474
+GE-0083,Germany,Data & Analytics,Junior,Fully Remote,0.5,60008.0,6.15,5.57,12000.0,4,0.0
+GE-0084,Germany,HR & Ops,Senior,Fully Remote,13.4,68253.0,5.31,6.79,12000.0,14,0.0
+GE-0085,Germany,Engineering,Mid,Fully Remote,11.8,90944.0,5.13,6.54,12000.0,5,0.0
+GE-0086,Germany,Data & Analytics,Senior,Fully Remote,1.8,105429.0,7.73,6.12,12000.0,14,0.0
+GE-0087,Germany,Engineering,Mid,Hybrid,4.6,72887.0,6.06,8.44,6000.0,16,2.6479953037599566
+GE-0088,Germany,Engineering,Junior,Hybrid,1.5,62618.0,9.71,8.83,6000.0,13,2.6018774430828606
+GE-0089,Germany,Data & Analytics,Mid,In-Office,3.9,71949.0,4.7,6.63,0.0,4,7.418419838439949
+GE-0090,Germany,Engineering,Senior,Hybrid,5.7,76540.0,9.64,9.62,6000.0,8,1.1445538951463532
+GE-0091,Germany,Data & Analytics,Mid,Fully Remote,10.3,60831.0,7.25,5.09,12000.0,12,0.0
+GE-0092,Germany,Engineering,Senior,Hybrid,1.8,88338.0,7.48,7.11,6000.0,13,1.1741424111546164
+GE-0093,Germany,Engineering,Junior,Hybrid,5.4,67991.0,6.95,6.32,6000.0,10,1.4141141667660657
+GE-0094,Germany,Engineering,Junior,Hybrid,1.1,71471.0,8.08,4.6,6000.0,7,2.6978477389521456
+GE-0095,Germany,Engineering,Junior,Hybrid,15.0,73657.0,7.55,7.28,6000.0,10,1.615358178955897
+GE-0096,Germany,Engineering,Junior,Hybrid,0.5,70481.0,8.92,7.22,6000.0,4,2.931664639436665
+GE-0097,Germany,Data & Analytics,Senior,Hybrid,3.2,75906.0,7.74,9.67,6000.0,7,1.8875426781844902
+GE-0098,Germany,Sales,Senior,Hybrid,3.8,56976.0,7.78,8.35,6000.0,15,2.7532276540317833
+GE-0099,Germany,Data & Analytics,Junior,Fully Remote,4.1,57742.0,6.56,5.26,12000.0,7,0.0
+GE-0100,Germany,Sales,Mid,Fully Remote,0.5,50698.0,6.93,9.58,12000.0,11,0.0
+GE-0101,Germany,Engineering,Junior,Fully Remote,9.8,70714.0,7.37,8.63,12000.0,6,0.0
+GE-0102,Germany,Data & Analytics,Mid,Hybrid,0.7,75126.0,5.55,8.27,6000.0,10,2.19485848514684
+GE-0103,Germany,Product Management,Junior,Fully Remote,3.4,70951.0,5.38,6.46,12000.0,15,0.0
+GE-0104,Germany,Product Management,Mid,Hybrid,0.9,86768.0,8.49,5.96,6000.0,7,2.7452517709717927
+GE-0105,Germany,Data & Analytics,Lead,In-Office,1.3,64927.0,7.41,5.94,0.0,11,6.45708028756576
+GE-0106,Germany,HR & Ops,Senior,Fully Remote,2.8,73694.0,6.78,8.43,12000.0,7,0.0
+GE-0107,Germany,Product Management,Mid,Hybrid,1.9,50808.0,7.62,10.0,6000.0,12,2.107117065324716
+GE-0108,Germany,HR & Ops,Senior,Hybrid,0.6,59968.0,8.02,9.71,6000.0,3,1.624383767572776
+GE-0109,Germany,Product Management,Mid,Fully Remote,0.7,74042.0,6.35,6.07,12000.0,9,0.0
+GE-0110,Germany,Data & Analytics,Mid,Fully Remote,1.9,76038.0,6.07,5.12,12000.0,6,0.0
+GE-0111,Germany,HR & Ops,Manager,Fully Remote,5.0,61178.0,7.24,7.01,12000.0,9,0.0
+GE-0112,Germany,HR & Ops,Lead,Fully Remote,8.0,64069.0,5.83,4.15,12000.0,15,0.0
+GE-0113,Germany,Engineering,Junior,In-Office,0.5,45268.0,7.69,6.98,0.0,12,3.312534707552054
+GE-0114,Germany,Data & Analytics,Senior,In-Office,1.7,60359.0,5.16,6.28,0.0,9,4.784912147343319
+GE-0115,Germany,HR & Ops,Junior,Hybrid,0.5,76575.0,8.83,6.7,6000.0,11,1.4382521293416017
+GE-0116,Germany,Data & Analytics,Junior,In-Office,0.5,72478.0,7.77,4.11,0.0,9,5.423447584681537
+GE-0117,Germany,Engineering,Mid,In-Office,3.8,71509.0,7.51,7.27,0.0,17,3.5306279274549777
+GE-0118,Germany,HR & Ops,Senior,Fully Remote,3.2,65647.0,8.18,6.0,12000.0,13,0.0
+GE-0119,Germany,Data & Analytics,Mid,In-Office,0.6,65092.0,9.2,4.75,0.0,16,4.498343419207454
+GE-0120,Germany,Data & Analytics,Mid,Hybrid,0.9,56416.0,8.82,3.09,6000.0,15,2.236581597509576
+GE-0121,Germany,Data & Analytics,Senior,In-Office,0.5,74085.0,4.99,6.46,0.0,7,4.029900179384809
+GE-0122,Germany,HR & Ops,Junior,In-Office,6.3,70473.0,5.66,9.16,0.0,12,7.886419115884647
+GE-0123,Germany,Sales,Senior,Fully Remote,12.9,71396.0,6.25,9.29,12000.0,16,0.0
+GE-0124,Germany,HR & Ops,Senior,Fully Remote,0.5,58162.0,7.03,6.11,12000.0,6,0.0
+GE-0125,Germany,Product Management,Manager,Fully Remote,0.9,37007.0,7.62,5.9,12000.0,9,0.0
+GE-0126,Germany,HR & Ops,Senior,Hybrid,7.1,79263.0,6.73,8.1,6000.0,6,1.8365822221869719
+GE-0127,Germany,Product Management,Mid,In-Office,9.1,58775.0,7.42,5.0,0.0,15,5.578382755385365
+GE-0128,Germany,Sales,Lead,In-Office,1.9,53784.0,6.29,6.95,0.0,8,3.5407750728667837
+GE-0129,Germany,HR & Ops,Lead,Fully Remote,0.5,74015.0,6.27,7.95,12000.0,16,0.0
+GE-0130,Germany,Sales,Mid,Hybrid,0.5,59904.0,5.91,9.24,6000.0,9,2.110994560339263
+GE-0131,Germany,Product Management,Mid,Hybrid,3.0,78779.0,6.49,7.25,6000.0,13,2.7028114957829477
+GE-0132,Germany,Sales,Senior,Fully Remote,1.7,73021.0,5.38,6.49,12000.0,13,0.0
+GE-0133,Germany,Sales,Junior,Fully Remote,0.5,73886.0,5.83,5.48,12000.0,5,0.0
+GE-0134,Germany,Data & Analytics,Senior,Fully Remote,3.1,47243.0,8.26,5.56,12000.0,7,0.0
+GE-0135,Germany,Sales,Junior,In-Office,0.5,80755.0,6.06,6.16,0.0,5,3.982434834781056
+GE-0136,Germany,Engineering,Mid,Fully Remote,5.4,68396.0,10.0,7.35,12000.0,10,0.0
+GE-0137,Germany,Sales,Lead,Hybrid,1.3,60199.0,8.19,8.77,6000.0,8,2.7158698279946574
+GE-0138,Germany,Sales,Mid,Hybrid,0.5,66864.0,7.82,6.2,6000.0,16,1.5301625686771452
+GE-0139,Germany,Data & Analytics,Manager,Fully Remote,3.1,41909.0,5.97,9.04,12000.0,14,0.0
+GE-0140,Germany,Data & Analytics,Junior,In-Office,1.8,70312.0,8.04,6.09,0.0,12,3.5068992123493175
+GE-0141,Germany,Product Management,Mid,In-Office,12.7,51618.0,6.51,6.47,0.0,5,5.411370000407718
+GE-0142,Germany,HR & Ops,Junior,Fully Remote,2.7,47415.0,7.15,5.68,12000.0,4,0.0
+GE-0143,Germany,Data & Analytics,Senior,Hybrid,1.1,45209.0,10.0,3.76,6000.0,11,2.9396377292675693
+GE-0144,Germany,Sales,Junior,Fully Remote,4.3,79465.0,6.88,8.13,12000.0,14,0.0
+GE-0145,Germany,Engineering,Senior,Fully Remote,1.1,56820.0,8.38,7.91,12000.0,8,0.0
+GE-0146,Germany,Sales,Senior,Fully Remote,8.2,84938.0,6.16,6.38,12000.0,17,0.0
+GE-0147,Germany,Engineering,Senior,Hybrid,1.6,58035.0,7.56,7.5,6000.0,11,1.8157792170145601
+GE-0148,Germany,Data & Analytics,Mid,Hybrid,2.8,42804.0,9.72,8.17,6000.0,7,2.4560245155923948
+GE-0149,Germany,Sales,Lead,Fully Remote,0.5,50485.0,6.25,4.46,12000.0,10,0.0
+GE-0150,Germany,HR & Ops,Junior,Fully Remote,1.9,81066.0,9.17,6.01,12000.0,14,0.0
+GE-0151,Germany,Sales,Senior,In-Office,6.3,62973.0,8.05,7.69,0.0,8,6.74976840901204
+GE-0152,Germany,Sales,Junior,Fully Remote,5.7,57872.0,6.33,4.92,12000.0,16,0.0
+GE-0153,Germany,HR & Ops,Manager,Fully Remote,0.9,67080.0,7.76,7.24,12000.0,9,0.0
+GE-0154,Germany,Engineering,Mid,Hybrid,0.9,71523.0,8.77,5.37,6000.0,8,2.6728311931597135
+GE-0155,Germany,Sales,Mid,In-Office,5.9,79526.0,7.95,7.2,0.0,14,7.26106195600837
+GE-0156,Germany,Data & Analytics,Junior,Fully Remote,9.3,83830.0,5.12,6.75,12000.0,5,0.0
+GE-0157,Germany,Data & Analytics,Junior,Hybrid,0.5,60323.0,6.73,4.98,6000.0,5,1.1708060603254433
+GE-0158,Germany,Sales,Mid,Hybrid,2.1,47761.0,7.3,9.15,6000.0,7,1.5627012437076833
+GE-0159,Germany,Engineering,Mid,Fully Remote,1.4,59625.0,6.91,5.7,12000.0,10,0.0
+GE-0160,Germany,HR & Ops,Junior,Hybrid,7.2,68384.0,8.34,6.18,6000.0,14,1.4796399044131805
+GE-0161,Germany,Product Management,Mid,Fully Remote,0.5,52471.0,7.21,7.1,12000.0,11,0.0
+GE-0162,Germany,HR & Ops,Mid,Hybrid,0.8,52557.0,6.0,9.12,6000.0,12,2.1536158392765117
+GE-0163,Germany,Product Management,Senior,Hybrid,4.9,69469.0,8.06,5.88,6000.0,11,1.1054879043244348
+GE-0164,Germany,Sales,Senior,Hybrid,0.5,64368.0,8.33,7.49,6000.0,9,1.8757997742858246
+GE-0165,Germany,Sales,Mid,Fully Remote,2.4,65426.0,7.67,7.44,12000.0,17,0.0
+GE-0166,Germany,Engineering,Mid,In-Office,2.0,55140.0,8.5,7.54,0.0,6,5.24539257067438
+GE-0167,Germany,Data & Analytics,Mid,Fully Remote,1.4,62005.0,8.0,7.06,12000.0,4,0.0
+GE-0168,Germany,Sales,Lead,Fully Remote,1.8,52985.0,7.55,6.25,12000.0,7,0.0
+GE-0169,Germany,Data & Analytics,Mid,Fully Remote,2.6,76573.0,6.92,5.56,12000.0,3,0.0
+GE-0170,Germany,Product Management,Lead,Hybrid,0.6,78458.0,5.61,7.53,6000.0,12,2.7301421987507877
+GE-0171,Germany,Sales,Senior,Hybrid,3.0,41000.0,8.12,5.79,6000.0,6,2.6963629965598943
+GE-0172,Germany,Data & Analytics,Mid,Fully Remote,5.7,52916.0,7.25,2.42,12000.0,5,0.0
+GE-0173,Germany,Data & Analytics,Senior,Hybrid,5.0,45545.0,7.93,8.05,6000.0,8,1.339518402785653
+GE-0174,Germany,HR & Ops,Manager,Fully Remote,0.6,56550.0,5.47,8.16,12000.0,7,0.0
+GE-0175,Germany,Engineering,Mid,Hybrid,0.6,63915.0,6.3,3.86,6000.0,11,2.0946493686789722
+GE-0176,Germany,Data & Analytics,Mid,Fully Remote,1.1,46155.0,8.26,5.29,12000.0,15,0.0
+GE-0177,Germany,Product Management,Mid,Hybrid,1.6,53016.0,7.55,8.33,6000.0,12,2.0306103759887533
+GE-0178,Germany,Data & Analytics,Mid,Hybrid,1.8,51949.0,8.42,10.0,6000.0,14,2.8124670388702775
+GE-0179,Germany,HR & Ops,Manager,In-Office,4.0,67694.0,7.23,6.53,0.0,15,7.303339108944425
+GE-0180,Germany,HR & Ops,Junior,Fully Remote,0.5,65901.0,7.04,5.71,12000.0,7,0.0
+GE-0181,Germany,Data & Analytics,Lead,Fully Remote,0.5,55617.0,8.13,6.53,12000.0,14,0.0
+GE-0182,Germany,HR & Ops,Lead,Fully Remote,1.7,67299.0,6.38,8.86,12000.0,17,0.0
+GE-0183,Germany,Sales,Mid,In-Office,4.2,57893.0,7.32,5.53,0.0,13,7.496244591446013
+GE-0184,Germany,Sales,Mid,In-Office,0.8,61468.0,6.65,5.3,0.0,16,4.548458555525945
+GE-0185,Germany,Data & Analytics,Mid,Fully Remote,3.6,86755.0,6.48,6.08,12000.0,9,0.0
+GE-0186,Germany,HR & Ops,Senior,Hybrid,1.1,82426.0,7.23,5.97,6000.0,17,2.250956120849323
+GE-0187,Germany,HR & Ops,Senior,In-Office,7.6,48105.0,7.47,6.68,0.0,3,4.045185186929611
+GE-0188,Germany,HR & Ops,Senior,Hybrid,7.9,75787.0,7.03,9.84,6000.0,7,2.991021936031733
+GE-0189,Germany,Sales,Mid,Hybrid,1.2,75548.0,9.11,7.88,6000.0,15,1.8856587407686483
+GE-0190,Germany,Sales,Junior,Fully Remote,0.9,50073.0,5.93,6.42,12000.0,16,0.0
+GE-0191,Germany,Sales,Manager,Fully Remote,1.9,75644.0,6.78,6.36,12000.0,10,0.0
+GE-0192,Germany,Sales,Mid,In-Office,1.0,84993.0,6.67,4.16,0.0,14,5.229127749135081
+GE-0193,Germany,Sales,Mid,In-Office,3.9,50407.0,8.94,7.82,0.0,3,3.433532837978201
+GE-0194,Germany,HR & Ops,Mid,Hybrid,6.1,53072.0,7.84,7.28,6000.0,6,1.7759455087957727
+GE-0195,Germany,Product Management,Junior,Fully Remote,3.9,78230.0,8.24,6.53,12000.0,16,0.0
+GE-0196,Germany,Data & Analytics,Senior,Fully Remote,6.1,68529.0,5.22,10.0,12000.0,12,0.0
+GE-0197,Germany,Sales,Senior,Hybrid,1.8,72169.0,7.92,7.85,6000.0,16,1.1984591921892935
+GE-0198,Germany,HR & Ops,Senior,In-Office,0.6,69428.0,8.27,5.37,0.0,9,6.504042090008701
+GE-0199,Germany,Sales,Manager,In-Office,4.7,70079.0,7.3,5.86,0.0,12,3.1622553839533785
+GE-0200,Germany,Sales,Mid,Hybrid,1.6,47756.0,8.88,9.12,6000.0,8,1.5655309141201972
+GE-0201,Germany,HR & Ops,Manager,Hybrid,3.9,78615.0,6.98,7.57,6000.0,17,2.2855548269598556
+GE-0202,Germany,HR & Ops,Manager,Fully Remote,1.1,80205.0,8.69,4.64,12000.0,14,0.0
+GE-0203,Germany,Data & Analytics,Lead,Fully Remote,0.5,62018.0,9.76,8.18,12000.0,5,0.0
+GE-0204,Germany,Engineering,Lead,In-Office,15.0,64435.0,6.76,5.5,0.0,4,6.704346341926089
+GE-0205,Germany,Engineering,Mid,Hybrid,0.6,45096.0,7.07,10.0,6000.0,11,2.1861123799347153
+GE-0206,Germany,Sales,Senior,Fully Remote,15.0,71685.0,8.74,8.42,12000.0,15,0.0
+GE-0207,Germany,Data & Analytics,Senior,Fully Remote,13.2,72437.0,8.9,6.13,12000.0,12,0.0
+GE-0208,Germany,HR & Ops,Junior,Hybrid,5.5,64192.0,6.97,9.32,6000.0,4,1.9486173297368605
+GE-0209,Germany,Data & Analytics,Junior,Fully Remote,3.8,79617.0,6.5,6.9,12000.0,13,0.0
+GE-0210,Germany,Product Management,Lead,Fully Remote,3.0,60657.0,6.66,8.08,12000.0,16,0.0
+GE-0211,Germany,Data & Analytics,Senior,Hybrid,7.0,72340.0,5.99,8.13,6000.0,12,2.195616026803028
+GE-0212,Germany,HR & Ops,Senior,Hybrid,1.2,51744.0,6.5,6.13,6000.0,11,2.170593656668623
+GE-0213,Germany,Data & Analytics,Manager,Hybrid,2.2,64694.0,6.4,6.43,6000.0,10,2.3226853578894486
+GE-0214,Germany,Product Management,Mid,Fully Remote,3.4,62733.0,6.08,8.34,12000.0,9,0.0
+GE-0215,Germany,Engineering,Senior,Hybrid,1.9,67929.0,7.56,6.9,6000.0,11,2.5956093626821453
+GE-0216,Germany,Product Management,Mid,Fully Remote,2.0,60196.0,7.28,6.19,12000.0,16,0.0
+GE-0217,Germany,HR & Ops,Mid,Fully Remote,1.4,63291.0,8.86,5.37,12000.0,5,0.0
+GE-0218,Germany,Engineering,Junior,Hybrid,2.9,75739.0,6.4,8.04,6000.0,11,2.993618361362218
+GE-0219,Germany,HR & Ops,Junior,Hybrid,6.7,59322.0,8.78,10.0,6000.0,9,1.060831761615936
+GE-0220,Germany,HR & Ops,Lead,In-Office,0.8,44114.0,6.94,4.9,0.0,17,4.103562929722093
+GE-0221,Germany,Sales,Junior,Hybrid,9.5,87745.0,7.54,7.44,6000.0,9,2.9436906026509693
+GE-0222,Germany,Sales,Mid,Hybrid,4.1,82959.0,8.41,9.52,6000.0,3,1.9388136839785162
+GE-0223,Germany,Sales,Senior,Fully Remote,6.1,48201.0,5.65,6.68,12000.0,15,0.0
+GE-0224,Germany,Data & Analytics,Junior,Fully Remote,2.8,73966.0,7.46,7.48,12000.0,6,0.0
+GE-0225,Germany,HR & Ops,Senior,Fully Remote,5.3,58461.0,7.2,5.21,12000.0,5,0.0
+GE-0226,Germany,Sales,Junior,Fully Remote,0.5,68425.0,7.59,7.44,12000.0,11,0.0
+GE-0227,Germany,HR & Ops,Junior,In-Office,6.0,68825.0,7.55,6.22,0.0,13,7.699621864428544
+GE-0228,Germany,Sales,Junior,Hybrid,0.5,61953.0,10.0,8.88,6000.0,12,1.658461230682789
+GE-0229,Germany,Sales,Mid,In-Office,7.7,54811.0,6.43,8.28,0.0,12,6.548356717522623
+GE-0230,Germany,HR & Ops,Senior,Hybrid,15.0,56023.0,6.96,10.0,6000.0,7,1.1933891195751343
+GE-0231,Germany,HR & Ops,Manager,Hybrid,1.2,53090.0,6.85,8.27,6000.0,16,1.3686027939001981
+GE-0232,Germany,Sales,Junior,Hybrid,0.8,54186.0,6.93,7.89,6000.0,3,2.5489712062395817
+GE-0233,Germany,Engineering,Junior,Hybrid,5.1,64127.0,6.84,7.69,6000.0,6,2.211793630358966
+GE-0234,Germany,Product Management,Junior,Hybrid,1.0,55695.0,9.03,6.87,6000.0,6,2.1238705070393267
+GE-0235,Germany,Sales,Senior,Fully Remote,7.0,73867.0,8.7,7.31,12000.0,3,0.0
+GE-0236,Germany,Sales,Senior,Hybrid,0.5,84334.0,6.92,6.96,6000.0,6,1.9539667852353075
+GE-0237,Germany,Data & Analytics,Mid,Fully Remote,0.5,57459.0,6.0,7.05,12000.0,11,0.0
+GE-0238,Germany,Engineering,Senior,Fully Remote,13.5,68112.0,7.57,8.78,12000.0,13,0.0
+GE-0239,Germany,Sales,Manager,Hybrid,3.9,71496.0,6.94,5.89,6000.0,10,2.8619972394251683
+GE-0240,Germany,HR & Ops,Mid,Fully Remote,6.6,71136.0,7.76,8.51,12000.0,8,0.0
+GE-0241,Germany,Engineering,Manager,In-Office,1.4,65987.0,7.44,8.48,0.0,10,5.361242494725793
+GE-0242,Germany,Engineering,Mid,In-Office,3.9,74655.0,5.38,6.32,0.0,3,7.993964679078273
+GE-0243,Germany,Product Management,Lead,In-Office,3.2,71269.0,9.06,3.32,0.0,5,3.412860790176386
+GE-0244,Germany,Product Management,Senior,Fully Remote,3.2,48910.0,9.16,5.89,12000.0,15,0.0
+GE-0245,Germany,Sales,Mid,Fully Remote,4.0,76299.0,6.26,8.75,12000.0,6,0.0
+GE-0246,Germany,HR & Ops,Junior,In-Office,3.0,76535.0,6.73,6.47,0.0,7,5.361132128781022
+GE-0247,Germany,Product Management,Mid,Hybrid,2.0,55077.0,7.94,5.9,6000.0,3,2.819190782221889
+GE-0248,Germany,Engineering,Senior,In-Office,1.1,65493.0,7.6,5.74,0.0,5,7.741847763944595
+GE-0249,Germany,Data & Analytics,Manager,In-Office,5.1,73883.0,7.99,7.76,0.0,6,6.9410046493335305
+GE-0250,Germany,Product Management,Mid,In-Office,0.9,62279.0,9.61,7.32,0.0,17,6.4416920577328245
+GE-0251,Germany,Product Management,Senior,Fully Remote,4.1,78949.0,6.79,6.44,12000.0,9,0.0
+GE-0252,Germany,Data & Analytics,Mid,Hybrid,0.9,95730.0,6.64,6.85,6000.0,13,1.4734306116897395
+GE-0253,Germany,HR & Ops,Junior,In-Office,3.4,54782.0,5.54,5.91,0.0,6,7.887282815919213
+GE-0254,Germany,Sales,Junior,Fully Remote,4.8,47046.0,6.12,5.42,12000.0,6,0.0
+GE-0255,Germany,Sales,Junior,Fully Remote,0.9,68950.0,6.96,9.22,12000.0,5,0.0
+GE-0256,Germany,Sales,Mid,Hybrid,0.5,74380.0,9.75,6.92,6000.0,11,2.336006501486028
+GE-0257,Germany,Data & Analytics,Mid,In-Office,0.5,61999.0,6.58,8.33,0.0,10,7.085955253633205
+GE-0258,Germany,Engineering,Lead,Hybrid,3.3,83892.0,7.87,9.68,6000.0,14,1.4792915699151132
+GE-0259,Germany,HR & Ops,Mid,Hybrid,6.6,47598.0,7.58,8.9,6000.0,15,2.0277330514265435
+GE-0260,Germany,Product Management,Mid,Fully Remote,0.5,74008.0,8.43,6.15,12000.0,14,0.0
+GE-0261,Germany,HR & Ops,Junior,Hybrid,4.6,57124.0,10.0,8.01,6000.0,3,2.501196913488253
+GE-0262,Germany,Data & Analytics,Mid,In-Office,1.5,87352.0,6.56,6.46,0.0,13,3.9270442518702717
+GE-0263,Germany,HR & Ops,Mid,Fully Remote,2.3,90903.0,6.41,5.44,12000.0,16,0.0
+GE-0264,Germany,Product Management,Senior,Hybrid,9.3,55033.0,8.85,7.89,6000.0,13,1.2789004724103203
+GE-0265,Germany,Sales,Junior,In-Office,1.4,57856.0,8.02,4.73,0.0,10,5.91552878639949
+GE-0266,Germany,Data & Analytics,Mid,Hybrid,2.2,76175.0,9.82,9.18,6000.0,4,1.262824765710537
+GE-0267,Germany,Product Management,Mid,Hybrid,0.5,59967.0,8.3,6.7,6000.0,13,2.4363358951210277
+GE-0268,Germany,Product Management,Manager,Hybrid,0.5,64410.0,7.17,7.7,6000.0,7,2.0279108933814163
+GE-0269,Germany,HR & Ops,Lead,Fully Remote,1.0,65330.0,7.71,7.22,12000.0,11,0.0
+GE-0270,Germany,HR & Ops,Mid,Fully Remote,0.5,40044.0,8.33,6.41,12000.0,13,0.0
+GE-0271,Germany,HR & Ops,Junior,In-Office,3.5,64820.0,8.18,7.38,0.0,9,3.2464724638220823
+GE-0272,Germany,Engineering,Mid,In-Office,1.9,56034.0,7.81,5.79,0.0,11,3.2395693395666685
+GE-0273,Germany,Data & Analytics,Mid,In-Office,2.8,58589.0,8.48,7.81,0.0,4,3.033982742930559
+GE-0274,Germany,HR & Ops,Manager,In-Office,0.7,83767.0,8.6,4.48,0.0,4,6.896825851675599
+GE-0275,Germany,HR & Ops,Manager,Hybrid,1.2,48665.0,9.26,7.59,6000.0,6,1.8102161091757134
+GE-0276,Germany,Engineering,Senior,Hybrid,3.8,75572.0,8.38,10.0,6000.0,14,1.7617807252493252
+GE-0277,Germany,Data & Analytics,Junior,Hybrid,11.8,61373.0,7.4,5.9,6000.0,8,2.972974803143459
+GE-0278,Germany,Product Management,Junior,Hybrid,0.5,61363.0,7.78,6.38,6000.0,14,2.374379992937353
+GE-0279,Germany,Data & Analytics,Mid,Hybrid,7.7,75275.0,9.05,8.17,6000.0,5,2.8756515999701344
+GE-0280,Germany,Data & Analytics,Junior,Hybrid,3.0,69421.0,6.62,7.67,6000.0,15,1.3981868398718513
+GE-0281,Germany,Engineering,Senior,In-Office,2.9,72418.0,7.64,7.03,0.0,10,7.388460894139241
+GE-0282,Germany,Data & Analytics,Mid,Fully Remote,2.4,77586.0,6.53,7.53,12000.0,3,0.0
+GE-0283,Germany,HR & Ops,Junior,Fully Remote,0.5,60693.0,7.03,7.75,12000.0,7,0.0
+GE-0284,Germany,Data & Analytics,Junior,Fully Remote,0.5,57041.0,8.53,8.46,12000.0,15,0.0
+GE-0285,Germany,Product Management,Junior,Hybrid,3.2,50893.0,7.83,8.01,6000.0,8,2.9529130588708203
+GE-0286,Germany,Product Management,Mid,Fully Remote,1.5,54270.0,7.06,6.44,12000.0,6,0.0
+GE-0287,Germany,Engineering,Mid,Hybrid,8.7,103338.0,5.97,8.41,6000.0,8,1.7173227260529182
+GE-0288,Germany,HR & Ops,Mid,Hybrid,1.8,81181.0,8.5,10.0,6000.0,15,2.716645877757716
+GE-0289,Germany,Sales,Mid,Fully Remote,0.5,47436.0,7.77,6.6,12000.0,3,0.0
+GE-0290,Germany,HR & Ops,Mid,Hybrid,4.4,47808.0,10.0,5.94,6000.0,5,2.27126399728008
+GE-0291,Germany,Data & Analytics,Junior,Fully Remote,1.2,71264.0,6.63,8.46,12000.0,6,0.0
+GE-0292,Germany,Data & Analytics,Mid,Fully Remote,2.6,72114.0,7.26,6.62,12000.0,13,0.0
+GE-0293,Germany,Product Management,Senior,In-Office,4.2,72135.0,7.5,3.24,0.0,17,3.6852640141407775
+GE-0294,Germany,Product Management,Mid,Fully Remote,8.1,61686.0,8.89,8.07,12000.0,12,0.0
+GE-0295,Germany,HR & Ops,Senior,Fully Remote,5.5,63369.0,6.89,6.0,12000.0,6,0.0
+GE-0296,Germany,Sales,Junior,Hybrid,3.9,69262.0,7.93,7.26,6000.0,7,2.1379663886082456
+GE-0297,Germany,Sales,Lead,Hybrid,4.0,66117.0,8.33,7.9,6000.0,3,1.7935786508291685
+GE-0298,Germany,Sales,Junior,Fully Remote,10.2,36149.0,7.22,7.09,12000.0,10,0.0
+GE-0299,Germany,Sales,Mid,Hybrid,1.2,62013.0,7.06,8.46,6000.0,16,2.7780012216293315
+GE-0300,Germany,Data & Analytics,Senior,Fully Remote,0.5,53932.0,7.23,6.15,12000.0,4,0.0
+GE-0301,Germany,Product Management,Junior,Fully Remote,1.1,67278.0,8.29,7.57,12000.0,13,0.0
+GE-0302,Germany,Sales,Mid,Hybrid,0.9,103808.0,6.37,7.01,6000.0,4,2.8592992154026566
+GE-0303,Germany,HR & Ops,Mid,Hybrid,3.8,69777.0,7.76,8.51,6000.0,4,1.892340875625393
+GE-0304,Germany,HR & Ops,Junior,Hybrid,3.5,60924.0,6.76,8.32,6000.0,3,1.9101512710407689
+GE-0305,Germany,Sales,Mid,Hybrid,3.2,76983.0,9.03,6.0,6000.0,16,2.551754508939386
+GE-0306,Germany,Data & Analytics,Lead,In-Office,0.5,71275.0,5.37,8.13,0.0,6,3.5698294355962057
+GE-0307,Germany,HR & Ops,Junior,Hybrid,4.6,70461.0,6.93,6.6,6000.0,10,2.1547068024393354
+GE-0308,Germany,HR & Ops,Mid,Fully Remote,1.4,72889.0,7.45,8.01,12000.0,4,0.0
+GE-0309,Germany,Sales,Junior,Hybrid,3.8,91735.0,9.48,7.95,6000.0,8,1.1705366832233548
+GE-0310,Germany,Sales,Mid,Fully Remote,2.8,50298.0,6.92,9.56,12000.0,17,0.0
+GE-0311,Germany,Data & Analytics,Mid,Hybrid,1.5,71157.0,6.93,7.06,6000.0,13,2.3832868039466364
+GE-0312,Germany,Data & Analytics,Junior,Fully Remote,0.5,52957.0,9.26,6.28,12000.0,8,0.0
+GE-0313,Germany,Product Management,Mid,Fully Remote,0.5,72222.0,5.26,6.77,12000.0,4,0.0
+GE-0314,Germany,Sales,Mid,In-Office,6.2,53057.0,4.56,6.05,0.0,13,7.553324976919442
+GE-0315,Germany,HR & Ops,Lead,In-Office,8.8,59574.0,7.73,7.7,0.0,15,6.711493783669722
+GE-0316,Germany,Sales,Junior,Hybrid,3.7,61164.0,7.0,4.98,6000.0,12,2.243037448068097
+GE-0317,Germany,Data & Analytics,Mid,Hybrid,0.5,77686.0,6.37,5.82,6000.0,12,2.7988250443346505
+GE-0318,Germany,Product Management,Mid,Fully Remote,1.8,76940.0,7.85,5.2,12000.0,9,0.0
+GE-0319,Germany,HR & Ops,Senior,Fully Remote,4.6,48806.0,7.29,8.23,12000.0,17,0.0
+GE-0320,Germany,Data & Analytics,Mid,Fully Remote,5.3,65714.0,6.32,9.37,12000.0,5,0.0
+GE-0321,Germany,Engineering,Manager,Hybrid,0.5,55775.0,6.06,7.24,6000.0,8,2.278215693989413
+GE-0322,Germany,Product Management,Mid,Hybrid,0.5,48639.0,8.65,7.15,6000.0,16,1.5271029589935556
+GE-0323,Germany,Sales,Manager,Hybrid,4.4,62179.0,8.38,7.51,6000.0,3,2.9963998153312352
+GE-0324,Germany,Product Management,Senior,Fully Remote,1.5,60990.0,6.88,8.54,12000.0,7,0.0
+GE-0325,Germany,Data & Analytics,Junior,In-Office,1.0,96547.0,9.42,5.11,0.0,13,6.404766457017881
+GE-0326,Germany,Product Management,Senior,Hybrid,0.5,70628.0,6.32,7.76,6000.0,5,2.078382159027266
+GE-0327,Germany,HR & Ops,Manager,Hybrid,2.7,47091.0,5.77,8.86,6000.0,11,2.503589174734513
+GE-0328,Germany,HR & Ops,Junior,Hybrid,6.7,57658.0,6.77,8.15,6000.0,5,1.194036436474179
+GE-0329,Germany,HR & Ops,Senior,Hybrid,11.1,78278.0,7.55,7.68,6000.0,12,1.1102030703176622
+GE-0330,Germany,Data & Analytics,Mid,Fully Remote,2.9,92150.0,7.29,8.3,12000.0,8,0.0
+GE-0331,Germany,Sales,Manager,Fully Remote,2.5,44382.0,6.71,2.75,12000.0,4,0.0
+GE-0332,Germany,HR & Ops,Mid,Hybrid,0.5,40561.0,8.02,8.42,6000.0,7,1.1321106156443201
+GE-0333,Germany,Engineering,Manager,Fully Remote,2.8,89323.0,5.5,5.82,12000.0,7,0.0
+GE-0334,Germany,Data & Analytics,Senior,Fully Remote,1.7,70065.0,8.73,4.05,12000.0,15,0.0
+GE-0335,Germany,Data & Analytics,Senior,Fully Remote,3.3,53712.0,6.9,7.57,12000.0,14,0.0
+GE-0336,Germany,Data & Analytics,Mid,Fully Remote,1.7,71950.0,8.34,8.86,12000.0,16,0.0
+GE-0337,Germany,Product Management,Junior,In-Office,1.0,30735.0,7.61,6.29,0.0,7,3.6984618630146935
+GE-0338,Germany,Sales,Mid,Hybrid,0.5,65044.0,8.15,8.83,6000.0,9,1.9879582982803758
+GE-0339,Germany,Data & Analytics,Senior,Hybrid,1.3,69262.0,8.28,9.82,6000.0,8,2.002080473969207
+GE-0340,Germany,Product Management,Junior,Fully Remote,0.5,77016.0,7.54,8.77,12000.0,11,0.0
+GE-0341,Germany,Product Management,Mid,Hybrid,0.7,51819.0,8.37,9.86,6000.0,3,2.1011412690827287
+GE-0342,Germany,Sales,Mid,Hybrid,15.0,66114.0,9.19,8.51,6000.0,8,2.641015008464218
+GE-0343,Germany,HR & Ops,Mid,Fully Remote,2.1,52969.0,7.24,6.91,12000.0,16,0.0
+GE-0344,Germany,Data & Analytics,Mid,Hybrid,2.7,68320.0,8.45,5.0,6000.0,11,1.1827064854471117
+GE-0345,Germany,Data & Analytics,Senior,Hybrid,7.2,53360.0,7.49,7.03,6000.0,8,1.373180193746335
+GE-0346,Germany,HR & Ops,Junior,Hybrid,15.0,59695.0,9.33,6.14,6000.0,7,1.114004775103868
+GE-0347,Germany,Engineering,Lead,Hybrid,3.1,52054.0,6.79,10.0,6000.0,8,1.098009289942547
+GE-0348,Germany,Sales,Mid,Fully Remote,5.9,73465.0,9.16,6.54,12000.0,11,0.0
+GE-0349,Germany,Engineering,Senior,Fully Remote,1.4,76160.0,6.95,6.98,12000.0,10,0.0
+GE-0350,Germany,Sales,Junior,Hybrid,1.3,61950.0,5.88,8.23,6000.0,5,1.5208062175758168
+GE-0351,Germany,HR & Ops,Senior,Hybrid,1.8,65497.0,7.75,7.47,6000.0,9,2.3738828700070207
+GE-0352,Germany,Data & Analytics,Junior,In-Office,3.9,46168.0,6.38,9.04,0.0,6,4.418989715207745
+GE-0353,Germany,Data & Analytics,Junior,Hybrid,4.0,61104.0,8.61,6.47,6000.0,11,2.51847795931399
+GE-0354,Germany,Product Management,Manager,Fully Remote,1.3,64347.0,6.22,7.09,12000.0,12,0.0
+GE-0355,Germany,Data & Analytics,Junior,Fully Remote,0.5,99070.0,6.46,5.69,12000.0,8,0.0
+GE-0356,Germany,Sales,Lead,Hybrid,3.5,50544.0,5.33,5.42,6000.0,15,1.6446496489388498
+GE-0357,Germany,Sales,Senior,Fully Remote,0.5,84034.0,6.46,5.88,12000.0,12,0.0
+GE-0358,Germany,Data & Analytics,Lead,Hybrid,3.0,77959.0,4.69,7.34,6000.0,14,2.34566337984086
+GE-0359,Germany,HR & Ops,Lead,In-Office,4.1,68648.0,5.3,5.86,0.0,6,6.202236369966265
+GE-0360,Germany,Engineering,Mid,Hybrid,4.2,87862.0,8.51,6.36,6000.0,7,1.0668471448710075
+GE-0361,Germany,Engineering,Junior,Hybrid,4.9,69837.0,8.54,5.29,6000.0,16,2.5491441663487295
+GE-0362,Germany,HR & Ops,Junior,Hybrid,7.2,70059.0,8.11,7.28,6000.0,15,1.4234287442959417
+GE-0363,Germany,Data & Analytics,Senior,Hybrid,2.4,64309.0,6.44,5.14,6000.0,14,1.4445655332771705
+GE-0364,Germany,Product Management,Senior,Hybrid,4.6,80906.0,7.54,8.54,6000.0,8,2.79015311832369
+GE-0365,Germany,Engineering,Mid,In-Office,3.4,79254.0,7.2,6.62,0.0,3,6.774137291811656
+GE-0366,Germany,Product Management,Lead,Hybrid,0.7,56866.0,6.21,5.21,6000.0,7,1.810943352660837
+GE-0367,Germany,Data & Analytics,Junior,In-Office,0.5,47850.0,9.0,6.04,0.0,4,4.474086191733834
+GE-0368,Germany,Data & Analytics,Junior,In-Office,1.2,62361.0,8.25,5.37,0.0,9,4.261613721318726
+GE-0369,Germany,Product Management,Mid,Fully Remote,2.0,54599.0,6.73,7.28,12000.0,3,0.0
+GE-0370,Germany,Data & Analytics,Junior,Fully Remote,3.4,64174.0,7.03,8.81,12000.0,17,0.0
+GE-0371,Germany,Data & Analytics,Lead,Fully Remote,6.6,81087.0,7.25,3.99,12000.0,9,0.0
+GE-0372,Germany,HR & Ops,Mid,Fully Remote,0.8,59055.0,4.55,6.97,12000.0,7,0.0
+GE-0373,Germany,HR & Ops,Junior,Fully Remote,0.5,64443.0,6.7,6.56,12000.0,15,0.0
+GE-0374,Germany,Engineering,Mid,Hybrid,11.6,65754.0,6.78,8.41,6000.0,5,1.6074700924501988
+GE-0375,Germany,HR & Ops,Junior,Fully Remote,0.5,76030.0,5.8,7.12,12000.0,11,0.0
+GE-0376,Germany,Data & Analytics,Mid,Fully Remote,2.3,35790.0,6.66,5.67,12000.0,7,0.0
+GE-0377,Germany,Product Management,Junior,In-Office,3.1,57113.0,9.36,6.02,0.0,13,6.668214201822242
+GE-0378,Germany,Sales,Junior,Fully Remote,2.7,67747.0,7.77,5.61,12000.0,6,0.0
+GE-0379,Germany,HR & Ops,Manager,In-Office,0.5,80601.0,6.51,8.11,0.0,7,3.8246701342636555
+GE-0380,Germany,Engineering,Mid,Fully Remote,0.5,58605.0,7.69,6.83,12000.0,4,0.0
+GE-0381,Germany,Sales,Junior,Fully Remote,0.5,40605.0,8.68,9.65,12000.0,14,0.0
+GE-0382,Germany,Sales,Junior,Hybrid,3.1,73056.0,8.71,7.31,6000.0,7,1.8619674576964063
+GE-0383,Germany,HR & Ops,Senior,Hybrid,2.8,56740.0,7.67,6.34,6000.0,11,1.8495666830483726
+GE-0384,Germany,Engineering,Junior,In-Office,0.9,49534.0,6.42,4.23,0.0,6,3.034203740741818
+GE-0385,Germany,Product Management,Senior,Hybrid,3.6,56884.0,8.44,4.7,6000.0,12,2.373357223448259
+GE-0386,Germany,Product Management,Senior,In-Office,6.0,62601.0,7.67,4.12,0.0,5,4.118063098963324
+GE-0387,Germany,Product Management,Lead,Fully Remote,0.5,57138.0,8.07,7.2,12000.0,6,0.0
+GE-0388,Germany,HR & Ops,Mid,Fully Remote,2.4,36328.0,7.76,7.56,12000.0,16,0.0
+GE-0389,Germany,HR & Ops,Mid,Hybrid,4.1,76662.0,8.86,5.03,6000.0,3,1.1966898431804263
+GE-0390,Germany,Data & Analytics,Manager,In-Office,1.0,81573.0,6.56,7.84,0.0,7,7.37371824828283
+GE-0391,Germany,Engineering,Senior,In-Office,1.3,73470.0,8.78,5.78,0.0,6,3.3364230646075725
+GE-0392,Germany,Engineering,Mid,Hybrid,3.3,50210.0,7.84,7.62,6000.0,15,2.2663573497915444
+GE-0393,Germany,Engineering,Mid,Fully Remote,8.0,62381.0,9.49,9.22,12000.0,10,0.0
+GE-0394,Germany,Data & Analytics,Junior,Hybrid,5.8,64915.0,6.77,8.75,6000.0,15,1.5991126392297945
+GE-0395,Germany,Data & Analytics,Junior,Fully Remote,3.1,72784.0,9.08,6.4,12000.0,14,0.0
+GE-0396,Germany,Product Management,Senior,In-Office,4.6,73688.0,7.44,5.16,0.0,5,7.342764153929188
+GE-0397,Germany,Data & Analytics,Junior,In-Office,1.6,55456.0,6.42,3.27,0.0,15,5.89798363706337
+GE-0398,Germany,Data & Analytics,Mid,Hybrid,3.6,66066.0,7.02,6.32,6000.0,12,1.0140858292482837
+GE-0399,Germany,Engineering,Junior,Hybrid,2.2,70945.0,7.22,7.08,6000.0,6,1.8274120638200608
+GE-0400,Germany,Engineering,Manager,Hybrid,0.7,83926.0,8.11,5.92,6000.0,7,1.1679251268934534
+GE-0401,Germany,Data & Analytics,Senior,Fully Remote,4.2,74159.0,7.63,6.6,12000.0,8,0.0
+GE-0402,Germany,Sales,Manager,In-Office,2.8,75258.0,6.51,6.62,0.0,11,3.3088119314509985
+GE-0403,Germany,Engineering,Mid,Hybrid,1.6,66090.0,7.57,7.06,6000.0,16,1.4264078627782701
+GE-0404,Germany,Sales,Lead,In-Office,8.5,83336.0,9.77,5.52,0.0,11,4.303308274164683
+GE-0405,Germany,Engineering,Mid,Fully Remote,0.5,70327.0,9.07,7.05,12000.0,16,0.0
+GE-0406,Germany,Product Management,Senior,In-Office,1.3,53806.0,7.72,7.16,0.0,11,6.544821335618887
+GE-0407,Germany,HR & Ops,Junior,Hybrid,0.5,83244.0,7.65,5.76,6000.0,9,1.5629546049018388
+GE-0408,Germany,Sales,Junior,Fully Remote,5.1,74073.0,7.14,8.92,12000.0,14,0.0
+GE-0409,Germany,HR & Ops,Senior,In-Office,4.2,59240.0,7.94,6.35,0.0,4,4.5294740663076
+GE-0410,Germany,Sales,Mid,Fully Remote,1.4,58767.0,5.77,6.83,12000.0,14,0.0
+GE-0411,Germany,Data & Analytics,Senior,Fully Remote,3.9,68855.0,6.69,7.86,12000.0,13,0.0
+GE-0412,Germany,Engineering,Senior,In-Office,1.8,71021.0,5.2,6.85,0.0,16,3.353483040921831
+GE-0413,Germany,Product Management,Manager,In-Office,4.9,67565.0,7.68,7.93,0.0,12,6.174648650588718
+GE-0414,Germany,Sales,Mid,Hybrid,2.1,69047.0,8.38,7.83,6000.0,14,2.190829603240217
+GE-0415,Germany,Data & Analytics,Lead,Hybrid,1.9,87099.0,7.02,6.48,6000.0,6,2.2086088396429577
+GE-0416,Germany,Data & Analytics,Mid,Hybrid,9.6,78930.0,9.49,7.94,6000.0,7,2.2535410388344435
+GE-0417,Germany,HR & Ops,Junior,Fully Remote,1.0,67478.0,5.53,5.08,12000.0,8,0.0
+GE-0418,Germany,Sales,Junior,Fully Remote,0.5,77237.0,5.24,6.96,12000.0,4,0.0
+GE-0419,Germany,Product Management,Senior,Hybrid,3.1,51577.0,7.87,7.35,6000.0,14,2.243961580187748
+GE-0420,Germany,Data & Analytics,Junior,Hybrid,12.2,70173.0,8.86,7.09,6000.0,11,1.3846927263078301
+GE-0421,Germany,Engineering,Senior,Hybrid,1.7,88521.0,9.62,7.21,6000.0,13,2.5247224274143454
+GE-0422,Germany,Product Management,Junior,Hybrid,0.5,62165.0,7.05,4.58,6000.0,10,2.2642402438313027
+GE-0423,Germany,Product Management,Mid,Fully Remote,1.5,53981.0,8.29,5.98,12000.0,4,0.0
+GE-0424,Germany,Data & Analytics,Senior,Hybrid,2.5,56523.0,7.55,7.54,6000.0,14,2.4361363224017216
+GE-0425,Germany,Product Management,Lead,Fully Remote,0.6,50835.0,6.79,7.04,12000.0,3,0.0
+GE-0426,Germany,Data & Analytics,Junior,Hybrid,3.8,54798.0,8.66,5.86,6000.0,10,1.4734409517076659
+GE-0427,Germany,HR & Ops,Junior,Hybrid,15.0,60183.0,8.38,9.3,6000.0,3,1.8312555640583104
+GE-0428,Germany,Sales,Junior,In-Office,2.1,46728.0,5.31,5.2,0.0,13,5.2404274364153824
+GE-0429,Germany,Product Management,Senior,Fully Remote,1.5,65203.0,8.77,8.25,12000.0,7,0.0
+GE-0430,Germany,Data & Analytics,Mid,Fully Remote,1.8,76730.0,8.66,7.44,12000.0,9,0.0
+GE-0431,Germany,Engineering,Mid,Fully Remote,0.5,53199.0,6.25,5.83,12000.0,3,0.0
+GE-0432,Germany,Engineering,Senior,Hybrid,7.5,84751.0,8.07,10.0,6000.0,3,2.7379182100417925
+GE-0433,Germany,Data & Analytics,Mid,Hybrid,1.9,71640.0,8.19,5.61,6000.0,10,2.1882727829551025
+GE-0434,Germany,Engineering,Mid,Fully Remote,1.7,78398.0,7.31,8.18,12000.0,12,0.0
+GE-0435,Germany,Engineering,Mid,Fully Remote,3.8,56448.0,6.34,8.3,12000.0,15,0.0
+GE-0436,Germany,Data & Analytics,Lead,Hybrid,2.0,76109.0,6.79,6.39,6000.0,8,1.926398872617841
+GE-0437,Germany,Data & Analytics,Mid,Fully Remote,3.7,50805.0,6.97,8.89,12000.0,5,0.0
+GE-0438,Germany,Product Management,Junior,In-Office,0.5,76573.0,8.61,6.12,0.0,9,3.7471812925914714
+GE-0439,Germany,Engineering,Senior,Hybrid,5.9,67234.0,8.25,7.83,6000.0,11,1.3632628437576437
+GE-0440,Germany,Product Management,Junior,Fully Remote,9.9,72192.0,6.56,7.19,12000.0,6,0.0
+GE-0441,Germany,Data & Analytics,Lead,Fully Remote,3.7,49717.0,7.93,6.6,12000.0,4,0.0
+GE-0442,Germany,Product Management,Manager,In-Office,10.8,53364.0,3.78,7.72,0.0,5,5.586360848771553
+GE-0443,Germany,Data & Analytics,Manager,Fully Remote,0.6,72764.0,8.38,7.99,12000.0,8,0.0
+GE-0444,Germany,Engineering,Senior,Fully Remote,2.3,52671.0,4.91,4.18,12000.0,4,0.0
+GE-0445,Germany,Engineering,Junior,In-Office,3.2,71022.0,6.77,8.46,0.0,7,7.822441125119271
+GE-0446,Germany,Engineering,Senior,In-Office,3.1,47227.0,5.86,4.01,0.0,7,7.864220793300112
+GE-0447,Germany,HR & Ops,Senior,In-Office,1.8,76026.0,5.65,8.05,0.0,4,3.502287748404842
+GE-0448,Germany,Engineering,Mid,Hybrid,1.4,48977.0,8.99,9.09,6000.0,15,1.8137968627812557
+GE-0449,Germany,Product Management,Mid,Fully Remote,0.5,72180.0,6.44,5.16,12000.0,13,0.0
+GE-0450,Germany,Data & Analytics,Junior,Fully Remote,1.7,73133.0,7.42,6.18,12000.0,5,0.0
+GE-0451,Germany,HR & Ops,Junior,Hybrid,0.6,55942.0,7.54,5.74,6000.0,11,1.0393029654936956
+GE-0452,Germany,Data & Analytics,Junior,Hybrid,4.6,72566.0,8.17,7.08,6000.0,5,1.6770137588509457
+GE-0453,Germany,Data & Analytics,Senior,Hybrid,0.8,68386.0,7.69,6.94,6000.0,5,1.815875636735682
+GE-0454,Germany,Sales,Junior,In-Office,0.5,57995.0,5.66,7.67,0.0,16,6.710112259398802
+GE-0455,Germany,Engineering,Junior,Fully Remote,2.8,51889.0,8.2,8.77,12000.0,8,0.0
+GE-0456,Germany,Data & Analytics,Lead,Hybrid,3.2,39486.0,7.01,9.49,6000.0,8,2.5394628365937604
+GE-0457,Germany,Engineering,Junior,Fully Remote,7.2,69545.0,5.13,5.96,12000.0,13,0.0
+GE-0458,Germany,Data & Analytics,Junior,Hybrid,3.0,44658.0,7.09,7.09,6000.0,9,2.54367207046022
+GE-0459,Germany,HR & Ops,Junior,Fully Remote,1.5,66239.0,8.8,4.27,12000.0,3,0.0
+GE-0460,Germany,Product Management,Junior,Fully Remote,5.7,61575.0,8.02,5.59,12000.0,6,0.0
+GE-0461,Germany,Product Management,Lead,Fully Remote,2.7,73829.0,6.58,8.25,12000.0,14,0.0
+GE-0462,Germany,Data & Analytics,Junior,Hybrid,0.5,61073.0,7.18,9.82,6000.0,8,2.936417681725811
+GE-0463,Germany,Sales,Mid,Hybrid,2.9,60717.0,7.21,5.55,6000.0,13,1.3657861061373373
+GE-0464,Germany,Product Management,Junior,Hybrid,8.4,74514.0,10.0,6.51,6000.0,10,2.929857203003652
+GE-0465,Germany,Sales,Manager,In-Office,1.8,69356.0,7.66,6.46,0.0,14,3.22294046367072
+GE-0466,Germany,Engineering,Junior,Fully Remote,1.2,69110.0,7.52,7.22,12000.0,11,0.0
+GE-0467,Germany,Product Management,Manager,Fully Remote,0.5,71100.0,8.24,5.59,12000.0,9,0.0
+GE-0468,Germany,Sales,Lead,In-Office,0.6,45038.0,7.49,7.14,0.0,7,7.766581861004803
+GE-0469,Germany,Sales,Mid,Fully Remote,2.0,74838.0,6.69,6.09,12000.0,17,0.0
+GE-0470,Germany,Sales,Junior,In-Office,3.2,72962.0,6.96,6.48,0.0,4,3.6279105135508036
+GE-0471,Germany,Engineering,Senior,Fully Remote,0.5,51783.0,6.91,7.62,12000.0,8,0.0
+GE-0472,Germany,Engineering,Junior,In-Office,9.8,61827.0,7.16,6.51,0.0,3,5.6826280419672415
+GE-0473,Germany,Sales,Lead,Fully Remote,4.9,64489.0,7.87,6.15,12000.0,14,0.0
+GE-0474,Germany,Engineering,Junior,In-Office,3.1,63252.0,7.26,6.34,0.0,5,5.5918273166766035
+GE-0475,Germany,Sales,Senior,Hybrid,6.2,69340.0,8.48,7.27,6000.0,9,1.5063978140256205
+GE-0476,Germany,Product Management,Senior,In-Office,0.5,83608.0,7.1,5.94,0.0,6,5.509347655122518
+GE-0477,Germany,Engineering,Junior,Fully Remote,2.3,79063.0,7.09,6.41,12000.0,4,0.0
+GE-0478,Germany,HR & Ops,Mid,Hybrid,3.5,47941.0,5.2,9.8,6000.0,4,1.5213503154811872
+GE-0479,Germany,Sales,Lead,In-Office,6.2,73087.0,8.3,7.34,0.0,9,7.815470654489013
+GE-0480,Germany,HR & Ops,Junior,Hybrid,5.4,82276.0,8.02,6.96,6000.0,4,1.0318405345255972
+GE-0481,Germany,Data & Analytics,Senior,Hybrid,1.1,70029.0,8.8,8.45,6000.0,13,2.8057360468643004
+GE-0482,Germany,HR & Ops,Junior,Hybrid,9.9,79183.0,4.12,6.9,6000.0,7,1.47136506915177
+GE-0483,Germany,Engineering,Senior,Hybrid,0.5,91160.0,10.0,9.16,6000.0,4,1.25360359825352
+GE-0484,Germany,HR & Ops,Senior,Hybrid,7.3,78308.0,7.43,7.95,6000.0,14,1.578273436837522
+GE-0485,Germany,Product Management,Junior,Hybrid,12.4,68241.0,8.93,7.24,6000.0,4,1.9065349215100427
+GE-0486,Germany,Sales,Junior,In-Office,0.7,78586.0,5.95,7.17,0.0,3,3.3946492751920614
+GE-0487,Germany,Sales,Manager,Fully Remote,4.5,66884.0,7.74,4.44,12000.0,11,0.0
+GE-0488,Germany,Product Management,Manager,Fully Remote,0.5,65311.0,5.74,5.11,12000.0,16,0.0
+GE-0489,Germany,Sales,Mid,In-Office,1.8,60432.0,6.45,4.71,0.0,5,6.984307851380955
+GE-0490,Germany,Sales,Lead,In-Office,2.5,85324.0,9.5,6.71,0.0,16,7.233925009348727
+GE-0491,Germany,Data & Analytics,Senior,Hybrid,3.0,54360.0,7.37,10.0,6000.0,15,2.452122652124949
+GE-0492,Germany,Product Management,Junior,Hybrid,9.6,84921.0,7.86,10.0,6000.0,5,2.209148220516484
+GE-0493,Germany,Data & Analytics,Mid,Fully Remote,3.9,71498.0,8.04,7.76,12000.0,6,0.0
+GE-0494,Germany,Data & Analytics,Junior,Fully Remote,2.3,46809.0,7.59,7.55,12000.0,7,0.0
+GE-0495,Germany,Product Management,Mid,Hybrid,5.8,69779.0,7.78,4.7,6000.0,12,1.3410760977964518
+GE-0496,Germany,Engineering,Junior,Fully Remote,10.5,37700.0,7.44,5.99,12000.0,5,0.0
+GE-0497,Germany,Data & Analytics,Mid,Hybrid,0.5,73132.0,10.0,6.22,6000.0,16,1.7131178423537774
+GE-0498,Germany,Engineering,Senior,Fully Remote,14.2,76508.0,6.93,5.87,12000.0,13,0.0
+GE-0499,Germany,HR & Ops,Mid,In-Office,0.5,57299.0,7.44,6.25,0.0,11,5.487582134372168
+GE-0500,Germany,Product Management,Senior,In-Office,5.9,66606.0,8.46,5.79,0.0,4,3.3831120099610135
+GE-0501,Germany,Sales,Junior,Hybrid,1.2,90404.0,8.93,4.43,6000.0,5,1.9785585221032063
+GE-0502,Germany,Engineering,Senior,Hybrid,0.5,58425.0,9.02,8.52,6000.0,7,1.4099584656518216
+GE-0503,Germany,Data & Analytics,Senior,Fully Remote,2.0,51234.0,7.77,5.19,12000.0,15,0.0
+GE-0504,Germany,Data & Analytics,Lead,In-Office,3.6,84262.0,5.83,6.86,0.0,12,7.371990158541654
+GE-0505,Germany,Data & Analytics,Mid,Hybrid,1.7,90514.0,9.56,10.0,6000.0,13,2.811823342469295
+GE-0506,Germany,Data & Analytics,Mid,Fully Remote,0.5,65048.0,5.62,5.42,12000.0,16,0.0
+GE-0507,Germany,HR & Ops,Junior,In-Office,3.2,78149.0,7.56,2.7,0.0,10,7.718831911060072
+GE-0508,Germany,Product Management,Mid,In-Office,8.1,82439.0,6.29,6.07,0.0,6,5.724123378367159
+GE-0509,Germany,Data & Analytics,Lead,In-Office,1.7,55348.0,7.12,8.15,0.0,11,6.294509032874286
+GE-0510,Germany,HR & Ops,Senior,Hybrid,0.9,58691.0,7.99,10.0,6000.0,8,1.1040475100588938
+GE-0511,Germany,Sales,Junior,Hybrid,2.0,81001.0,7.99,5.56,6000.0,13,2.9989213621193462
+GE-0512,Germany,Engineering,Senior,Hybrid,0.5,86905.0,8.11,8.15,6000.0,6,2.455072854460285
+GE-0513,Germany,Product Management,Junior,In-Office,6.0,72317.0,9.14,5.8,0.0,17,6.334828517435909
+GE-0514,Germany,Sales,Senior,In-Office,6.1,53562.0,7.74,6.34,0.0,4,3.974983687605099
+GE-0515,Germany,HR & Ops,Junior,Fully Remote,3.1,90832.0,6.71,10.0,12000.0,17,0.0
+GE-0516,Germany,HR & Ops,Mid,Fully Remote,1.5,58097.0,8.16,4.55,12000.0,4,0.0
+GE-0517,Germany,Product Management,Lead,Fully Remote,5.6,60643.0,8.43,7.18,12000.0,13,0.0
+GE-0518,Germany,HR & Ops,Mid,In-Office,2.8,69450.0,5.73,7.2,0.0,13,6.701891484705099
+GE-0519,Germany,Product Management,Senior,In-Office,6.1,85204.0,7.92,8.13,0.0,9,3.4762446698643474
+GE-0520,Germany,Data & Analytics,Senior,Fully Remote,3.5,76102.0,7.84,6.95,12000.0,5,0.0
+GE-0521,Germany,Product Management,Senior,Hybrid,5.4,70393.0,7.24,7.86,6000.0,14,1.3467921324122387
+GE-0522,Germany,HR & Ops,Senior,Hybrid,3.2,71023.0,9.25,6.81,6000.0,11,2.4867057911400248
+GE-0523,Germany,Product Management,Manager,In-Office,1.9,65566.0,7.02,6.9,0.0,8,5.467399990364388
+GE-0524,Germany,HR & Ops,Mid,In-Office,11.1,72256.0,7.35,5.99,0.0,4,6.649617596429105
+GE-0525,Germany,Sales,Mid,In-Office,2.7,32116.0,6.99,7.43,0.0,16,5.250320852078791
+GE-0526,Germany,Engineering,Manager,Hybrid,3.3,61144.0,7.62,6.85,6000.0,7,2.299085917207321
+GE-0527,Germany,Data & Analytics,Junior,Hybrid,0.9,68137.0,6.28,7.97,6000.0,5,1.558678970553119
+GE-0528,Germany,Engineering,Lead,Fully Remote,3.4,50037.0,5.27,6.76,12000.0,4,0.0
+GE-0529,Germany,Product Management,Lead,Fully Remote,3.0,70022.0,8.91,8.49,12000.0,14,0.0
+GE-0530,Germany,Sales,Mid,In-Office,0.7,62342.0,6.18,6.42,0.0,17,5.967482079109257
+GE-0531,Germany,Engineering,Mid,In-Office,0.5,87821.0,6.01,3.84,0.0,16,7.850584432092161
+GE-0532,Germany,HR & Ops,Junior,In-Office,3.2,85449.0,4.62,8.39,0.0,16,4.800498153910566
+GE-0533,Germany,Product Management,Junior,In-Office,5.0,58945.0,6.43,5.14,0.0,7,3.5047081277819943
+GE-0534,Germany,Data & Analytics,Manager,Hybrid,2.6,63039.0,6.01,6.42,6000.0,17,2.383854726533184
+GE-0535,Germany,Engineering,Manager,Hybrid,0.9,64039.0,9.57,6.51,6000.0,14,1.4186121516684171
+GE-0536,Germany,HR & Ops,Senior,In-Office,3.8,59128.0,8.41,8.56,0.0,9,5.012631777450711
+GE-0537,Germany,Data & Analytics,Mid,In-Office,0.5,67535.0,6.37,3.3,0.0,12,3.4520948889583036
+GE-0538,Germany,Sales,Manager,Fully Remote,2.0,55142.0,9.7,10.0,12000.0,13,0.0
+GE-0539,Germany,Data & Analytics,Mid,Hybrid,0.6,50302.0,8.78,8.98,6000.0,14,1.1024485928086265
+GE-0540,Germany,Data & Analytics,Lead,Fully Remote,0.7,73095.0,6.61,7.13,12000.0,7,0.0
+GE-0541,Germany,HR & Ops,Mid,In-Office,0.8,73184.0,4.2,6.42,0.0,7,3.5241787360299566
+GE-0542,Germany,Data & Analytics,Junior,Hybrid,1.7,54544.0,10.0,7.83,6000.0,9,2.131484052141803
+GE-0543,Germany,Data & Analytics,Junior,Fully Remote,0.5,76640.0,5.33,7.58,12000.0,4,0.0
+GE-0544,Germany,HR & Ops,Lead,Hybrid,1.8,56789.0,5.63,8.37,6000.0,9,1.2116100497130284
+GE-0545,Germany,Sales,Junior,Hybrid,2.5,68291.0,8.83,8.23,6000.0,6,1.1408107248050283
+GE-0546,Germany,HR & Ops,Mid,Fully Remote,2.3,75664.0,9.93,6.93,12000.0,9,0.0
+GE-0547,Germany,HR & Ops,Junior,Fully Remote,1.7,64563.0,8.66,6.5,12000.0,14,0.0
+GE-0548,Germany,Data & Analytics,Manager,Hybrid,6.4,70912.0,8.28,7.17,6000.0,5,2.2884260319792356
+GE-0549,Germany,Product Management,Mid,Hybrid,0.5,58286.0,8.31,7.11,6000.0,9,2.7879461149250093
+GE-0550,Germany,Sales,Junior,Hybrid,2.5,62446.0,8.62,9.1,6000.0,4,2.088252003926202
+GE-0551,Germany,Data & Analytics,Mid,Hybrid,0.5,62324.0,8.51,8.29,6000.0,5,2.2134324039400077
+GE-0552,Germany,Sales,Senior,In-Office,0.5,55294.0,7.54,2.09,0.0,6,3.457131344308546
+GE-0553,Germany,Engineering,Mid,Hybrid,3.0,62702.0,7.73,8.38,6000.0,9,1.5743295302611149
+GE-0554,Germany,Product Management,Junior,Hybrid,2.9,44868.0,7.52,7.69,6000.0,17,1.7772618912142055
+GE-0555,Germany,Product Management,Senior,In-Office,7.4,58615.0,6.3,6.47,0.0,7,6.365556740622644
+GE-0556,Germany,Engineering,Lead,Hybrid,2.9,61297.0,7.26,6.82,6000.0,5,2.7030743437958513
+GE-0557,Germany,Product Management,Junior,Fully Remote,11.2,61670.0,4.97,8.49,12000.0,4,0.0
+GE-0558,Germany,Product Management,Lead,Fully Remote,0.5,61861.0,6.88,8.22,12000.0,14,0.0
+GE-0559,Germany,Product Management,Mid,Hybrid,0.5,64197.0,6.41,6.24,6000.0,14,2.2764488300812227
+GE-0560,Germany,Data & Analytics,Manager,Hybrid,0.5,71233.0,6.28,8.01,6000.0,4,1.9055086754174801
+GE-0561,Germany,Data & Analytics,Senior,Hybrid,0.7,76369.0,7.82,5.94,6000.0,9,2.550163600678238
+GE-0562,Germany,HR & Ops,Senior,Fully Remote,2.7,56553.0,8.67,4.73,12000.0,8,0.0
+GE-0563,Germany,HR & Ops,Mid,Fully Remote,3.6,49358.0,8.1,5.86,12000.0,15,0.0
+GE-0564,Germany,Product Management,Mid,Fully Remote,0.5,51453.0,5.12,8.09,12000.0,3,0.0
+GE-0565,Germany,Product Management,Mid,Fully Remote,10.2,58666.0,5.81,8.23,12000.0,16,0.0
+GE-0566,Germany,Sales,Junior,Hybrid,6.5,60425.0,8.73,8.17,6000.0,10,2.9331815404466335
+GE-0567,Germany,Data & Analytics,Mid,Hybrid,1.2,54990.0,6.42,8.49,6000.0,9,1.7788693601553465
+GE-0568,Germany,Sales,Manager,Hybrid,0.5,48150.0,7.33,8.17,6000.0,4,2.7625013633637794
+GE-0569,Germany,HR & Ops,Senior,In-Office,0.7,59070.0,7.86,5.54,0.0,16,6.622789545794092
+GE-0570,Germany,Product Management,Senior,Fully Remote,0.5,67359.0,5.84,7.45,12000.0,9,0.0
+GE-0571,Germany,Product Management,Senior,Hybrid,0.5,72735.0,7.73,8.6,6000.0,16,1.7647266621232558
+GE-0572,Germany,Sales,Mid,Hybrid,2.6,57754.0,6.0,8.53,6000.0,10,1.725731633990207
+GE-0573,Germany,HR & Ops,Lead,Hybrid,1.0,59631.0,6.88,9.18,6000.0,3,2.048509441075473
+GE-0574,Germany,HR & Ops,Senior,Hybrid,1.6,52953.0,7.98,8.46,6000.0,15,1.5550456098047851
+GE-0575,Germany,HR & Ops,Junior,In-Office,15.0,64591.0,5.29,7.03,0.0,15,5.885933381116544
+GE-0576,Germany,Sales,Junior,In-Office,4.0,53970.0,7.73,8.11,0.0,8,6.090514827808484
+GE-0577,Germany,Engineering,Mid,Fully Remote,10.4,72451.0,6.98,6.76,12000.0,6,0.0
+GE-0578,Germany,Engineering,Mid,In-Office,0.5,41784.0,7.86,5.18,0.0,10,3.966696168060261
+GE-0579,Germany,Engineering,Mid,Hybrid,1.7,60325.0,7.87,7.16,6000.0,13,1.9333663116617283
+GE-0580,Germany,Engineering,Junior,Fully Remote,2.8,68914.0,8.64,5.68,12000.0,11,0.0
+GE-0581,Germany,Product Management,Mid,Hybrid,0.5,67390.0,7.75,6.39,6000.0,6,2.0174119684325333
+GE-0582,Germany,Data & Analytics,Junior,In-Office,0.5,100009.0,6.68,6.28,0.0,10,3.8411828955424596
+GE-0583,Germany,HR & Ops,Lead,Hybrid,3.9,69547.0,7.75,6.21,6000.0,14,1.4949259624662927
+GE-0584,Germany,Sales,Senior,Fully Remote,3.6,51947.0,7.65,6.34,12000.0,8,0.0
+GE-0585,Germany,Product Management,Lead,Hybrid,1.9,63759.0,7.66,4.56,6000.0,6,1.1461701820523005
+GE-0586,Germany,Sales,Manager,Fully Remote,2.4,41909.0,7.05,7.12,12000.0,3,0.0
+GE-0587,Germany,Data & Analytics,Senior,Fully Remote,1.9,63952.0,6.16,6.8,12000.0,13,0.0
+GE-0588,Germany,HR & Ops,Junior,Fully Remote,0.5,54170.0,6.2,5.57,12000.0,13,0.0
+GE-0589,Germany,Data & Analytics,Mid,Fully Remote,1.4,76900.0,5.32,7.79,12000.0,12,0.0
+GE-0590,Germany,Engineering,Mid,Fully Remote,0.7,57856.0,9.1,8.21,12000.0,15,0.0
+GE-0591,Germany,Sales,Senior,Fully Remote,0.5,63482.0,5.51,4.39,12000.0,6,0.0
+GE-0592,Germany,Engineering,Mid,Hybrid,11.0,56738.0,6.77,6.26,6000.0,3,2.083193845596974
+GE-0593,Germany,Sales,Mid,Fully Remote,3.2,87605.0,6.14,5.65,12000.0,14,0.0
+GE-0594,Germany,Product Management,Senior,Fully Remote,4.6,60824.0,8.07,5.39,12000.0,10,0.0
+GE-0595,Germany,Engineering,Lead,In-Office,1.3,88823.0,6.85,7.74,0.0,14,6.07725710192203
+GE-0596,Germany,Product Management,Mid,Hybrid,1.7,75584.0,9.1,7.11,6000.0,9,2.4826174167015242
+GE-0597,Germany,Sales,Manager,Hybrid,0.9,71267.0,6.79,7.0,6000.0,13,1.212491416939121
+GE-0598,Germany,Sales,Mid,Fully Remote,0.5,69794.0,7.33,3.79,12000.0,11,0.0
+GE-0599,Germany,Product Management,Junior,Fully Remote,0.7,70119.0,6.0,7.75,12000.0,9,0.0
+GE-0600,Germany,Product Management,Manager,Fully Remote,5.6,39940.0,9.57,4.94,12000.0,9,0.0
+GE-0601,Germany,Sales,Lead,Fully Remote,4.0,61375.0,5.57,6.89,12000.0,8,0.0
+GE-0602,Germany,Engineering,Senior,Fully Remote,2.8,75987.0,7.37,7.22,12000.0,3,0.0
+GE-0603,Germany,Engineering,Manager,Fully Remote,2.3,64364.0,7.76,8.84,12000.0,16,0.0
+GE-0604,Germany,Product Management,Mid,Fully Remote,8.9,46733.0,7.5,4.84,12000.0,9,0.0
+GE-0605,Germany,HR & Ops,Lead,Fully Remote,0.5,64319.0,6.78,2.27,12000.0,3,0.0
+GE-0606,Germany,Product Management,Senior,Hybrid,1.2,87153.0,7.44,7.68,6000.0,4,2.746722235682876
+GE-0607,Germany,Engineering,Senior,Fully Remote,1.5,81210.0,7.05,9.5,12000.0,10,0.0
+GE-0608,Germany,Sales,Mid,Fully Remote,5.3,64194.0,6.82,8.66,12000.0,6,0.0
+GE-0609,Germany,Data & Analytics,Junior,Hybrid,15.0,77369.0,8.76,7.71,6000.0,14,2.7131439773666717
+GE-0610,Germany,Engineering,Junior,Hybrid,1.0,60235.0,10.0,6.66,6000.0,9,1.8495883626628236
+GE-0611,Germany,HR & Ops,Senior,Fully Remote,7.3,42850.0,6.33,8.01,12000.0,9,0.0
+GE-0612,Germany,Data & Analytics,Senior,Hybrid,6.2,52982.0,5.96,5.94,6000.0,8,2.9767411334431424
+GE-0613,Germany,Product Management,Junior,Hybrid,0.9,85318.0,7.49,8.11,6000.0,4,1.5245486436299698
+GE-0614,Germany,Engineering,Junior,Fully Remote,1.8,61438.0,10.0,7.56,12000.0,4,0.0
+GE-0615,Germany,Engineering,Mid,In-Office,1.8,61836.0,6.24,8.09,0.0,12,3.9043726221266817
+GE-0616,Germany,Product Management,Mid,In-Office,13.4,61102.0,9.17,10.0,0.0,11,5.575961130691068
+GE-0617,Germany,HR & Ops,Senior,Fully Remote,0.7,89754.0,9.01,7.39,12000.0,6,0.0
+GE-0618,Germany,Sales,Mid,Fully Remote,5.6,86137.0,6.34,6.04,12000.0,12,0.0
+GE-0619,Germany,Product Management,Lead,In-Office,1.4,93844.0,7.88,6.46,0.0,8,4.3443077248950335
+GE-0620,Germany,Product Management,Senior,Hybrid,4.6,62932.0,9.55,4.75,6000.0,16,2.190553682208109
+GE-0621,Germany,Data & Analytics,Manager,Fully Remote,1.9,68843.0,6.55,5.76,12000.0,8,0.0
+GE-0622,Germany,Engineering,Junior,Fully Remote,3.0,45284.0,6.76,6.19,12000.0,8,0.0
+GE-0623,Germany,HR & Ops,Lead,Fully Remote,6.3,84200.0,6.3,6.01,12000.0,9,0.0
+GE-0624,Germany,Data & Analytics,Mid,Hybrid,5.7,49819.0,6.38,7.63,6000.0,16,1.9983396665253235
+GE-0625,Germany,Engineering,Senior,Hybrid,7.0,67818.0,6.82,6.17,6000.0,13,1.0821647299111106
+GE-0626,Germany,Data & Analytics,Manager,Fully Remote,0.5,50735.0,5.53,8.48,12000.0,14,0.0
+GE-0627,Germany,Engineering,Manager,Hybrid,4.1,57345.0,7.64,7.4,6000.0,5,2.6229318783033637
+GE-0628,Germany,Data & Analytics,Lead,Hybrid,0.5,54116.0,6.68,7.39,6000.0,13,1.1411001274197892
+GE-0629,Germany,Product Management,Manager,Fully Remote,1.9,57098.0,7.28,6.31,12000.0,17,0.0
+GE-0630,Germany,Data & Analytics,Mid,Fully Remote,2.8,57991.0,5.13,7.03,12000.0,8,0.0
+GE-0631,Germany,Product Management,Mid,Hybrid,1.8,57873.0,8.0,8.64,6000.0,17,2.8493172191644938
+GE-0632,Germany,Sales,Senior,In-Office,2.6,75833.0,8.2,5.2,0.0,10,5.640888607115086
+GE-0633,Germany,Sales,Senior,Hybrid,15.0,50637.0,5.21,6.41,6000.0,5,1.9649861210553259
+GE-0634,Germany,Product Management,Mid,Hybrid,0.5,67867.0,8.05,6.94,6000.0,17,1.3896809833107282
+GE-0635,Germany,Data & Analytics,Mid,Fully Remote,3.9,80833.0,8.47,4.78,12000.0,13,0.0
+GE-0636,Germany,Engineering,Mid,Hybrid,1.8,58328.0,6.15,6.17,6000.0,15,1.5978523001966665
+GE-0637,Germany,Engineering,Mid,Hybrid,0.5,55667.0,9.61,6.69,6000.0,7,1.2612687631147195
+GE-0638,Germany,Engineering,Junior,Fully Remote,0.6,62003.0,7.5,8.11,12000.0,12,0.0
+GE-0639,Germany,Engineering,Manager,Fully Remote,10.4,80336.0,6.15,7.19,12000.0,9,0.0
+GE-0640,Germany,Engineering,Manager,Fully Remote,7.4,67523.0,6.93,7.09,12000.0,10,0.0
+GE-0641,Germany,Product Management,Junior,Fully Remote,8.3,58094.0,7.67,8.08,12000.0,5,0.0
+GE-0642,Germany,HR & Ops,Senior,Fully Remote,15.0,71290.0,7.09,6.59,12000.0,11,0.0
+GE-0643,Germany,Sales,Lead,Fully Remote,0.8,50670.0,7.65,7.39,12000.0,12,0.0
+GE-0644,Germany,Sales,Junior,Fully Remote,1.5,73858.0,5.9,6.65,12000.0,3,0.0
+GE-0645,Germany,HR & Ops,Junior,Fully Remote,3.9,70312.0,7.2,7.2,12000.0,13,0.0
+GE-0646,Germany,Sales,Junior,In-Office,2.3,60998.0,5.5,5.63,0.0,15,6.7361806901977515
+GE-0647,Germany,Engineering,Junior,Hybrid,1.9,54098.0,7.47,3.74,6000.0,9,2.254628274020525
+GE-0648,Germany,Sales,Senior,Hybrid,1.6,53473.0,6.52,7.2,6000.0,9,1.1333196596466122
+GE-0649,Germany,Engineering,Senior,Hybrid,3.2,71953.0,6.72,9.53,6000.0,14,2.6704881203177315
+GE-0650,Germany,Sales,Lead,Hybrid,3.0,80977.0,9.08,8.79,6000.0,11,2.8032624589727204
+GE-0651,Germany,Sales,Junior,Fully Remote,0.6,56715.0,8.31,8.25,12000.0,11,0.0
+GE-0652,Germany,Product Management,Senior,Hybrid,2.2,70959.0,8.33,9.25,6000.0,15,1.122687748967736
+GE-0653,Germany,Data & Analytics,Senior,Hybrid,2.8,37869.0,6.29,7.53,6000.0,12,2.9411093414569915
+GE-0654,Germany,Engineering,Manager,Hybrid,3.0,57400.0,7.22,7.7,6000.0,14,2.0380433871571118
+GE-0655,Germany,Engineering,Junior,Hybrid,0.8,64596.0,9.06,6.47,6000.0,17,2.343952275854102
+GE-0656,Germany,Data & Analytics,Senior,Fully Remote,4.7,53174.0,7.17,6.33,12000.0,13,0.0
+GE-0657,Germany,Engineering,Mid,Fully Remote,0.5,52825.0,9.78,7.72,12000.0,7,0.0
+GE-0658,Germany,HR & Ops,Mid,Fully Remote,1.5,56319.0,7.47,8.61,12000.0,5,0.0
+GE-0659,Germany,Data & Analytics,Junior,Hybrid,5.3,68799.0,7.83,7.19,6000.0,17,1.7325727724130444
+GE-0660,Germany,Sales,Mid,Hybrid,2.9,62565.0,7.23,6.72,6000.0,12,1.4803031920440284
+GE-0661,Germany,Sales,Junior,Fully Remote,1.1,35903.0,7.16,6.8,12000.0,9,0.0
+GE-0662,Germany,Sales,Junior,In-Office,4.2,37431.0,7.02,7.4,0.0,8,6.485065069671315
+GE-0663,Germany,Sales,Senior,Hybrid,2.9,57111.0,8.45,5.23,6000.0,9,1.8404992036150838
+GE-0664,Germany,HR & Ops,Mid,Fully Remote,5.6,70950.0,8.15,3.36,12000.0,10,0.0
+GE-0665,Germany,HR & Ops,Senior,Fully Remote,4.6,29282.0,6.06,5.97,12000.0,16,0.0
+GE-0666,Germany,HR & Ops,Mid,Fully Remote,3.3,58504.0,5.4,4.97,12000.0,10,0.0
+GE-0667,Germany,Product Management,Lead,Fully Remote,2.3,58159.0,4.8,6.04,12000.0,3,0.0
+GE-0668,Germany,Data & Analytics,Senior,Fully Remote,0.5,83048.0,7.61,6.58,12000.0,14,0.0
+GE-0669,Germany,Data & Analytics,Senior,Fully Remote,1.1,59995.0,5.68,6.12,12000.0,16,0.0
+GE-0670,Germany,Engineering,Mid,Fully Remote,1.9,69979.0,4.42,8.98,12000.0,3,0.0
+GE-0671,Germany,Sales,Junior,Fully Remote,3.2,66836.0,7.47,7.29,12000.0,13,0.0
+GE-0672,Germany,Engineering,Mid,In-Office,2.5,37303.0,10.0,6.95,0.0,10,6.475599079728837
+GE-0673,Germany,Product Management,Lead,Fully Remote,1.2,74987.0,6.99,7.73,12000.0,16,0.0
+GE-0674,Germany,Product Management,Mid,Hybrid,0.5,67800.0,8.61,5.69,6000.0,16,1.0582475699782106
+GE-0675,Germany,HR & Ops,Manager,Hybrid,2.4,71607.0,7.7,8.96,6000.0,3,1.892709158859852
+GE-0676,Germany,Sales,Senior,In-Office,1.2,116041.0,7.08,6.39,0.0,6,4.061387576427572
+GE-0677,Germany,Engineering,Mid,Fully Remote,4.6,37907.0,8.1,7.81,12000.0,12,0.0
+GE-0678,Germany,Data & Analytics,Junior,Hybrid,0.5,87421.0,7.25,5.79,6000.0,8,2.799201189526472
+GE-0679,Germany,HR & Ops,Mid,In-Office,3.1,61263.0,7.52,4.17,0.0,9,3.4337431775069076
+GE-0680,Germany,Engineering,Junior,In-Office,9.9,68735.0,7.59,7.73,0.0,8,6.364129442790421
+GE-0681,Germany,Data & Analytics,Senior,In-Office,0.7,64408.0,6.4,7.06,0.0,10,5.9508538682487195
+GE-0682,Germany,Data & Analytics,Junior,Fully Remote,2.2,59485.0,8.19,5.45,12000.0,10,0.0
+GE-0683,Germany,Sales,Senior,Fully Remote,0.5,57592.0,6.79,5.5,12000.0,5,0.0
+GE-0684,Germany,Data & Analytics,Senior,Hybrid,3.4,69284.0,6.69,9.09,6000.0,16,1.3433563900864338
+GE-0685,Germany,HR & Ops,Junior,In-Office,2.8,45277.0,7.84,4.72,0.0,14,5.779354070994797
+GE-0686,Germany,Product Management,Lead,Hybrid,1.8,74758.0,6.52,9.86,6000.0,17,2.3315304805307346
+GE-0687,Germany,Data & Analytics,Manager,Hybrid,2.6,59589.0,7.63,6.05,6000.0,10,1.67599756205698
+GE-0688,Germany,Sales,Junior,Fully Remote,7.9,50309.0,6.99,7.76,12000.0,14,0.0
+GE-0689,Germany,Data & Analytics,Senior,Hybrid,0.8,59150.0,8.9,6.91,6000.0,5,2.203962705948905
+GE-0690,Germany,Product Management,Junior,Fully Remote,0.5,81343.0,7.57,7.7,12000.0,13,0.0
+GE-0691,Germany,Sales,Lead,Fully Remote,6.9,58041.0,6.97,5.98,12000.0,12,0.0
+GE-0692,Germany,Engineering,Lead,Hybrid,3.0,69660.0,8.58,7.16,6000.0,9,1.396006060615107
+GE-0693,Germany,Data & Analytics,Mid,Hybrid,7.7,55498.0,9.27,7.46,6000.0,10,1.8578379189874206
+GE-0694,Germany,HR & Ops,Mid,Fully Remote,3.2,74853.0,7.67,5.3,12000.0,12,0.0
+GE-0695,Germany,Data & Analytics,Senior,Fully Remote,5.8,73912.0,7.01,7.91,12000.0,3,0.0
+GE-0696,Germany,Data & Analytics,Mid,Hybrid,2.0,89032.0,6.03,6.63,6000.0,5,1.6934375224718223
+GE-0697,Germany,HR & Ops,Senior,Fully Remote,4.9,62718.0,5.72,6.46,12000.0,7,0.0
+GE-0698,Germany,HR & Ops,Mid,Hybrid,8.5,73693.0,7.23,5.91,6000.0,8,1.7891022585627463
+GE-0699,Germany,Engineering,Junior,Fully Remote,3.0,66275.0,6.27,2.96,12000.0,3,0.0
+GE-0700,Germany,HR & Ops,Junior,Hybrid,0.7,81846.0,7.38,7.11,6000.0,10,2.6612715293721783
+GE-0701,Germany,Sales,Senior,Hybrid,1.1,55655.0,7.67,10.0,6000.0,15,1.5064023267399533
+GE-0702,Germany,Data & Analytics,Junior,Fully Remote,0.8,74685.0,7.64,7.98,12000.0,8,0.0
+GE-0703,Germany,Engineering,Junior,Fully Remote,1.0,62469.0,6.92,6.77,12000.0,5,0.0
+GE-0704,Germany,Product Management,Mid,Fully Remote,1.3,64166.0,7.58,6.41,12000.0,7,0.0
+GE-0705,Germany,Engineering,Junior,Fully Remote,2.8,66193.0,7.08,6.83,12000.0,9,0.0
+GE-0706,Germany,Data & Analytics,Mid,In-Office,3.1,68279.0,4.83,7.32,0.0,13,4.03895232352377
+GE-0707,Germany,Data & Analytics,Senior,Fully Remote,1.9,63489.0,5.87,5.03,12000.0,16,0.0
+GE-0708,Germany,HR & Ops,Senior,In-Office,3.3,67791.0,7.03,8.17,0.0,16,4.4193909079535665
+GE-0709,Germany,Data & Analytics,Senior,Fully Remote,0.5,85516.0,5.55,7.87,12000.0,5,0.0
+GE-0710,Germany,Engineering,Mid,Hybrid,0.5,77811.0,8.32,8.48,6000.0,12,1.7649689211651887
+GE-0711,Germany,Engineering,Senior,Hybrid,0.7,76299.0,9.44,8.06,6000.0,9,1.0078282114707813
+GE-0712,Germany,Product Management,Mid,Hybrid,2.6,59078.0,9.06,7.43,6000.0,4,2.7025223347241205
+GE-0713,Germany,Engineering,Manager,Hybrid,0.8,53440.0,7.34,8.41,6000.0,7,1.4890808859685987
+GE-0714,Germany,HR & Ops,Lead,Hybrid,1.2,77419.0,9.39,8.29,6000.0,6,1.9963974391233708
+GE-0715,Germany,Data & Analytics,Lead,Fully Remote,1.8,76389.0,7.18,6.27,12000.0,13,0.0
+GE-0716,Germany,Engineering,Junior,In-Office,5.8,84145.0,6.8,5.64,0.0,16,4.218192846727915
+GE-0717,Germany,Sales,Senior,In-Office,0.5,57148.0,6.46,6.65,0.0,5,3.3776354301294345
+GE-0718,Germany,Product Management,Senior,In-Office,3.7,62016.0,6.84,8.82,0.0,15,5.980319655502975
+GE-0719,Germany,Data & Analytics,Senior,Fully Remote,3.9,43687.0,6.53,4.94,12000.0,10,0.0
+GE-0720,Germany,Sales,Mid,Hybrid,5.6,59898.0,7.8,5.2,6000.0,4,2.614523298652501
+GE-0721,Germany,HR & Ops,Junior,In-Office,9.4,77955.0,7.39,6.75,0.0,13,7.667275526249261
+GE-0722,Germany,HR & Ops,Senior,Fully Remote,0.5,58936.0,7.0,6.88,12000.0,15,0.0
+GE-0723,Germany,Engineering,Junior,Fully Remote,0.6,73326.0,7.52,7.06,12000.0,15,0.0
+GE-0724,Germany,Product Management,Mid,Hybrid,7.6,62523.0,9.03,7.77,6000.0,3,2.528503196138791
+GE-0725,Germany,Engineering,Senior,Hybrid,2.1,69213.0,8.74,7.07,6000.0,11,2.706931106405106
+GE-0726,Germany,Data & Analytics,Manager,In-Office,2.9,50080.0,5.42,8.73,0.0,7,5.169440242427397
+GE-0727,Germany,Product Management,Mid,Fully Remote,3.8,66108.0,3.94,4.4,12000.0,11,0.0
+GE-0728,Germany,Data & Analytics,Senior,Hybrid,4.0,26115.0,8.72,6.16,6000.0,11,2.1746955824860557
+GE-0729,Germany,HR & Ops,Mid,Fully Remote,9.4,62570.0,5.36,6.65,12000.0,11,0.0
+GE-0730,Germany,Data & Analytics,Manager,Fully Remote,15.0,43804.0,6.73,4.34,12000.0,14,0.0
+GE-0731,Germany,Sales,Mid,Fully Remote,4.5,80678.0,5.6,6.54,12000.0,5,0.0
+GE-0732,Germany,HR & Ops,Junior,In-Office,1.2,75106.0,5.04,8.99,0.0,17,7.86261247816831
+GE-0733,Germany,Sales,Senior,Hybrid,7.4,71067.0,8.25,7.43,6000.0,6,1.4645793081929053
+GE-0734,Germany,Data & Analytics,Mid,Hybrid,0.5,84773.0,8.51,7.75,6000.0,7,2.7400498510403315
+GE-0735,Germany,HR & Ops,Mid,Fully Remote,0.9,52664.0,6.31,4.91,12000.0,10,0.0
+GE-0736,Germany,Data & Analytics,Junior,In-Office,8.0,87716.0,4.09,5.58,0.0,17,7.946399725531925
+GE-0737,Germany,Data & Analytics,Junior,Hybrid,1.0,77118.0,6.94,6.84,6000.0,3,1.9638003342199548
+GE-0738,Germany,Engineering,Senior,In-Office,0.9,61925.0,7.67,6.02,0.0,14,6.64620124548784
+GE-0739,Germany,Data & Analytics,Senior,Hybrid,0.5,79763.0,5.83,9.32,6000.0,4,2.610186753599052
+GE-0740,Germany,Engineering,Senior,Fully Remote,6.9,50618.0,7.22,7.64,12000.0,15,0.0
+GE-0741,Germany,Data & Analytics,Mid,Hybrid,2.4,54281.0,7.58,5.73,6000.0,3,1.213102494432226
+GE-0742,Germany,Sales,Mid,Fully Remote,3.9,57088.0,7.7,7.17,12000.0,3,0.0
+GE-0743,Germany,HR & Ops,Manager,Hybrid,1.0,58123.0,7.74,8.15,6000.0,15,1.1960890762218797
+GE-0744,Germany,Engineering,Junior,Hybrid,5.0,51265.0,6.43,9.11,6000.0,16,1.221086332617161
+GE-0745,Germany,Data & Analytics,Mid,Fully Remote,5.0,80900.0,8.44,9.17,12000.0,15,0.0
+GE-0746,Germany,Product Management,Senior,In-Office,1.3,61635.0,7.01,4.98,0.0,3,6.6973732694205665
+GE-0747,Germany,Data & Analytics,Lead,Hybrid,1.9,69583.0,7.57,6.18,6000.0,15,1.6329375681229972
+GE-0748,Germany,Sales,Junior,Hybrid,0.8,57585.0,6.48,5.51,6000.0,17,1.0256432990212117
+GE-0749,Germany,HR & Ops,Lead,In-Office,13.1,41332.0,6.67,6.15,0.0,4,3.65440569276788
+GE-0750,Germany,HR & Ops,Mid,Hybrid,3.6,68511.0,6.54,8.1,6000.0,12,2.719005951249796
+GE-0751,Germany,Engineering,Lead,Fully Remote,9.5,40141.0,6.79,8.28,12000.0,14,0.0
+GE-0752,Germany,Data & Analytics,Manager,In-Office,1.3,64108.0,9.25,6.39,0.0,12,7.828852219421435
+GE-0753,Germany,Data & Analytics,Lead,Hybrid,5.3,47212.0,5.95,6.92,6000.0,4,2.035198930107615
+GE-0754,Germany,HR & Ops,Manager,Fully Remote,5.1,90835.0,5.06,7.03,12000.0,10,0.0
+GE-0755,Germany,Data & Analytics,Junior,Fully Remote,4.1,76848.0,8.77,5.55,12000.0,7,0.0
+GE-0756,Germany,HR & Ops,Lead,Hybrid,11.8,66375.0,7.35,10.0,6000.0,16,1.726645144172448
+GE-0757,Germany,Product Management,Mid,Hybrid,1.8,81428.0,6.8,4.99,6000.0,13,2.3408933305650184
+GE-0758,Germany,Product Management,Manager,Hybrid,0.5,53998.0,8.85,7.68,6000.0,7,2.182703408106419
+GE-0759,Germany,Data & Analytics,Junior,In-Office,3.9,72065.0,6.47,9.54,0.0,12,5.572262172007697
+GE-0760,Germany,Product Management,Lead,Hybrid,4.6,67598.0,9.79,7.41,6000.0,9,1.897702731304006
+GE-0761,Germany,Sales,Mid,Fully Remote,3.0,68432.0,7.81,6.51,12000.0,6,0.0
+GE-0762,Germany,Data & Analytics,Mid,Fully Remote,0.8,81541.0,6.41,6.26,12000.0,9,0.0
+GE-0763,Germany,Engineering,Senior,Fully Remote,2.5,74522.0,9.59,6.53,12000.0,5,0.0
+GE-0764,Germany,Engineering,Junior,Hybrid,1.3,68753.0,6.87,9.46,6000.0,15,2.255917470685816
+GE-0765,Germany,Engineering,Lead,Fully Remote,2.0,43486.0,7.89,3.48,12000.0,9,0.0
+GE-0766,Germany,Data & Analytics,Junior,Hybrid,3.6,52519.0,7.96,9.7,6000.0,11,2.915533316352445
+GE-0767,Germany,Data & Analytics,Junior,Hybrid,4.8,63405.0,9.16,5.26,6000.0,6,1.6067285644283409
+GE-0768,Germany,Sales,Mid,In-Office,0.9,66214.0,9.07,6.1,0.0,4,5.890360510062063
+GE-0769,Germany,HR & Ops,Mid,Fully Remote,1.8,50307.0,7.04,6.16,12000.0,11,0.0
+GE-0770,Germany,Sales,Senior,In-Office,1.1,96352.0,6.3,7.38,0.0,8,4.643021697399213
+GE-0771,Germany,Product Management,Mid,Fully Remote,0.8,84713.0,7.55,4.4,12000.0,4,0.0
+GE-0772,Germany,Data & Analytics,Mid,In-Office,5.4,72828.0,6.39,7.19,0.0,11,3.0488969015288094
+GE-0773,Germany,Data & Analytics,Mid,Fully Remote,8.4,65936.0,9.42,9.84,12000.0,5,0.0
+GE-0774,Germany,Data & Analytics,Junior,Hybrid,1.6,62241.0,7.76,5.36,6000.0,16,1.4137437508445756
+GE-0775,Germany,Sales,Lead,Hybrid,4.9,52625.0,7.16,7.68,6000.0,5,2.019970158626994
+GE-0776,Germany,Sales,Mid,Fully Remote,8.0,66007.0,7.22,5.81,12000.0,15,0.0
+GE-0777,Germany,Data & Analytics,Lead,Fully Remote,6.6,68351.0,5.38,7.44,12000.0,16,0.0
+GE-0778,Germany,Data & Analytics,Mid,Hybrid,0.7,48857.0,6.43,7.43,6000.0,17,2.6134156154901227
+GE-0779,Germany,Data & Analytics,Lead,Hybrid,11.0,69344.0,9.04,6.44,6000.0,4,1.8435484838722518
+GE-0780,Germany,Sales,Junior,Hybrid,1.7,62982.0,6.81,8.13,6000.0,14,2.2577462888266107
+GE-0781,Germany,Product Management,Mid,Hybrid,1.5,40199.0,6.34,10.0,6000.0,17,1.7125228975859181
+GE-0782,Germany,HR & Ops,Lead,Hybrid,0.5,53815.0,8.24,7.11,6000.0,5,1.754357583568487
+GE-0783,Germany,Sales,Junior,Fully Remote,2.3,59623.0,8.42,7.88,12000.0,13,0.0
+GE-0784,Germany,HR & Ops,Junior,Fully Remote,0.5,89540.0,7.86,4.86,12000.0,17,0.0
+GE-0785,Germany,Product Management,Senior,Fully Remote,1.0,72235.0,8.2,5.37,12000.0,6,0.0
+GE-0786,Germany,Product Management,Mid,In-Office,1.3,47639.0,6.29,7.21,0.0,8,5.059732743061318
+GE-0787,Germany,HR & Ops,Lead,Hybrid,5.8,71318.0,5.89,9.63,6000.0,13,1.4205523558037227
+GE-0788,Germany,HR & Ops,Lead,Hybrid,7.3,44885.0,9.4,7.93,6000.0,13,1.0791150131252263
+GE-0789,Germany,Engineering,Mid,Hybrid,1.3,79075.0,7.21,6.93,6000.0,11,2.396141092806803
+GE-0790,Germany,Data & Analytics,Mid,In-Office,6.8,58875.0,6.9,6.5,0.0,15,5.557953053232746
+GE-0791,Germany,Data & Analytics,Junior,Fully Remote,6.8,63783.0,8.59,4.92,12000.0,5,0.0
+GE-0792,Germany,Engineering,Mid,Hybrid,5.1,82235.0,8.27,8.31,6000.0,12,2.1386692638144504
+GE-0793,Germany,Data & Analytics,Mid,Hybrid,0.6,48267.0,8.15,8.72,6000.0,8,1.611296993672367
+GE-0794,Germany,Engineering,Lead,Hybrid,4.1,46837.0,10.0,6.72,6000.0,15,1.0094248510444823
+GE-0795,Germany,Engineering,Senior,Fully Remote,10.2,57413.0,6.23,6.09,12000.0,16,0.0
+GE-0796,Germany,Sales,Senior,In-Office,4.0,78499.0,8.31,6.9,0.0,17,3.10060860926537
+GE-0797,Germany,Data & Analytics,Junior,In-Office,1.4,45249.0,7.27,5.84,0.0,13,5.233860794198034
+GE-0798,Germany,Product Management,Mid,Hybrid,2.4,28182.0,7.92,7.3,6000.0,6,1.719649801273133
+GE-0799,Germany,Product Management,Senior,Hybrid,3.6,59135.0,9.43,10.0,6000.0,17,1.7501988106367
+GE-0800,Germany,Engineering,Mid,In-Office,2.5,72173.0,7.81,6.13,0.0,3,7.844839310411499
+PO-0001,Poland,Product Management,Manager,In-Office,15.0,36783.0,8.48,6.2,0.0,5,5.3785203909452814
+PO-0002,Poland,HR & Ops,Mid,In-Office,2.2,24250.0,7.4,5.72,0.0,3,6.306326531325458
+PO-0003,Poland,HR & Ops,Junior,Fully Remote,0.5,30216.0,7.41,7.46,7000.0,12,0.0
+PO-0004,Poland,Sales,Junior,Hybrid,13.3,36933.0,8.01,4.8,3500.0,15,2.7800378022975294
+PO-0005,Poland,Engineering,Senior,In-Office,6.5,25169.0,5.91,6.87,0.0,5,6.936251513346814
+PO-0006,Poland,HR & Ops,Lead,In-Office,0.7,33537.0,8.43,9.1,0.0,17,3.576999291404141
+PO-0007,Poland,Engineering,Lead,Fully Remote,8.2,34201.0,5.49,8.65,7000.0,11,0.0
+PO-0008,Poland,Product Management,Junior,Fully Remote,1.5,32076.0,5.71,5.88,7000.0,14,0.0
+PO-0009,Poland,Engineering,Manager,Fully Remote,1.7,43870.0,7.07,7.54,7000.0,7,0.0
+PO-0010,Poland,HR & Ops,Senior,Hybrid,8.3,31311.0,7.22,7.85,3500.0,17,2.89917353512917
+PO-0011,Poland,Sales,Junior,Hybrid,2.6,38672.0,8.56,9.6,3500.0,10,1.671940614761023
+PO-0012,Poland,Sales,Lead,In-Office,0.5,35316.0,7.74,2.73,0.0,3,5.797874209779367
+PO-0013,Poland,HR & Ops,Manager,Fully Remote,1.6,37097.0,7.17,8.47,7000.0,9,0.0
+PO-0014,Poland,Engineering,Senior,Fully Remote,4.5,50209.0,5.65,6.4,7000.0,7,0.0
+PO-0015,Poland,Sales,Mid,Fully Remote,0.7,39366.0,7.03,5.69,7000.0,13,0.0
+PO-0016,Poland,HR & Ops,Junior,Fully Remote,3.1,40835.0,6.94,5.64,7000.0,11,0.0
+PO-0017,Poland,Product Management,Senior,Fully Remote,4.2,32183.0,7.27,4.85,7000.0,8,0.0
+PO-0018,Poland,Data & Analytics,Mid,Hybrid,1.5,42759.0,7.08,6.48,3500.0,9,1.1163355174418494
+PO-0019,Poland,Data & Analytics,Senior,Hybrid,4.1,42438.0,8.23,5.78,3500.0,10,2.109613516547896
+PO-0020,Poland,Engineering,Lead,Hybrid,7.5,41706.0,7.18,7.67,3500.0,8,1.7309029693065472
+PO-0021,Poland,Sales,Junior,Fully Remote,2.2,28810.0,7.51,7.68,7000.0,5,0.0
+PO-0022,Poland,Sales,Lead,Fully Remote,1.7,33552.0,7.96,6.42,7000.0,6,0.0
+PO-0023,Poland,Sales,Junior,Hybrid,1.0,48895.0,6.96,9.65,3500.0,10,2.623723399665168
+PO-0024,Poland,HR & Ops,Senior,In-Office,3.2,32773.0,6.27,5.68,0.0,6,3.501206851337957
+PO-0025,Poland,Data & Analytics,Senior,Fully Remote,7.4,49932.0,7.57,6.34,7000.0,12,0.0
+PO-0026,Poland,HR & Ops,Lead,Hybrid,1.4,33847.0,6.01,6.69,3500.0,15,1.0462213369355844
+PO-0027,Poland,Product Management,Mid,Fully Remote,1.8,39126.0,8.33,7.7,7000.0,12,0.0
+PO-0028,Poland,Engineering,Mid,In-Office,1.8,36578.0,7.21,7.55,0.0,5,7.224751886363021
+PO-0029,Poland,HR & Ops,Junior,Hybrid,2.9,31579.0,7.46,8.14,3500.0,6,1.7401785601399418
+PO-0030,Poland,Engineering,Junior,Fully Remote,0.9,31689.0,7.66,6.61,7000.0,10,0.0
+PO-0031,Poland,Product Management,Mid,Hybrid,6.0,32648.0,8.18,5.39,3500.0,12,2.8769364247316247
+PO-0032,Poland,HR & Ops,Junior,Fully Remote,1.2,39125.0,7.01,6.32,7000.0,13,0.0
+PO-0033,Poland,Data & Analytics,Mid,In-Office,4.3,44767.0,8.25,8.72,0.0,15,7.349529669451605
+PO-0034,Poland,Engineering,Senior,Fully Remote,2.5,38632.0,6.19,8.32,7000.0,12,0.0
+PO-0035,Poland,Product Management,Junior,Hybrid,3.1,37746.0,8.45,7.84,3500.0,14,2.294335544101971
+PO-0036,Poland,Engineering,Lead,Hybrid,0.7,47199.0,6.31,6.82,3500.0,17,1.622678485858833
+PO-0037,Poland,Engineering,Junior,In-Office,4.6,38314.0,7.81,6.48,0.0,4,3.0156082567820484
+PO-0038,Poland,Data & Analytics,Mid,Fully Remote,0.7,33874.0,6.61,6.23,7000.0,15,0.0
+PO-0039,Poland,Sales,Senior,Hybrid,0.5,30417.0,6.03,9.19,3500.0,14,1.1077965807875776
+PO-0040,Poland,HR & Ops,Junior,Fully Remote,2.8,47655.0,7.31,5.54,7000.0,6,0.0
+PO-0041,Poland,Sales,Junior,Fully Remote,4.3,35497.0,6.96,8.19,7000.0,4,0.0
+PO-0042,Poland,HR & Ops,Mid,Hybrid,0.5,33603.0,5.75,6.61,3500.0,11,2.0248571027533124
+PO-0043,Poland,Data & Analytics,Mid,Fully Remote,0.5,32946.0,4.46,8.78,7000.0,12,0.0
+PO-0044,Poland,HR & Ops,Senior,Fully Remote,5.7,47228.0,6.82,7.44,7000.0,10,0.0
+PO-0045,Poland,HR & Ops,Mid,In-Office,5.8,33645.0,9.14,5.38,0.0,12,6.783524550557348
+PO-0046,Poland,Sales,Senior,Fully Remote,1.0,45528.0,7.39,6.34,7000.0,5,0.0
+PO-0047,Poland,Sales,Senior,Hybrid,3.3,36249.0,6.8,8.47,3500.0,13,1.968532396219451
+PO-0048,Poland,Data & Analytics,Junior,Fully Remote,2.0,28816.0,8.3,6.05,7000.0,14,0.0
+PO-0049,Poland,HR & Ops,Senior,Fully Remote,3.5,35473.0,8.09,6.83,7000.0,4,0.0
+PO-0050,Poland,Data & Analytics,Senior,Fully Remote,7.0,37751.0,8.53,6.03,7000.0,7,0.0
+PO-0051,Poland,Data & Analytics,Junior,Hybrid,0.5,37125.0,8.42,10.0,3500.0,13,2.663196592882153
+PO-0052,Poland,Engineering,Mid,Hybrid,5.3,36936.0,8.66,10.0,3500.0,6,1.9401919169030322
+PO-0053,Poland,Data & Analytics,Lead,Fully Remote,2.4,35553.0,7.88,8.99,7000.0,17,0.0
+PO-0054,Poland,Product Management,Mid,Fully Remote,2.9,32034.0,6.43,6.61,7000.0,6,0.0
+PO-0055,Poland,HR & Ops,Mid,In-Office,3.7,38082.0,5.24,5.9,0.0,3,7.352002315529185
+PO-0056,Poland,Product Management,Mid,Fully Remote,9.0,42111.0,6.37,5.63,7000.0,16,0.0
+PO-0057,Poland,Engineering,Senior,In-Office,0.5,26884.0,8.53,8.8,0.0,3,5.355551774988769
+PO-0058,Poland,Sales,Lead,Fully Remote,0.5,47873.0,6.54,8.2,7000.0,3,0.0
+PO-0059,Poland,Engineering,Junior,Hybrid,0.7,9906.0,7.43,8.87,3500.0,11,2.8934158300677764
+PO-0060,Poland,Sales,Mid,Fully Remote,15.0,38572.0,5.6,6.43,7000.0,9,0.0
+PO-0061,Poland,HR & Ops,Junior,In-Office,4.4,41542.0,6.54,3.86,0.0,16,6.755736219757205
+PO-0062,Poland,Product Management,Lead,Hybrid,3.3,33415.0,7.59,5.11,3500.0,11,2.8786700314859734
+PO-0063,Poland,Product Management,Senior,Fully Remote,0.5,21844.0,7.59,6.89,7000.0,11,0.0
+PO-0064,Poland,Product Management,Senior,Fully Remote,7.4,37265.0,6.45,6.02,7000.0,3,0.0
+PO-0065,Poland,Product Management,Junior,Hybrid,5.9,39290.0,6.97,6.44,3500.0,17,1.0281593265657814
+PO-0066,Poland,Sales,Junior,Hybrid,3.8,29270.0,8.61,7.92,3500.0,16,2.2082178023016943
+PO-0067,Poland,Product Management,Junior,Fully Remote,1.4,31691.0,7.39,8.32,7000.0,10,0.0
+PO-0068,Poland,HR & Ops,Junior,Fully Remote,0.5,45317.0,7.54,5.75,7000.0,4,0.0
+PO-0069,Poland,Product Management,Junior,Hybrid,3.0,38894.0,9.43,5.44,3500.0,11,1.558170272302567
+PO-0070,Poland,HR & Ops,Senior,Fully Remote,4.5,26534.0,6.39,5.78,7000.0,8,0.0
+PO-0071,Poland,Engineering,Mid,Hybrid,0.5,41419.0,7.54,5.83,3500.0,13,2.7556652071516288
+PO-0072,Poland,Sales,Manager,Hybrid,3.5,30928.0,8.26,8.29,3500.0,12,1.689573857309073
+PO-0073,Poland,Product Management,Mid,In-Office,1.2,32112.0,6.15,6.49,0.0,6,5.813557716711014
+PO-0074,Poland,Sales,Manager,In-Office,5.1,39502.0,7.47,9.32,0.0,3,4.124484028652036
+PO-0075,Poland,Data & Analytics,Senior,In-Office,2.7,38794.0,7.23,7.6,0.0,13,6.096756529681494
+PO-0076,Poland,Sales,Junior,Fully Remote,0.5,34940.0,10.0,9.52,7000.0,14,0.0
+PO-0077,Poland,Product Management,Manager,In-Office,2.6,34168.0,7.32,4.39,0.0,15,5.3010330907830765
+PO-0078,Poland,Sales,Mid,Fully Remote,1.8,36094.0,8.39,1.92,7000.0,6,0.0
+PO-0079,Poland,HR & Ops,Mid,Hybrid,0.7,32067.0,8.6,7.76,3500.0,15,1.3754561509965473
+PO-0080,Poland,Data & Analytics,Lead,Hybrid,6.4,46276.0,6.21,7.58,3500.0,7,1.5163163353169566
+PO-0081,Poland,HR & Ops,Junior,Fully Remote,0.5,26074.0,5.14,6.62,7000.0,4,0.0
+PO-0082,Poland,Product Management,Junior,In-Office,1.3,36169.0,7.5,6.64,0.0,15,4.216365422353493
+PO-0083,Poland,HR & Ops,Senior,Fully Remote,0.5,26909.0,8.51,5.11,7000.0,4,0.0
+PO-0084,Poland,Product Management,Lead,Hybrid,0.5,45114.0,7.95,8.24,3500.0,5,2.980748859157725
+PO-0085,Poland,Data & Analytics,Senior,Hybrid,1.2,36158.0,7.69,8.5,3500.0,16,1.674005582674517
+PO-0086,Poland,Product Management,Mid,Hybrid,0.5,29969.0,7.26,5.6,3500.0,6,2.266057810815485
+PO-0087,Poland,Product Management,Mid,Fully Remote,3.2,43206.0,5.41,6.27,7000.0,4,0.0
+PO-0088,Poland,Data & Analytics,Junior,Hybrid,0.5,20581.0,6.45,6.96,3500.0,14,2.31159255979944
+PO-0089,Poland,Engineering,Mid,In-Office,4.2,40135.0,5.25,5.49,0.0,5,3.5392788807675726
+PO-0090,Poland,HR & Ops,Mid,Fully Remote,0.5,46750.0,5.68,5.06,7000.0,14,0.0
+PO-0091,Poland,Engineering,Manager,Hybrid,0.5,39365.0,6.97,7.42,3500.0,6,1.7656484159270076
+PO-0092,Poland,Data & Analytics,Mid,Fully Remote,1.3,34151.0,7.93,7.19,7000.0,3,0.0
+PO-0093,Poland,Engineering,Mid,Hybrid,7.9,28559.0,7.07,6.48,3500.0,4,2.944191986424622
+PO-0094,Poland,Data & Analytics,Mid,In-Office,3.6,46227.0,7.51,4.86,0.0,9,4.688779935661145
+PO-0095,Poland,HR & Ops,Junior,Hybrid,5.1,45048.0,7.76,8.02,3500.0,6,2.0831909255966856
+PO-0096,Poland,Product Management,Mid,Hybrid,0.5,33095.0,8.2,6.25,3500.0,3,1.9249804208111867
+PO-0097,Poland,Sales,Junior,Fully Remote,6.3,33298.0,5.76,6.34,7000.0,9,0.0
+PO-0098,Poland,Product Management,Senior,Hybrid,0.5,47019.0,8.87,6.75,3500.0,4,1.3433879862569824
+PO-0099,Poland,Data & Analytics,Senior,Fully Remote,0.8,42040.0,5.31,8.67,7000.0,13,0.0
+PO-0100,Poland,Sales,Senior,Fully Remote,3.4,24422.0,6.46,5.72,7000.0,13,0.0
+PO-0101,Poland,Data & Analytics,Junior,Fully Remote,1.6,36513.0,6.97,9.39,7000.0,9,0.0
+PO-0102,Poland,Product Management,Junior,Hybrid,14.5,36233.0,8.51,8.53,3500.0,15,1.2909828944956527
+PO-0103,Poland,Data & Analytics,Lead,Hybrid,0.5,39882.0,9.26,10.0,3500.0,8,2.2919285249983226
+PO-0104,Poland,Data & Analytics,Junior,Fully Remote,15.0,38046.0,7.92,7.8,7000.0,11,0.0
+PO-0105,Poland,HR & Ops,Junior,Fully Remote,3.4,34103.0,8.7,6.47,7000.0,14,0.0
+PO-0106,Poland,HR & Ops,Senior,Fully Remote,2.9,39356.0,6.0,5.42,7000.0,10,0.0
+PO-0107,Poland,HR & Ops,Senior,In-Office,0.5,34597.0,8.63,5.97,0.0,17,5.767147805818637
+PO-0108,Poland,Data & Analytics,Mid,Hybrid,1.1,63948.0,8.82,9.63,3500.0,10,2.8492456356850573
+PO-0109,Poland,HR & Ops,Mid,Fully Remote,9.1,38933.0,4.12,6.73,7000.0,6,0.0
+PO-0110,Poland,HR & Ops,Lead,Fully Remote,1.5,37888.0,6.74,7.79,7000.0,10,0.0
+PO-0111,Poland,Engineering,Lead,In-Office,3.8,52005.0,7.92,6.81,0.0,7,7.443466073923991
+PO-0112,Poland,Sales,Mid,Fully Remote,15.0,27631.0,6.38,7.17,7000.0,6,0.0
+PO-0113,Poland,HR & Ops,Mid,Hybrid,1.1,37164.0,6.3,7.83,3500.0,14,1.73248236226723
+PO-0114,Poland,Product Management,Lead,Fully Remote,3.0,30783.0,9.54,7.54,7000.0,11,0.0
+PO-0115,Poland,Product Management,Senior,In-Office,4.2,42826.0,7.33,5.28,0.0,9,7.140297713664381
+PO-0116,Poland,Product Management,Mid,In-Office,0.6,34243.0,7.37,6.09,0.0,13,3.168251660675283
+PO-0117,Poland,Engineering,Mid,Hybrid,0.6,42409.0,6.03,7.86,3500.0,3,1.8909553661666916
+PO-0118,Poland,Engineering,Mid,Fully Remote,2.1,41861.0,6.27,7.05,7000.0,5,0.0
+PO-0119,Poland,Engineering,Mid,Fully Remote,1.7,43931.0,5.92,6.11,7000.0,8,0.0
+PO-0120,Poland,Product Management,Junior,Fully Remote,4.4,41986.0,8.29,7.42,7000.0,4,0.0
+PO-0121,Poland,Data & Analytics,Mid,Hybrid,0.5,36297.0,8.21,6.24,3500.0,8,2.455186686609487
+PO-0122,Poland,Product Management,Mid,Fully Remote,12.5,27378.0,6.32,4.97,7000.0,12,0.0
+PO-0123,Poland,HR & Ops,Mid,Fully Remote,0.5,45669.0,7.67,7.24,7000.0,8,0.0
+PO-0124,Poland,HR & Ops,Junior,Hybrid,3.2,48709.0,7.3,5.6,3500.0,17,2.749403968653424
+PO-0125,Poland,Engineering,Junior,Hybrid,2.9,30872.0,7.88,7.82,3500.0,4,1.0432958051744958
+PO-0126,Poland,Engineering,Junior,Fully Remote,0.5,43593.0,7.28,3.87,7000.0,10,0.0
+PO-0127,Poland,HR & Ops,Junior,Fully Remote,0.6,29105.0,7.5,5.71,7000.0,13,0.0
+PO-0128,Poland,HR & Ops,Senior,In-Office,5.5,39546.0,7.56,6.01,0.0,7,6.335951723212805
+PO-0129,Poland,Product Management,Senior,Hybrid,7.6,41112.0,8.11,4.99,3500.0,13,1.3441997052997243
+PO-0130,Poland,HR & Ops,Lead,Hybrid,1.2,34761.0,9.11,6.84,3500.0,7,2.9239553094682518
+PO-0131,Poland,Product Management,Senior,Hybrid,2.0,38723.0,8.37,9.18,3500.0,17,1.056914783687845
+PO-0132,Poland,Sales,Mid,Fully Remote,1.5,44446.0,6.6,4.89,7000.0,3,0.0
+PO-0133,Poland,Data & Analytics,Lead,Fully Remote,0.5,37168.0,6.88,6.28,7000.0,16,0.0
+PO-0134,Poland,Sales,Senior,Fully Remote,3.9,32869.0,8.48,9.35,7000.0,7,0.0
+PO-0135,Poland,HR & Ops,Mid,In-Office,6.1,28699.0,7.33,4.91,0.0,4,4.457888583799654
+PO-0136,Poland,Data & Analytics,Senior,Hybrid,1.3,35030.0,7.15,9.5,3500.0,10,2.7502441147029004
+PO-0137,Poland,Sales,Mid,Fully Remote,15.0,29072.0,6.24,6.38,7000.0,11,0.0
+PO-0138,Poland,Engineering,Senior,In-Office,0.5,35132.0,7.53,6.65,0.0,15,5.078671241616936
+PO-0139,Poland,HR & Ops,Mid,Fully Remote,3.8,34464.0,5.97,8.74,7000.0,7,0.0
+PO-0140,Poland,Product Management,Senior,In-Office,2.1,44111.0,8.74,5.77,0.0,5,6.997893220510015
+PO-0141,Poland,Sales,Junior,In-Office,2.1,38558.0,5.95,7.45,0.0,15,4.6633649326516196
+PO-0142,Poland,Engineering,Junior,Fully Remote,2.1,57359.0,8.77,8.13,7000.0,9,0.0
+PO-0143,Poland,HR & Ops,Mid,Fully Remote,1.0,22697.0,6.66,5.82,7000.0,17,0.0
+PO-0144,Poland,HR & Ops,Mid,Hybrid,4.4,40382.0,6.31,6.26,3500.0,5,1.5334068612744285
+PO-0145,Poland,Engineering,Junior,Hybrid,4.5,34568.0,7.83,7.06,3500.0,7,1.1984577921653532
+PO-0146,Poland,Engineering,Junior,Hybrid,1.2,30734.0,6.46,7.1,3500.0,4,1.6448905803697078
+PO-0147,Poland,Sales,Senior,In-Office,6.3,37774.0,7.24,4.88,0.0,4,7.676089050854375
+PO-0148,Poland,Data & Analytics,Junior,Hybrid,1.3,37205.0,6.91,6.44,3500.0,16,2.002792957190649
+PO-0149,Poland,Product Management,Junior,Fully Remote,4.5,46191.0,8.13,1.6,7000.0,3,0.0
+PO-0150,Poland,HR & Ops,Mid,Fully Remote,0.5,38694.0,7.16,6.3,7000.0,3,0.0
+PO-0151,Poland,Sales,Manager,Hybrid,0.6,32735.0,6.17,8.74,3500.0,8,1.1768751746710049
+PO-0152,Poland,HR & Ops,Mid,Fully Remote,1.3,40540.0,6.28,4.3,7000.0,11,0.0
+PO-0153,Poland,Data & Analytics,Mid,Hybrid,3.2,36255.0,8.45,6.71,3500.0,16,2.626286780598673
+PO-0154,Poland,Product Management,Mid,Fully Remote,3.6,29446.0,8.54,10.0,7000.0,7,0.0
+PO-0155,Poland,Data & Analytics,Junior,Fully Remote,1.8,36111.0,6.95,6.77,7000.0,13,0.0
+PO-0156,Poland,HR & Ops,Mid,Fully Remote,0.5,39755.0,5.75,8.84,7000.0,6,0.0
+PO-0157,Poland,Engineering,Lead,Hybrid,1.6,38549.0,8.86,5.88,3500.0,3,2.600821724987356
+PO-0158,Poland,Data & Analytics,Manager,Fully Remote,4.1,40510.0,7.84,7.47,7000.0,9,0.0
+PO-0159,Poland,Engineering,Senior,Hybrid,3.9,33999.0,9.17,5.63,3500.0,11,1.2179999797259522
+PO-0160,Poland,Engineering,Senior,Hybrid,0.6,40414.0,7.95,8.0,3500.0,8,1.197314753465618
+PO-0161,Poland,Product Management,Senior,Hybrid,0.5,38913.0,6.98,8.66,3500.0,13,1.6331926968252934
+PO-0162,Poland,HR & Ops,Mid,Hybrid,4.9,38975.0,8.22,8.31,3500.0,7,2.9565389719979764
+PO-0163,Poland,HR & Ops,Mid,Fully Remote,0.5,38246.0,7.39,6.28,7000.0,14,0.0
+PO-0164,Poland,Product Management,Lead,Hybrid,0.5,54538.0,6.91,7.81,3500.0,5,1.7359701543735733
+PO-0165,Poland,Data & Analytics,Mid,Fully Remote,0.5,46437.0,7.24,7.23,7000.0,16,0.0
+PO-0166,Poland,Engineering,Lead,Hybrid,2.0,40245.0,7.37,8.4,3500.0,14,1.0086881355681798
+PO-0167,Poland,Sales,Mid,Fully Remote,2.4,31918.0,7.89,6.61,7000.0,14,0.0
+PO-0168,Poland,Data & Analytics,Mid,Hybrid,3.6,35778.0,8.19,8.8,3500.0,7,1.3856055893532133
+PO-0169,Poland,Sales,Senior,In-Office,1.2,50280.0,5.94,8.65,0.0,13,5.135532814185212
+PO-0170,Poland,HR & Ops,Junior,Hybrid,4.3,33722.0,6.22,6.92,3500.0,3,1.3816189828926142
+PO-0171,Poland,Sales,Mid,Hybrid,0.6,36740.0,7.49,7.47,3500.0,16,1.84495750112282
+PO-0172,Poland,Data & Analytics,Manager,Hybrid,6.2,36317.0,7.64,6.04,3500.0,12,1.8281356515356328
+PO-0173,Poland,Engineering,Mid,Fully Remote,3.0,40796.0,7.91,7.31,7000.0,7,0.0
+PO-0174,Poland,Data & Analytics,Senior,In-Office,3.1,34681.0,7.82,7.02,0.0,12,4.769014153219878
+PO-0175,Poland,Data & Analytics,Junior,Fully Remote,0.8,39344.0,8.75,6.89,7000.0,14,0.0
+PO-0176,Poland,Engineering,Mid,In-Office,0.5,34851.0,6.64,6.7,0.0,8,6.9026028793480325
+PO-0177,Poland,Data & Analytics,Senior,Hybrid,2.2,47990.0,6.97,10.0,3500.0,16,1.9109423414587352
+PO-0178,Poland,HR & Ops,Lead,Hybrid,3.3,32784.0,6.45,3.07,3500.0,4,2.7469463421120084
+PO-0179,Poland,Data & Analytics,Junior,Hybrid,0.5,45430.0,8.5,6.66,3500.0,17,1.9751968760991219
+PO-0180,Poland,HR & Ops,Junior,Hybrid,10.5,33553.0,7.63,6.88,3500.0,6,1.2137667501740628
+PO-0181,Poland,Engineering,Mid,Hybrid,13.8,31512.0,5.38,9.59,3500.0,5,2.2452520547238386
+PO-0182,Poland,Data & Analytics,Senior,Fully Remote,2.8,32674.0,7.24,7.51,7000.0,8,0.0
+PO-0183,Poland,HR & Ops,Senior,Hybrid,10.5,24993.0,7.92,8.15,3500.0,16,2.7755070188279727
+PO-0184,Poland,Product Management,Lead,Hybrid,0.7,41333.0,7.43,9.29,3500.0,3,1.660761868659275
+PO-0185,Poland,Data & Analytics,Lead,In-Office,0.5,29154.0,7.56,6.23,0.0,16,4.691427961049545
+PO-0186,Poland,HR & Ops,Junior,Hybrid,0.5,35280.0,6.14,8.38,3500.0,17,2.8089478545625752
+PO-0187,Poland,Engineering,Junior,Fully Remote,3.1,43788.0,8.97,6.0,7000.0,14,0.0
+PO-0188,Poland,Product Management,Senior,Fully Remote,0.5,43543.0,7.46,5.22,7000.0,5,0.0
+PO-0189,Poland,Data & Analytics,Mid,Hybrid,11.1,27119.0,5.47,10.0,3500.0,12,2.5909238424429346
+PO-0190,Poland,Data & Analytics,Senior,Fully Remote,0.5,40360.0,6.99,7.35,7000.0,12,0.0
+PO-0191,Poland,Engineering,Mid,Fully Remote,1.3,46668.0,7.49,7.77,7000.0,17,0.0
+PO-0192,Poland,Product Management,Lead,In-Office,6.1,33160.0,5.86,4.88,0.0,7,7.87802484294556
+PO-0193,Poland,HR & Ops,Senior,Hybrid,0.9,41903.0,8.24,8.17,3500.0,9,2.7727527692487905
+PO-0194,Poland,Engineering,Lead,Hybrid,1.0,29311.0,9.62,10.0,3500.0,7,2.0907257042672835
+PO-0195,Poland,HR & Ops,Lead,Fully Remote,3.6,40931.0,6.23,6.38,7000.0,5,0.0
+PO-0196,Poland,Engineering,Mid,Hybrid,1.1,38998.0,8.11,5.52,3500.0,10,2.005279609951071
+PO-0197,Poland,Engineering,Manager,Fully Remote,0.9,43025.0,7.25,7.08,7000.0,11,0.0
+PO-0198,Poland,Product Management,Junior,Hybrid,1.0,42554.0,8.76,5.85,3500.0,4,1.7908100210594153
+PO-0199,Poland,Data & Analytics,Mid,Fully Remote,2.4,27714.0,6.87,4.46,7000.0,8,0.0
+PO-0200,Poland,Product Management,Senior,In-Office,11.8,39038.0,5.92,5.4,0.0,17,7.324969865147673
+PO-0201,Poland,HR & Ops,Manager,Hybrid,6.2,49042.0,8.69,6.66,3500.0,3,1.577332605350921
+PO-0202,Poland,HR & Ops,Lead,Fully Remote,1.2,21392.0,5.79,5.32,7000.0,4,0.0
+PO-0203,Poland,HR & Ops,Junior,Hybrid,1.6,45349.0,9.77,9.39,3500.0,17,2.2855038279190936
+PO-0204,Poland,Product Management,Mid,Hybrid,2.2,50173.0,8.27,10.0,3500.0,5,2.20205175497738
+PO-0205,Poland,Sales,Senior,Fully Remote,13.5,26717.0,6.28,7.73,7000.0,8,0.0
+PO-0206,Poland,Sales,Mid,Hybrid,0.7,32903.0,8.93,7.98,3500.0,13,2.6938451991018137
+PO-0207,Poland,HR & Ops,Lead,Fully Remote,1.5,41935.0,6.99,6.59,7000.0,6,0.0
+PO-0208,Poland,Product Management,Junior,In-Office,4.6,31265.0,6.93,5.16,0.0,11,6.351768198308996
+PO-0209,Poland,Sales,Lead,Hybrid,11.6,48371.0,6.78,9.8,3500.0,16,2.46692054401565
+PO-0210,Poland,Product Management,Mid,Fully Remote,0.6,46048.0,4.75,6.71,7000.0,13,0.0
+PO-0211,Poland,HR & Ops,Mid,Hybrid,0.9,27474.0,8.33,6.71,3500.0,12,2.5191236678278166
+PO-0212,Poland,Data & Analytics,Junior,Fully Remote,0.9,32353.0,5.05,8.32,7000.0,16,0.0
+PO-0213,Poland,Product Management,Mid,Fully Remote,0.5,43851.0,6.05,6.69,7000.0,11,0.0
+PO-0214,Poland,Engineering,Junior,In-Office,3.2,43553.0,7.72,7.97,0.0,8,6.64451067895375
+PO-0215,Poland,Product Management,Lead,Hybrid,3.9,54860.0,7.0,6.79,3500.0,11,1.654500615811634
+PO-0216,Poland,Data & Analytics,Mid,Hybrid,3.2,31313.0,7.79,8.93,3500.0,15,1.2897056545364882
+PO-0217,Poland,Engineering,Junior,Fully Remote,0.5,49090.0,5.54,8.27,7000.0,17,0.0
+PO-0218,Poland,Sales,Mid,Fully Remote,0.5,31054.0,6.58,8.79,7000.0,7,0.0
+PO-0219,Poland,Engineering,Junior,In-Office,0.8,41802.0,7.4,5.44,0.0,10,3.80856389165054
+PO-0220,Poland,Engineering,Junior,Fully Remote,1.2,44782.0,5.86,6.68,7000.0,5,0.0
+PO-0221,Poland,Data & Analytics,Mid,Fully Remote,5.4,15246.0,9.02,9.72,7000.0,16,0.0
+PO-0222,Poland,Engineering,Junior,Hybrid,0.6,44925.0,6.84,7.03,3500.0,5,1.923540732792558
+PO-0223,Poland,Data & Analytics,Mid,Hybrid,0.5,48523.0,9.25,8.62,3500.0,14,1.997460730183863
+PO-0224,Poland,HR & Ops,Senior,Hybrid,1.8,46329.0,7.4,10.0,3500.0,3,2.389343459193915
+PO-0225,Poland,Sales,Mid,Fully Remote,1.9,53605.0,5.12,4.03,7000.0,7,0.0
+PO-0226,Poland,Engineering,Lead,Fully Remote,2.1,45335.0,5.64,6.38,7000.0,12,0.0
+PO-0227,Poland,Data & Analytics,Lead,Fully Remote,6.1,33917.0,7.21,6.8,7000.0,15,0.0
+PO-0228,Poland,Data & Analytics,Junior,In-Office,0.5,47416.0,8.44,3.8,0.0,5,3.045028321322376
+PO-0229,Poland,HR & Ops,Senior,Fully Remote,4.3,33486.0,9.12,6.12,7000.0,5,0.0
+PO-0230,Poland,Product Management,Junior,Hybrid,1.4,38626.0,7.75,5.94,3500.0,4,2.1802328446889416
+PO-0231,Poland,Product Management,Senior,Hybrid,1.3,44322.0,6.19,8.69,3500.0,6,1.0526946643878352
+PO-0232,Poland,Engineering,Mid,Hybrid,9.4,41405.0,7.93,4.8,3500.0,17,2.592600371935327
+PO-0233,Poland,Sales,Mid,In-Office,1.0,48269.0,6.21,9.33,0.0,9,6.197810490169803
+PO-0234,Poland,Engineering,Senior,Fully Remote,3.6,56914.0,7.47,7.83,7000.0,17,0.0
+PO-0235,Poland,Sales,Mid,Fully Remote,1.1,29356.0,5.87,5.22,7000.0,9,0.0
+PO-0236,Poland,Engineering,Mid,Hybrid,2.5,35505.0,5.09,8.94,3500.0,10,2.115605362418294
+PO-0237,Poland,HR & Ops,Junior,Fully Remote,5.4,40404.0,8.58,7.7,7000.0,14,0.0
+PO-0238,Poland,Product Management,Lead,Hybrid,7.5,34480.0,7.33,7.34,3500.0,13,1.2531242730135181
+PO-0239,Poland,Data & Analytics,Lead,Hybrid,6.4,37425.0,7.66,6.32,3500.0,16,1.142013560445177
+PO-0240,Poland,Sales,Lead,In-Office,3.1,43896.0,8.4,7.32,0.0,8,6.7419817810487155
+PO-0241,Poland,Data & Analytics,Junior,Fully Remote,1.0,42886.0,9.25,6.98,7000.0,8,0.0
+PO-0242,Poland,HR & Ops,Mid,In-Office,3.8,39880.0,8.06,5.47,0.0,11,3.451592801495365
+PO-0243,Poland,Engineering,Senior,Fully Remote,4.3,39123.0,7.12,4.79,7000.0,14,0.0
+PO-0244,Poland,HR & Ops,Senior,Hybrid,0.5,36299.0,8.16,6.12,3500.0,6,1.3417203987729296
+PO-0245,Poland,Engineering,Lead,Fully Remote,2.0,48674.0,6.65,6.05,7000.0,5,0.0
+PO-0246,Poland,Sales,Lead,Hybrid,6.5,50642.0,7.64,9.14,3500.0,8,1.4225274646175359
+PO-0247,Poland,HR & Ops,Mid,Fully Remote,2.4,45743.0,7.17,8.09,7000.0,9,0.0
+PO-0248,Poland,Product Management,Senior,In-Office,1.3,29265.0,6.26,5.82,0.0,6,5.5494497410280506
+PO-0249,Poland,Product Management,Senior,In-Office,7.2,36007.0,7.23,5.88,0.0,3,4.5488229159259355
+PO-0250,Poland,Data & Analytics,Junior,In-Office,0.6,39517.0,7.64,7.99,0.0,5,3.951916355304859
+PO-0251,Poland,Sales,Manager,Fully Remote,0.8,30851.0,7.62,7.2,7000.0,6,0.0
+PO-0252,Poland,Engineering,Mid,In-Office,4.1,38601.0,7.72,6.88,0.0,15,7.642610375212149
+PO-0253,Poland,Data & Analytics,Mid,Hybrid,1.5,38169.0,5.99,6.34,3500.0,13,1.5936004101036778
+PO-0254,Poland,HR & Ops,Lead,Fully Remote,4.4,46239.0,8.48,6.61,7000.0,16,0.0
+PO-0255,Poland,Product Management,Manager,Fully Remote,0.6,34213.0,8.38,6.81,7000.0,16,0.0
+PO-0256,Poland,HR & Ops,Junior,Fully Remote,1.0,46841.0,6.88,6.66,7000.0,6,0.0
+PO-0257,Poland,Engineering,Mid,Fully Remote,0.6,30724.0,7.55,7.9,7000.0,10,0.0
+PO-0258,Poland,Engineering,Junior,Hybrid,10.7,31784.0,7.34,8.55,3500.0,6,2.059549830513597
+PO-0259,Poland,Data & Analytics,Junior,In-Office,1.8,35117.0,8.1,5.12,0.0,7,7.4782561520095925
+PO-0260,Poland,HR & Ops,Lead,Fully Remote,1.4,38364.0,6.02,6.05,7000.0,16,0.0
+PO-0261,Poland,HR & Ops,Senior,Hybrid,0.5,19635.0,9.21,6.37,3500.0,5,2.279234249204712
+PO-0262,Poland,Engineering,Lead,In-Office,0.6,41491.0,8.04,8.58,0.0,13,4.67361343457326
+PO-0263,Poland,HR & Ops,Senior,Fully Remote,1.9,50991.0,7.87,10.0,7000.0,12,0.0
+PO-0264,Poland,HR & Ops,Senior,In-Office,0.5,42950.0,7.07,5.8,0.0,12,4.041918395044127
+PO-0265,Poland,Engineering,Lead,Hybrid,2.5,36399.0,5.9,7.15,3500.0,17,2.846769335981447
+PO-0266,Poland,Product Management,Senior,Hybrid,2.1,29757.0,8.66,8.66,3500.0,16,1.048340704267007
+PO-0267,Poland,Sales,Lead,Fully Remote,5.1,24221.0,5.34,5.74,7000.0,5,0.0
+PO-0268,Poland,Product Management,Manager,Hybrid,3.8,25513.0,8.68,8.7,3500.0,7,1.7790983289630449
+PO-0269,Poland,HR & Ops,Mid,Fully Remote,2.1,37006.0,6.07,6.77,7000.0,14,0.0
+PO-0270,Poland,HR & Ops,Lead,Hybrid,0.9,54013.0,5.7,4.78,3500.0,4,1.3455793037649264
+PO-0271,Poland,HR & Ops,Junior,Fully Remote,4.5,17350.0,7.0,4.85,7000.0,12,0.0
+PO-0272,Poland,HR & Ops,Manager,In-Office,4.3,43322.0,8.62,5.99,0.0,12,4.516849727860063
+PO-0273,Poland,HR & Ops,Mid,Fully Remote,0.6,32849.0,5.84,8.63,7000.0,16,0.0
+PO-0274,Poland,Sales,Mid,Fully Remote,8.6,35450.0,8.92,5.46,7000.0,4,0.0
+PO-0275,Poland,HR & Ops,Manager,Hybrid,0.5,30873.0,8.39,6.6,3500.0,11,2.864204730914443
+PO-0276,Poland,Engineering,Senior,Fully Remote,0.5,27607.0,7.19,7.12,7000.0,13,0.0
+PO-0277,Poland,Engineering,Mid,Hybrid,0.7,38955.0,7.08,4.9,3500.0,3,1.9503954389138989
+PO-0278,Poland,Data & Analytics,Junior,In-Office,8.4,39997.0,6.76,6.95,0.0,4,6.43751046402208
+PO-0279,Poland,HR & Ops,Lead,Hybrid,2.6,43079.0,8.12,5.08,3500.0,4,2.9672850620656233
+PO-0280,Poland,Product Management,Manager,Fully Remote,5.4,25192.0,8.02,7.65,7000.0,13,0.0
+PO-0281,Poland,Data & Analytics,Lead,Hybrid,0.9,44642.0,6.89,6.19,3500.0,9,1.9934476521963564
+PO-0282,Poland,HR & Ops,Junior,Hybrid,2.4,44778.0,6.63,5.99,3500.0,17,2.077638734499338
+PO-0283,Poland,Data & Analytics,Senior,In-Office,1.6,41226.0,6.94,6.91,0.0,16,5.352525394961636
+PO-0284,Poland,Data & Analytics,Senior,Fully Remote,6.2,34801.0,8.67,7.99,7000.0,16,0.0
+PO-0285,Poland,Data & Analytics,Senior,Hybrid,0.5,40344.0,6.14,7.96,3500.0,13,1.278375605515974
+PO-0286,Poland,Data & Analytics,Junior,Hybrid,1.0,36781.0,8.97,7.71,3500.0,11,1.826946528243937
+PO-0287,Poland,Engineering,Junior,Fully Remote,0.6,45361.0,7.05,7.13,7000.0,15,0.0
+PO-0288,Poland,Engineering,Junior,Fully Remote,6.9,35214.0,5.02,7.37,7000.0,13,0.0
+PO-0289,Poland,HR & Ops,Lead,Hybrid,2.2,38821.0,7.05,8.07,3500.0,6,2.1349717555671925
+PO-0290,Poland,Engineering,Junior,In-Office,1.8,24789.0,7.93,5.91,0.0,15,4.236756859088715
+PO-0291,Poland,Engineering,Mid,In-Office,2.1,40320.0,9.36,7.48,0.0,8,4.938533315655437
+PO-0292,Poland,Engineering,Lead,Hybrid,12.5,32303.0,6.01,6.2,3500.0,10,1.4866038559659343
+PO-0293,Poland,HR & Ops,Junior,Fully Remote,6.6,41895.0,3.62,8.44,7000.0,4,0.0
+PO-0294,Poland,Product Management,Junior,Fully Remote,4.3,43992.0,5.43,7.97,7000.0,9,0.0
+PO-0295,Poland,Sales,Lead,In-Office,1.2,33364.0,8.56,9.77,0.0,14,3.162300708811382
+PO-0296,Poland,HR & Ops,Junior,In-Office,0.6,38237.0,5.05,7.27,0.0,6,3.921841190098469
+PO-0297,Poland,Data & Analytics,Junior,In-Office,8.9,39326.0,9.0,7.86,0.0,3,7.91022311393192
+PO-0298,Poland,Sales,Lead,Hybrid,1.9,40797.0,9.06,5.06,3500.0,16,2.0761590857481087
+PO-0299,Poland,Engineering,Junior,Fully Remote,1.1,44003.0,7.23,8.21,7000.0,4,0.0
+PO-0300,Poland,Product Management,Senior,Hybrid,2.2,43008.0,6.85,9.16,3500.0,4,2.524143306879451
+PO-0301,Poland,Data & Analytics,Junior,Fully Remote,8.7,35113.0,7.07,9.06,7000.0,16,0.0
+PO-0302,Poland,Engineering,Junior,Fully Remote,1.7,50147.0,7.73,6.98,7000.0,17,0.0
+PO-0303,Poland,Data & Analytics,Senior,Hybrid,2.9,43715.0,8.15,6.89,3500.0,3,1.1897414253503595
+PO-0304,Poland,HR & Ops,Lead,Fully Remote,5.7,48679.0,9.09,5.17,7000.0,13,0.0
+PO-0305,Poland,Data & Analytics,Junior,Fully Remote,1.9,40635.0,6.69,5.3,7000.0,13,0.0
+PO-0306,Poland,Engineering,Junior,Hybrid,0.9,41084.0,6.04,7.36,3500.0,6,2.105660712184799
+PO-0307,Poland,Sales,Senior,Hybrid,15.0,37109.0,5.83,4.77,3500.0,9,2.22102632818432
+PO-0308,Poland,Engineering,Lead,In-Office,11.0,34627.0,5.19,5.35,0.0,15,6.880759320528115
+PO-0309,Poland,Product Management,Junior,Fully Remote,6.5,45413.0,7.24,6.93,7000.0,3,0.0
+PO-0310,Poland,Sales,Mid,Fully Remote,4.1,40011.0,6.72,6.9,7000.0,13,0.0
+PO-0311,Poland,HR & Ops,Junior,Fully Remote,1.2,37000.0,7.04,5.35,7000.0,10,0.0
+PO-0312,Poland,Sales,Senior,Fully Remote,8.6,30228.0,6.36,4.95,7000.0,8,0.0
+PO-0313,Poland,HR & Ops,Lead,Fully Remote,1.1,49819.0,5.67,5.17,7000.0,11,0.0
+PO-0314,Poland,Sales,Junior,Hybrid,5.6,38856.0,8.34,7.07,3500.0,8,2.445294404122137
+PO-0315,Poland,Data & Analytics,Senior,Fully Remote,8.8,28677.0,4.04,9.99,7000.0,15,0.0
+PO-0316,Poland,Engineering,Senior,Hybrid,3.2,38619.0,6.64,8.99,3500.0,12,1.3653032374875445
+PO-0317,Poland,Product Management,Mid,In-Office,5.7,36473.0,8.14,6.82,0.0,3,3.930170306856393
+PO-0318,Poland,Sales,Mid,Hybrid,5.5,36161.0,6.52,8.23,3500.0,10,2.479499894780971
+PO-0319,Poland,Engineering,Senior,Fully Remote,0.8,42380.0,7.47,8.32,7000.0,9,0.0
+PO-0320,Poland,Engineering,Senior,Fully Remote,3.9,36483.0,6.04,7.81,7000.0,11,0.0
+PO-0321,Poland,Data & Analytics,Junior,In-Office,0.5,35678.0,6.65,6.04,0.0,11,5.478668976512302
+PO-0322,Poland,Sales,Mid,Hybrid,2.5,48354.0,8.29,6.13,3500.0,14,2.7774928095032836
+PO-0323,Poland,Sales,Senior,In-Office,0.6,24779.0,5.67,6.31,0.0,15,5.212547406646145
+PO-0324,Poland,Data & Analytics,Mid,In-Office,1.9,37609.0,8.09,8.01,0.0,5,4.58772828827669
+PO-0325,Poland,Product Management,Senior,In-Office,6.3,45059.0,7.26,6.09,0.0,12,6.162966341524985
+PO-0326,Poland,Engineering,Junior,In-Office,15.0,42765.0,8.71,4.84,0.0,7,7.313942728356953
+PO-0327,Poland,Sales,Senior,Hybrid,1.3,45752.0,7.85,4.81,3500.0,15,1.7537119659682177
+PO-0328,Poland,Product Management,Senior,Fully Remote,2.7,53364.0,5.72,6.62,7000.0,12,0.0
+PO-0329,Poland,Engineering,Senior,In-Office,2.5,50912.0,9.27,4.96,0.0,8,4.7435140542148915
+PO-0330,Poland,Sales,Junior,Hybrid,10.8,29218.0,6.42,6.75,3500.0,12,1.821618524748683
+PO-0331,Poland,Product Management,Manager,Fully Remote,2.3,25759.0,6.73,8.98,7000.0,9,0.0
+PO-0332,Poland,Data & Analytics,Junior,Hybrid,4.2,40484.0,8.75,7.32,3500.0,5,1.7448013320707123
+PO-0333,Poland,Product Management,Senior,Hybrid,8.9,27709.0,5.34,6.27,3500.0,7,1.642481755577174
+PO-0334,Poland,Engineering,Junior,In-Office,1.6,23359.0,8.93,6.96,0.0,8,4.27304664647653
+PO-0335,Poland,Product Management,Senior,Hybrid,8.1,40403.0,6.22,10.0,3500.0,17,2.400612707767614
+PO-0336,Poland,HR & Ops,Senior,Fully Remote,8.7,42310.0,6.45,6.62,7000.0,6,0.0
+PO-0337,Poland,Data & Analytics,Mid,In-Office,9.3,51005.0,7.55,2.97,0.0,6,3.642886303984392
+PO-0338,Poland,Data & Analytics,Mid,Hybrid,1.1,43840.0,7.55,8.38,3500.0,6,1.6860309530011932
+PO-0339,Poland,Sales,Lead,Hybrid,1.8,52589.0,8.55,7.92,3500.0,7,2.938481215073799
+PO-0340,Poland,Sales,Junior,Fully Remote,7.2,40702.0,5.08,6.94,7000.0,7,0.0
+PO-0341,Poland,Sales,Mid,Fully Remote,1.6,29364.0,7.87,6.47,7000.0,16,0.0
+PO-0342,Poland,Engineering,Senior,Hybrid,3.2,44249.0,8.57,6.19,3500.0,16,1.7964199282359903
+PO-0343,Poland,HR & Ops,Junior,Fully Remote,0.5,48141.0,8.24,9.07,7000.0,10,0.0
+PO-0344,Poland,Engineering,Senior,Fully Remote,0.5,40972.0,5.09,4.04,7000.0,3,0.0
+PO-0345,Poland,Product Management,Senior,Hybrid,1.9,49024.0,5.84,6.94,3500.0,8,2.7106289287258765
+PO-0346,Poland,Data & Analytics,Senior,Hybrid,3.0,37063.0,7.19,6.9,3500.0,17,1.1072567807428983
+PO-0347,Poland,Data & Analytics,Mid,Fully Remote,1.7,42149.0,5.37,8.08,7000.0,16,0.0
+PO-0348,Poland,Sales,Junior,Fully Remote,3.0,36675.0,4.84,8.65,7000.0,7,0.0
+PO-0349,Poland,Sales,Senior,Hybrid,2.5,56081.0,7.14,7.06,3500.0,3,2.5270041694407324
+PO-0350,Poland,HR & Ops,Lead,Hybrid,4.1,44394.0,7.88,7.69,3500.0,8,2.8990748742273036
+PO-0351,Poland,Engineering,Junior,Fully Remote,3.7,29513.0,10.0,7.22,7000.0,10,0.0
+PO-0352,Poland,Engineering,Mid,Fully Remote,1.9,52080.0,7.66,8.38,7000.0,17,0.0
+PO-0353,Poland,Engineering,Junior,Hybrid,1.9,32428.0,9.7,8.95,3500.0,4,2.5070078022146163
+PO-0354,Poland,Data & Analytics,Junior,In-Office,0.5,38104.0,7.15,5.69,0.0,17,5.926101646954776
+PO-0355,Poland,HR & Ops,Senior,Hybrid,2.5,41559.0,8.27,8.06,3500.0,7,1.6082200146856738
+PO-0356,Poland,Product Management,Lead,Fully Remote,3.1,42180.0,6.82,7.37,7000.0,5,0.0
+PO-0357,Poland,HR & Ops,Junior,Fully Remote,2.3,41676.0,10.0,6.63,7000.0,4,0.0
+PO-0358,Poland,Sales,Senior,In-Office,1.4,29389.0,6.38,7.06,0.0,8,6.001012735462903
+PO-0359,Poland,Product Management,Senior,Fully Remote,4.5,41701.0,6.34,6.83,7000.0,5,0.0
+PO-0360,Poland,HR & Ops,Junior,Hybrid,0.5,46365.0,8.56,7.64,3500.0,15,1.1597873755827217
+PO-0361,Poland,Sales,Junior,Fully Remote,8.6,46146.0,7.25,4.77,7000.0,4,0.0
+PO-0362,Poland,Product Management,Mid,Fully Remote,0.5,28106.0,6.49,5.42,7000.0,14,0.0
+PO-0363,Poland,Engineering,Mid,Hybrid,11.5,33017.0,8.75,8.63,3500.0,12,1.4318764080402702
+PO-0364,Poland,Product Management,Manager,Hybrid,2.2,30062.0,7.55,5.58,3500.0,5,2.02876649302204
+PO-0365,Poland,Engineering,Mid,Hybrid,1.9,40583.0,7.54,8.11,3500.0,6,2.3124797864967173
+PO-0366,Poland,HR & Ops,Mid,Fully Remote,1.0,26207.0,7.28,6.68,7000.0,14,0.0
+PO-0367,Poland,Sales,Lead,Fully Remote,0.5,29467.0,4.92,8.35,7000.0,13,0.0
+PO-0368,Poland,Product Management,Mid,Hybrid,1.1,32945.0,5.69,8.37,3500.0,14,1.4049243672776628
+PO-0369,Poland,Data & Analytics,Senior,Hybrid,0.5,24344.0,8.9,6.72,3500.0,14,1.2127768108281547
+PO-0370,Poland,HR & Ops,Senior,Fully Remote,3.8,37789.0,6.19,6.47,7000.0,16,0.0
+PO-0371,Poland,Data & Analytics,Senior,Fully Remote,1.3,21991.0,6.84,3.82,7000.0,4,0.0
+PO-0372,Poland,HR & Ops,Mid,Fully Remote,5.1,41689.0,8.93,6.6,7000.0,6,0.0
+PO-0373,Poland,Engineering,Junior,In-Office,0.8,34983.0,7.09,4.59,0.0,9,5.101451300271275
+PO-0374,Poland,Product Management,Lead,Hybrid,8.1,33258.0,7.35,7.07,3500.0,15,1.064036106638902
+PO-0375,Poland,Product Management,Junior,In-Office,2.6,34498.0,8.28,5.54,0.0,13,5.104216941933341
+PO-0376,Poland,Sales,Junior,Fully Remote,0.5,37541.0,6.28,5.49,7000.0,7,0.0
+PO-0377,Poland,HR & Ops,Lead,In-Office,1.8,42506.0,8.64,8.28,0.0,6,3.1013998688371
+PO-0378,Poland,Data & Analytics,Junior,Fully Remote,0.8,48010.0,8.05,4.89,7000.0,11,0.0
+PO-0379,Poland,Product Management,Manager,Hybrid,0.8,45706.0,9.8,5.96,3500.0,13,1.6789878301198855
+PO-0380,Poland,Product Management,Lead,In-Office,2.5,54961.0,6.37,5.45,0.0,13,7.6455817634566285
+PO-0381,Poland,Product Management,Manager,Fully Remote,3.9,43132.0,8.64,6.08,7000.0,14,0.0
+PO-0382,Poland,HR & Ops,Mid,Fully Remote,8.5,39066.0,7.66,5.48,7000.0,6,0.0
+PO-0383,Poland,HR & Ops,Junior,Fully Remote,2.4,34527.0,5.41,6.26,7000.0,5,0.0
+PO-0384,Poland,HR & Ops,Manager,Fully Remote,11.8,34779.0,3.88,7.25,7000.0,7,0.0
+PO-0385,Poland,Data & Analytics,Mid,Hybrid,9.9,42097.0,6.64,8.4,3500.0,4,2.705912227347498
+PO-0386,Poland,Data & Analytics,Mid,Hybrid,7.0,30404.0,7.95,8.33,3500.0,7,1.970744742409101
+PO-0387,Poland,Product Management,Lead,Hybrid,2.4,39740.0,8.12,4.54,3500.0,12,2.8256777163879505
+PO-0388,Poland,HR & Ops,Junior,Hybrid,0.5,37857.0,7.53,7.97,3500.0,9,1.7787737093353844
+PO-0389,Poland,Product Management,Junior,Hybrid,0.9,32466.0,7.54,8.06,3500.0,10,2.8453628680132237
+PO-0390,Poland,Data & Analytics,Mid,Fully Remote,3.7,30011.0,6.85,5.81,7000.0,16,0.0
+PO-0391,Poland,Product Management,Senior,Fully Remote,1.9,57188.0,8.24,9.3,7000.0,14,0.0
+PO-0392,Poland,Data & Analytics,Mid,In-Office,0.6,27386.0,5.48,8.13,0.0,16,5.960950902146092
+PO-0393,Poland,HR & Ops,Mid,Fully Remote,2.3,37485.0,7.32,6.53,7000.0,16,0.0
+PO-0394,Poland,HR & Ops,Junior,Hybrid,0.5,47292.0,6.61,6.51,3500.0,12,2.7401103862185656
+PO-0395,Poland,Sales,Lead,Fully Remote,4.6,42021.0,5.91,9.28,7000.0,5,0.0
+PO-0396,Poland,Product Management,Senior,Hybrid,0.5,34401.0,9.01,7.37,3500.0,17,1.960533851331255
+PO-0397,Poland,Engineering,Lead,Hybrid,3.5,28940.0,6.42,7.53,3500.0,10,2.853415008678181
+PO-0398,Poland,Sales,Mid,Fully Remote,5.5,38986.0,6.83,6.91,7000.0,8,0.0
+PO-0399,Poland,Product Management,Mid,Fully Remote,0.5,17940.0,9.35,10.0,7000.0,14,0.0
+PO-0400,Poland,Engineering,Senior,Hybrid,2.6,39291.0,8.61,7.08,3500.0,17,1.444706038420629
+PO-0401,Poland,Product Management,Manager,Fully Remote,5.3,38265.0,6.45,6.76,7000.0,13,0.0
+PO-0402,Poland,Product Management,Senior,Fully Remote,1.1,46133.0,6.55,5.55,7000.0,4,0.0
+PO-0403,Poland,Engineering,Junior,Hybrid,0.6,29311.0,6.13,6.82,3500.0,12,2.351493520694354
+PO-0404,Poland,Data & Analytics,Mid,Fully Remote,1.4,35542.0,8.56,5.25,7000.0,9,0.0
+PO-0405,Poland,Data & Analytics,Lead,In-Office,2.8,41320.0,8.41,5.28,0.0,16,6.352077573294783
+PO-0406,Poland,Data & Analytics,Junior,Hybrid,3.0,39562.0,8.42,4.69,3500.0,9,2.40556575433195
+PO-0407,Poland,HR & Ops,Lead,Fully Remote,0.5,27796.0,7.96,8.12,7000.0,14,0.0
+PO-0408,Poland,Product Management,Mid,Hybrid,2.1,33079.0,6.67,7.64,3500.0,4,2.6849154554215753
+PO-0409,Poland,Engineering,Junior,Hybrid,1.1,48639.0,5.74,7.76,3500.0,9,1.0309649182750307
+PO-0410,Poland,Engineering,Junior,Fully Remote,6.5,39971.0,7.67,6.72,7000.0,15,0.0
+PO-0411,Poland,Data & Analytics,Senior,Fully Remote,1.3,25353.0,8.07,6.91,7000.0,8,0.0
+PO-0412,Poland,Sales,Manager,Fully Remote,6.4,44713.0,8.93,9.23,7000.0,8,0.0
+PO-0413,Poland,HR & Ops,Manager,Fully Remote,2.0,25846.0,6.76,5.65,7000.0,13,0.0
+PO-0414,Poland,Product Management,Lead,Fully Remote,4.5,35667.0,6.58,7.22,7000.0,17,0.0
+PO-0415,Poland,Sales,Senior,Fully Remote,2.5,42281.0,6.71,7.21,7000.0,4,0.0
+PO-0416,Poland,Engineering,Mid,Fully Remote,3.4,47224.0,7.8,8.51,7000.0,7,0.0
+PO-0417,Poland,Engineering,Senior,Hybrid,1.8,20232.0,7.26,8.06,3500.0,10,2.5349916670186143
+PO-0418,Poland,Sales,Junior,Hybrid,5.1,43408.0,7.54,8.13,3500.0,3,2.7316845774991636
+PO-0419,Poland,Data & Analytics,Mid,Hybrid,1.9,44549.0,8.6,5.51,3500.0,6,1.8445842256716634
+PO-0420,Poland,Sales,Mid,Hybrid,2.1,33767.0,6.85,6.19,3500.0,3,2.509957466298326
+PO-0421,Poland,Engineering,Mid,In-Office,2.6,38691.0,8.87,4.75,0.0,15,7.065525235554219
+PO-0422,Poland,Sales,Senior,Hybrid,6.2,14805.0,8.36,3.69,3500.0,4,1.0982537877837046
+PO-0423,Poland,Sales,Mid,Hybrid,3.8,17115.0,5.37,8.0,3500.0,4,2.0646954559092574
+PO-0424,Poland,Sales,Lead,Fully Remote,1.5,46425.0,6.38,6.41,7000.0,5,0.0
+PO-0425,Poland,Data & Analytics,Junior,In-Office,3.9,33904.0,4.77,7.1,0.0,16,6.975437303301298
+PO-0426,Poland,Data & Analytics,Mid,Fully Remote,3.6,35369.0,6.76,6.85,7000.0,11,0.0
+PO-0427,Poland,Sales,Lead,Fully Remote,9.4,39784.0,6.4,7.16,7000.0,14,0.0
+PO-0428,Poland,Product Management,Mid,Hybrid,6.4,35219.0,8.6,9.41,3500.0,16,2.012742841512524
+PO-0429,Poland,Sales,Senior,Fully Remote,3.6,34514.0,5.94,6.81,7000.0,6,0.0
+PO-0430,Poland,Sales,Lead,Fully Remote,1.5,40998.0,7.47,7.8,7000.0,4,0.0
+PO-0431,Poland,Product Management,Mid,Hybrid,5.3,26634.0,8.28,6.95,3500.0,10,2.3772546045899965
+PO-0432,Poland,Engineering,Senior,Hybrid,3.0,46815.0,7.91,8.64,3500.0,16,1.6646198214799193
+PO-0433,Poland,Product Management,Mid,Hybrid,14.8,36250.0,8.97,5.54,3500.0,10,2.400375121660913
+PO-0434,Poland,Sales,Senior,Hybrid,1.0,30357.0,10.0,4.64,3500.0,17,2.985726867207105
+PO-0435,Poland,HR & Ops,Junior,Fully Remote,0.5,29334.0,7.13,9.96,7000.0,9,0.0
+PO-0436,Poland,Engineering,Manager,Fully Remote,0.5,38324.0,7.49,9.55,7000.0,5,0.0
+PO-0437,Poland,Sales,Senior,Hybrid,3.6,35672.0,6.54,4.48,3500.0,5,1.0482236786527956
+PO-0438,Poland,Data & Analytics,Senior,Fully Remote,9.8,26229.0,5.78,6.75,7000.0,13,0.0
+PO-0439,Poland,Data & Analytics,Lead,Hybrid,0.5,33426.0,8.84,7.62,3500.0,5,1.8672451738033478
+PO-0440,Poland,Engineering,Junior,Fully Remote,4.5,31850.0,8.08,7.88,7000.0,10,0.0
+PO-0441,Poland,HR & Ops,Mid,Hybrid,3.7,47590.0,6.36,10.0,3500.0,15,1.8786065446559939
+PO-0442,Poland,HR & Ops,Manager,Hybrid,4.6,38991.0,6.03,5.81,3500.0,14,1.7421294696070628
+PO-0443,Poland,HR & Ops,Junior,Hybrid,1.5,49927.0,6.82,5.89,3500.0,13,2.444922620677908
+PO-0444,Poland,Engineering,Mid,Hybrid,6.0,32604.0,7.43,7.4,3500.0,12,2.0166943498146863
+PO-0445,Poland,Engineering,Senior,Hybrid,0.5,35787.0,7.11,5.95,3500.0,10,2.4848410237427965
+PO-0446,Poland,Data & Analytics,Senior,Fully Remote,4.9,40938.0,7.19,2.73,7000.0,8,0.0
+PO-0447,Poland,HR & Ops,Mid,Fully Remote,1.1,42591.0,8.1,6.46,7000.0,12,0.0
+PO-0448,Poland,Data & Analytics,Senior,Fully Remote,2.3,43480.0,7.55,8.09,7000.0,12,0.0
+PO-0449,Poland,Data & Analytics,Junior,Fully Remote,6.1,31253.0,7.64,6.77,7000.0,14,0.0
+PO-0450,Poland,Engineering,Junior,Fully Remote,1.1,31466.0,4.06,7.74,7000.0,16,0.0
+PO-0451,Poland,Sales,Senior,Hybrid,0.7,35299.0,5.66,8.12,3500.0,3,1.9385645562404827
+PO-0452,Poland,HR & Ops,Junior,Fully Remote,4.0,49255.0,6.04,5.26,7000.0,17,0.0
+PO-0453,Poland,Engineering,Junior,Hybrid,2.7,30395.0,6.84,7.5,3500.0,6,2.479048868534449
+PO-0454,Poland,Data & Analytics,Junior,In-Office,2.5,33995.0,8.21,4.21,0.0,17,3.892420371735424
+PO-0455,Poland,Sales,Junior,Fully Remote,1.0,43547.0,5.95,6.03,7000.0,6,0.0
+PO-0456,Poland,Engineering,Junior,Fully Remote,0.5,43140.0,7.8,6.88,7000.0,9,0.0
+PO-0457,Poland,HR & Ops,Junior,Fully Remote,1.8,42221.0,6.06,6.8,7000.0,12,0.0
+PO-0458,Poland,Engineering,Junior,Hybrid,0.5,38614.0,6.16,5.46,3500.0,17,1.1719474705584232
+PO-0459,Poland,Engineering,Senior,Hybrid,8.3,29905.0,6.21,5.77,3500.0,9,1.6774825259069637
+PO-0460,Poland,Data & Analytics,Senior,Fully Remote,0.5,32750.0,9.71,7.24,7000.0,15,0.0
+PO-0461,Poland,Product Management,Manager,Hybrid,2.0,46561.0,6.63,8.64,3500.0,15,1.3493987028417969
+PO-0462,Poland,Product Management,Junior,Fully Remote,0.5,43880.0,7.83,6.49,7000.0,6,0.0
+PO-0463,Poland,Sales,Senior,Hybrid,0.5,27854.0,5.73,7.01,3500.0,12,2.3426070261870326
+PO-0464,Poland,Product Management,Junior,Hybrid,3.8,44608.0,9.3,8.8,3500.0,16,2.8378055286913764
+PO-0465,Poland,Engineering,Senior,Hybrid,3.6,47947.0,8.02,6.24,3500.0,16,1.3069136642163242
+PO-0466,Poland,HR & Ops,Senior,Fully Remote,0.5,38409.0,7.33,9.39,7000.0,3,0.0
+PO-0467,Poland,HR & Ops,Mid,In-Office,0.5,41240.0,7.7,4.48,0.0,6,6.697551165785324
+PO-0468,Poland,Sales,Mid,Hybrid,0.5,45687.0,8.23,8.97,3500.0,17,2.02486646513863
+PO-0469,Poland,HR & Ops,Mid,Fully Remote,5.0,32713.0,7.97,7.61,7000.0,16,0.0
+PO-0470,Poland,Engineering,Senior,Fully Remote,3.1,55705.0,6.28,10.0,7000.0,16,0.0
+PO-0471,Poland,Sales,Lead,Fully Remote,0.5,47295.0,6.21,5.12,7000.0,13,0.0
+PO-0472,Poland,Engineering,Junior,Hybrid,2.3,41983.0,7.66,3.9,3500.0,14,1.7675478607112476
+PO-0473,Poland,Sales,Junior,In-Office,4.4,37738.0,8.02,8.37,0.0,4,6.3056529341285845
+PO-0474,Poland,Sales,Lead,Hybrid,7.1,41760.0,7.52,5.19,3500.0,15,1.4974865325823645
+PO-0475,Poland,Engineering,Junior,In-Office,9.5,26142.0,8.13,7.42,0.0,4,5.1470939342612665
+PO-0476,Poland,Product Management,Junior,Fully Remote,1.4,53824.0,7.74,8.57,7000.0,4,0.0
+PO-0477,Poland,Data & Analytics,Senior,Fully Remote,0.5,46580.0,6.74,7.37,7000.0,8,0.0
+PO-0478,Poland,HR & Ops,Mid,In-Office,0.9,49127.0,5.1,6.85,0.0,16,4.483556542643424
+PO-0479,Poland,Product Management,Junior,Hybrid,5.2,38234.0,7.0,8.0,3500.0,9,1.8802884130758737
+PO-0480,Poland,Data & Analytics,Mid,Hybrid,12.5,35262.0,9.69,8.66,3500.0,3,1.2211726879279095
+PO-0481,Poland,Product Management,Senior,Hybrid,2.2,32875.0,8.01,8.28,3500.0,5,2.020431868156808
+PO-0482,Poland,Product Management,Mid,In-Office,1.3,44183.0,6.43,4.68,0.0,5,3.096592017671702
+PO-0483,Poland,Sales,Senior,Hybrid,2.0,34105.0,7.9,10.0,3500.0,5,2.3367304531808664
+PO-0484,Poland,Sales,Senior,In-Office,1.3,36576.0,8.01,6.58,0.0,13,7.81377673712163
+PO-0485,Poland,Product Management,Mid,Hybrid,1.0,42153.0,6.83,8.18,3500.0,8,2.1913612716462305
+PO-0486,Poland,Product Management,Senior,Fully Remote,3.2,32989.0,8.48,7.87,7000.0,7,0.0
+PO-0487,Poland,Engineering,Lead,In-Office,0.5,45934.0,7.79,8.23,0.0,9,7.503282753841998
+PO-0488,Poland,Sales,Junior,Fully Remote,1.1,37865.0,5.68,8.38,7000.0,13,0.0
+PO-0489,Poland,Engineering,Mid,In-Office,3.8,26538.0,8.23,6.7,0.0,16,4.365407251606592
+PO-0490,Poland,Engineering,Mid,Hybrid,0.5,32908.0,7.11,7.5,3500.0,13,1.8766655512287076
+PO-0491,Poland,HR & Ops,Lead,Hybrid,0.5,47942.0,7.39,8.01,3500.0,13,1.6477017731140065
+PO-0492,Poland,Sales,Manager,Hybrid,1.2,30879.0,6.38,9.05,3500.0,16,2.0657806567831978
+PO-0493,Poland,Sales,Junior,Fully Remote,7.4,44795.0,7.76,5.13,7000.0,14,0.0
+PO-0494,Poland,Product Management,Mid,Fully Remote,5.1,38925.0,6.82,7.77,7000.0,9,0.0
+PO-0495,Poland,Product Management,Senior,In-Office,0.5,36695.0,8.01,5.17,0.0,5,6.827741770496579
+PO-0496,Poland,Data & Analytics,Mid,In-Office,2.4,57096.0,6.54,9.28,0.0,5,6.471134080208522
+PO-0497,Poland,Sales,Lead,Fully Remote,1.1,28240.0,6.2,7.35,7000.0,12,0.0
+PO-0498,Poland,Data & Analytics,Manager,In-Office,3.7,32375.0,6.3,5.88,0.0,4,3.23699288965582
+PO-0499,Poland,HR & Ops,Senior,In-Office,4.5,37822.0,7.68,7.14,0.0,8,7.5232803120441485
+PO-0500,Poland,Data & Analytics,Senior,Hybrid,7.0,56360.0,6.78,7.41,3500.0,13,2.706290633117183
+HU-0001,Hungary,Sales,Senior,Fully Remote,2.3,47176.0,6.93,7.9,6500.0,6,0.0
+HU-0002,Hungary,Engineering,Mid,Fully Remote,0.8,35383.0,6.91,4.67,6500.0,6,0.0
+HU-0003,Hungary,Engineering,Junior,In-Office,0.8,32958.0,7.26,8.2,0.0,12,7.225536495027061
+HU-0004,Hungary,Data & Analytics,Mid,Fully Remote,9.9,32222.0,7.56,6.9,6500.0,10,0.0
+HU-0005,Hungary,Data & Analytics,Senior,Hybrid,5.0,27323.0,8.01,5.77,3250.0,10,2.7855867128413196
+HU-0006,Hungary,Engineering,Junior,Fully Remote,4.2,30296.0,6.97,6.76,6500.0,7,0.0
+HU-0007,Hungary,HR & Ops,Lead,Fully Remote,1.0,42953.0,9.34,3.86,6500.0,17,0.0
+HU-0008,Hungary,Data & Analytics,Mid,Fully Remote,0.5,20504.0,7.83,7.67,6500.0,15,0.0
+HU-0009,Hungary,Sales,Senior,Hybrid,7.2,35491.0,6.29,7.21,3250.0,15,1.9513019689032733
+HU-0010,Hungary,Product Management,Mid,Hybrid,0.5,35196.0,5.75,5.49,3250.0,14,2.2257095479267277
+HU-0011,Hungary,Data & Analytics,Mid,Fully Remote,1.7,35829.0,6.17,6.36,6500.0,5,0.0
+HU-0012,Hungary,Data & Analytics,Senior,Fully Remote,1.1,40092.0,7.18,5.74,6500.0,10,0.0
+HU-0013,Hungary,HR & Ops,Junior,In-Office,3.0,35428.0,6.26,5.53,0.0,7,3.0070911006695775
+HU-0014,Hungary,Sales,Senior,In-Office,1.0,31822.0,6.45,3.11,0.0,10,7.860244823878571
+HU-0015,Hungary,Sales,Senior,Hybrid,1.3,30404.0,7.63,4.89,3250.0,12,1.4035991626843805
+HU-0016,Hungary,Product Management,Lead,Hybrid,6.6,44088.0,7.19,7.06,3250.0,9,1.49936212867865
+HU-0017,Hungary,Sales,Junior,Hybrid,3.2,42287.0,5.14,6.8,3250.0,12,1.9424733745832954
+HU-0018,Hungary,Product Management,Mid,Fully Remote,0.6,55143.0,8.29,8.26,6500.0,12,0.0
+HU-0019,Hungary,Engineering,Lead,Fully Remote,4.5,33033.0,8.01,5.85,6500.0,10,0.0
+HU-0020,Hungary,Sales,Junior,Fully Remote,0.8,30533.0,5.46,6.01,6500.0,9,0.0
+HU-0021,Hungary,Engineering,Junior,In-Office,2.0,38172.0,7.27,5.78,0.0,3,6.991019128719709
+HU-0022,Hungary,Data & Analytics,Mid,Hybrid,3.6,38003.0,6.26,7.1,3250.0,15,1.1119117208292533
+HU-0023,Hungary,Product Management,Mid,Hybrid,1.1,39454.0,6.87,7.54,3250.0,13,2.3949456639516002
+HU-0024,Hungary,Data & Analytics,Lead,Fully Remote,1.7,40930.0,7.58,6.19,6500.0,4,0.0
+HU-0025,Hungary,Sales,Senior,Hybrid,4.6,39387.0,8.57,8.26,3250.0,9,1.779311829406365
+HU-0026,Hungary,Sales,Mid,Hybrid,9.7,42525.0,8.54,10.0,3250.0,10,2.5887046584953506
+HU-0027,Hungary,Engineering,Mid,In-Office,2.6,43456.0,7.49,5.26,0.0,3,6.815096989078337
+HU-0028,Hungary,Data & Analytics,Mid,Fully Remote,0.5,43581.0,8.53,7.39,6500.0,17,0.0
+HU-0029,Hungary,Engineering,Mid,Hybrid,1.4,19171.0,6.87,7.44,3250.0,7,1.2582728081326686
+HU-0030,Hungary,HR & Ops,Junior,Fully Remote,1.8,36627.0,6.53,8.37,6500.0,14,0.0
+HU-0031,Hungary,Engineering,Mid,Hybrid,1.4,28538.0,4.49,7.7,3250.0,8,1.9494555705409669
+HU-0032,Hungary,Data & Analytics,Senior,Hybrid,2.0,42388.0,7.49,6.31,3250.0,9,2.9584499445132213
+HU-0033,Hungary,Product Management,Junior,Fully Remote,3.5,19024.0,7.7,5.05,6500.0,6,0.0
+HU-0034,Hungary,Sales,Mid,Hybrid,0.5,45285.0,7.94,8.32,3250.0,13,1.4230410354884548
+HU-0035,Hungary,Product Management,Senior,Fully Remote,1.1,28947.0,6.25,5.17,6500.0,4,0.0
+HU-0036,Hungary,Product Management,Junior,In-Office,2.5,27343.0,8.21,8.28,0.0,12,3.7142921443324624
+HU-0037,Hungary,Sales,Junior,Fully Remote,1.3,37494.0,6.91,7.63,6500.0,8,0.0
+HU-0038,Hungary,HR & Ops,Manager,Hybrid,15.0,32387.0,8.52,7.53,3250.0,16,1.83333609984019
+HU-0039,Hungary,Sales,Lead,In-Office,2.0,47456.0,7.78,4.53,0.0,16,6.156446561663655
+HU-0040,Hungary,Engineering,Mid,Fully Remote,7.1,44541.0,8.71,7.81,6500.0,15,0.0
+HU-0041,Hungary,Product Management,Mid,Hybrid,7.9,31424.0,8.01,9.83,3250.0,3,2.448017584323108
+HU-0042,Hungary,Sales,Mid,Hybrid,6.3,42297.0,8.33,6.76,3250.0,13,2.655740759012348
+HU-0043,Hungary,Data & Analytics,Senior,Fully Remote,0.5,31183.0,6.91,5.69,6500.0,9,0.0
+HU-0044,Hungary,Sales,Mid,Hybrid,10.3,31123.0,7.0,7.26,3250.0,15,2.3076093187686615
+HU-0045,Hungary,Data & Analytics,Mid,Hybrid,0.5,39999.0,8.19,8.1,3250.0,14,2.3568533340174738
+HU-0046,Hungary,HR & Ops,Junior,In-Office,0.5,45191.0,9.0,5.7,0.0,4,5.8864003448524205
+HU-0047,Hungary,Data & Analytics,Junior,In-Office,1.9,31912.0,6.46,7.85,0.0,3,4.591033979980436
+HU-0048,Hungary,Data & Analytics,Senior,Hybrid,0.8,32445.0,7.3,10.0,3250.0,16,1.152784434264079
+HU-0049,Hungary,Product Management,Junior,Hybrid,0.7,37108.0,7.63,7.9,3250.0,9,2.6385420562871964
+HU-0050,Hungary,Engineering,Mid,Hybrid,1.2,28742.0,8.42,6.91,3250.0,11,1.2832051512259768
+HU-0051,Hungary,Engineering,Senior,Hybrid,1.0,45958.0,8.01,8.06,3250.0,8,2.721740247109344
+HU-0052,Hungary,Sales,Senior,Fully Remote,4.0,28675.0,8.1,8.57,6500.0,15,0.0
+HU-0053,Hungary,Sales,Mid,Hybrid,0.7,30568.0,9.97,7.64,3250.0,4,2.5364955552926327
+HU-0054,Hungary,HR & Ops,Junior,In-Office,2.7,47371.0,6.43,7.23,0.0,13,7.688410510797351
+HU-0055,Hungary,Engineering,Junior,Hybrid,15.0,36502.0,8.33,8.46,3250.0,6,2.5813190520912217
+HU-0056,Hungary,Data & Analytics,Manager,Hybrid,2.0,48605.0,7.98,6.09,3250.0,8,1.0273553022092883
+HU-0057,Hungary,Data & Analytics,Mid,Fully Remote,3.6,33465.0,7.02,7.49,6500.0,9,0.0
+HU-0058,Hungary,Engineering,Lead,In-Office,12.2,52637.0,7.93,4.49,0.0,11,3.4237973663766095
+HU-0059,Hungary,Engineering,Senior,Fully Remote,0.5,39310.0,6.68,5.81,6500.0,3,0.0
+HU-0060,Hungary,Data & Analytics,Lead,Hybrid,1.9,29733.0,7.99,9.12,3250.0,11,2.2577211706890044
+HU-0061,Hungary,Data & Analytics,Junior,Fully Remote,6.6,29625.0,5.43,8.11,6500.0,17,0.0
+HU-0062,Hungary,HR & Ops,Junior,Fully Remote,9.4,24800.0,6.35,6.39,6500.0,14,0.0
+HU-0063,Hungary,HR & Ops,Senior,Hybrid,3.2,25565.0,8.86,9.96,3250.0,4,2.6170265465208216
+HU-0064,Hungary,Product Management,Lead,In-Office,0.5,30383.0,8.41,4.53,0.0,8,3.1831581992480964
+HU-0065,Hungary,HR & Ops,Senior,Fully Remote,8.1,28059.0,7.31,6.49,6500.0,12,0.0
+HU-0066,Hungary,Sales,Mid,Fully Remote,0.7,16954.0,6.46,7.21,6500.0,13,0.0
+HU-0067,Hungary,Data & Analytics,Mid,Fully Remote,1.5,40891.0,7.99,2.59,6500.0,5,0.0
+HU-0068,Hungary,Data & Analytics,Mid,Fully Remote,1.6,40427.0,8.48,6.56,6500.0,16,0.0
+HU-0069,Hungary,Engineering,Senior,Fully Remote,2.1,37159.0,6.51,5.11,6500.0,8,0.0
+HU-0070,Hungary,Data & Analytics,Mid,Hybrid,5.5,27055.0,5.85,5.75,3250.0,12,1.3655770667297993
+HU-0071,Hungary,Data & Analytics,Junior,In-Office,5.7,46528.0,7.74,6.09,0.0,16,4.939494507282031
+HU-0072,Hungary,HR & Ops,Manager,Fully Remote,4.5,33753.0,8.1,4.06,6500.0,14,0.0
+HU-0073,Hungary,Sales,Senior,Hybrid,0.5,29167.0,8.3,6.19,3250.0,10,2.0749361290106103
+HU-0074,Hungary,Product Management,Junior,Fully Remote,2.9,36628.0,8.88,4.1,6500.0,8,0.0
+HU-0075,Hungary,HR & Ops,Mid,Fully Remote,4.8,36227.0,8.88,6.99,6500.0,16,0.0
+HU-0076,Hungary,Engineering,Mid,Fully Remote,2.1,17481.0,6.63,6.96,6500.0,11,0.0
+HU-0077,Hungary,Engineering,Senior,Hybrid,10.1,34783.0,7.84,6.88,3250.0,3,2.249117271834789
+HU-0078,Hungary,Product Management,Lead,Fully Remote,6.1,35844.0,6.4,8.29,6500.0,5,0.0
+HU-0079,Hungary,Engineering,Junior,Hybrid,3.6,32349.0,6.37,6.96,3250.0,14,2.024207710927598
+HU-0080,Hungary,Engineering,Mid,Fully Remote,0.5,25750.0,5.84,6.77,6500.0,9,0.0
+HU-0081,Hungary,Product Management,Senior,Fully Remote,3.7,25956.0,7.86,5.44,6500.0,7,0.0
+HU-0082,Hungary,Data & Analytics,Junior,Fully Remote,8.5,38598.0,7.36,3.35,6500.0,5,0.0
+HU-0083,Hungary,Engineering,Manager,In-Office,1.7,40331.0,8.27,6.28,0.0,7,5.91707717630062
+HU-0084,Hungary,Data & Analytics,Mid,Hybrid,6.4,31864.0,10.0,6.99,3250.0,9,1.5714628571315625
+HU-0085,Hungary,Engineering,Junior,In-Office,1.3,37676.0,7.8,9.06,0.0,10,7.3794286068347565
+HU-0086,Hungary,HR & Ops,Mid,Fully Remote,3.0,31795.0,6.05,7.8,6500.0,13,0.0
+HU-0087,Hungary,Sales,Mid,Fully Remote,3.7,29027.0,8.24,6.18,6500.0,10,0.0
+HU-0088,Hungary,Data & Analytics,Lead,Fully Remote,4.0,36501.0,6.03,7.01,6500.0,9,0.0
+HU-0089,Hungary,Sales,Mid,Fully Remote,7.5,26956.0,9.1,8.16,6500.0,12,0.0
+HU-0090,Hungary,Data & Analytics,Lead,Hybrid,0.9,48256.0,5.23,8.18,3250.0,13,1.6448825416332726
+HU-0091,Hungary,Sales,Senior,Fully Remote,1.1,24937.0,6.34,9.3,6500.0,8,0.0
+HU-0092,Hungary,Product Management,Junior,Fully Remote,4.3,36987.0,7.75,5.62,6500.0,6,0.0
+HU-0093,Hungary,Engineering,Lead,Hybrid,0.7,36052.0,9.01,8.86,3250.0,13,2.34445076109435
+HU-0094,Hungary,Product Management,Mid,Hybrid,2.2,35430.0,6.79,6.77,3250.0,14,2.0145456888464808
+HU-0095,Hungary,Sales,Senior,In-Office,0.5,45384.0,6.17,6.79,0.0,14,5.28033572485462
+HU-0096,Hungary,Engineering,Junior,Fully Remote,0.5,16197.0,7.18,5.96,6500.0,16,0.0
+HU-0097,Hungary,Data & Analytics,Mid,Hybrid,4.0,37882.0,9.89,7.19,3250.0,16,1.5843536067640898
+HU-0098,Hungary,HR & Ops,Senior,Fully Remote,4.8,33086.0,5.15,7.12,6500.0,3,0.0
+HU-0099,Hungary,Product Management,Senior,In-Office,0.5,39088.0,6.82,7.39,0.0,12,7.815573296924399
+HU-0100,Hungary,Engineering,Mid,Hybrid,0.9,35383.0,7.91,7.49,3250.0,13,2.0419690850168015
+HU-0101,Hungary,Sales,Senior,Hybrid,0.5,34475.0,6.64,3.67,3250.0,12,1.7539864707332697
+HU-0102,Hungary,Data & Analytics,Mid,Fully Remote,2.0,26549.0,6.04,6.68,6500.0,5,0.0
+HU-0103,Hungary,Data & Analytics,Junior,Hybrid,0.5,30288.0,7.32,9.61,3250.0,16,2.164401801514575
+HU-0104,Hungary,Sales,Senior,Fully Remote,2.0,56921.0,7.35,6.67,6500.0,6,0.0
+HU-0105,Hungary,Engineering,Mid,Hybrid,4.6,39152.0,7.37,9.65,3250.0,7,2.5168170601825657
+HU-0106,Hungary,Engineering,Senior,In-Office,4.0,42368.0,8.96,6.32,0.0,7,7.670732075230562
+HU-0107,Hungary,Product Management,Mid,In-Office,1.2,32537.0,7.91,4.14,0.0,17,3.7159875194012106
+HU-0108,Hungary,Data & Analytics,Mid,Hybrid,3.9,29011.0,8.06,6.75,3250.0,7,1.0778674145787424
+HU-0109,Hungary,Sales,Junior,In-Office,9.2,40435.0,8.43,5.66,0.0,17,5.957249657215124
+HU-0110,Hungary,Data & Analytics,Senior,Fully Remote,1.5,21674.0,7.48,6.46,6500.0,11,0.0
+HU-0111,Hungary,Data & Analytics,Manager,In-Office,1.4,30445.0,6.67,4.72,0.0,9,7.365031539777824
+HU-0112,Hungary,Product Management,Senior,Hybrid,3.0,32518.0,7.28,7.39,3250.0,6,1.858685566741549
+HU-0113,Hungary,Data & Analytics,Senior,Hybrid,1.0,41615.0,6.24,6.91,3250.0,7,1.5576751671552167
+HU-0114,Hungary,Product Management,Mid,In-Office,3.7,37896.0,9.61,8.43,0.0,16,4.193644059555725
+HU-0115,Hungary,Sales,Junior,In-Office,6.2,31690.0,8.32,4.68,0.0,10,4.722206530436825
+HU-0116,Hungary,HR & Ops,Lead,Fully Remote,2.2,37583.0,3.93,7.17,6500.0,13,0.0
+HU-0117,Hungary,Product Management,Junior,Hybrid,4.0,32878.0,9.2,8.02,3250.0,3,2.5742022650717473
+HU-0118,Hungary,Sales,Junior,Fully Remote,3.7,42490.0,5.24,7.96,6500.0,16,0.0
+HU-0119,Hungary,Engineering,Senior,In-Office,0.5,36653.0,7.82,5.95,0.0,11,6.232986419012352
+HU-0120,Hungary,Data & Analytics,Mid,Hybrid,0.7,47155.0,4.96,7.73,3250.0,13,2.154798534266182
+HU-0121,Hungary,Engineering,Manager,Fully Remote,7.8,33055.0,6.49,7.33,6500.0,6,0.0
+HU-0122,Hungary,HR & Ops,Mid,Hybrid,9.8,43578.0,9.21,4.93,3250.0,12,2.927906850776574
+HU-0123,Hungary,Product Management,Senior,Hybrid,5.3,35633.0,9.28,6.91,3250.0,7,2.0408175293651976
+HU-0124,Hungary,HR & Ops,Lead,Hybrid,8.9,30119.0,7.97,7.35,3250.0,8,2.5307039878393076
+HU-0125,Hungary,HR & Ops,Senior,Fully Remote,1.3,53211.0,7.94,6.93,6500.0,5,0.0
+HU-0126,Hungary,Data & Analytics,Mid,Fully Remote,1.0,44168.0,5.3,6.91,6500.0,17,0.0
+HU-0127,Hungary,Engineering,Junior,Hybrid,1.7,36640.0,8.25,8.06,3250.0,16,1.4004418715773321
+HU-0128,Hungary,Data & Analytics,Mid,Fully Remote,0.5,40362.0,8.02,9.71,6500.0,7,0.0
+HU-0129,Hungary,Data & Analytics,Senior,Hybrid,5.8,27426.0,10.0,6.51,3250.0,9,1.0191712802887891
+HU-0130,Hungary,Engineering,Junior,Hybrid,14.5,27672.0,6.85,7.97,3250.0,5,1.0617942451426308
+HU-0131,Hungary,Product Management,Mid,Fully Remote,6.1,42799.0,7.02,8.75,6500.0,7,0.0
+HU-0132,Hungary,Product Management,Mid,Hybrid,2.8,35034.0,7.69,4.7,3250.0,7,2.106366984515459
+HU-0133,Hungary,Engineering,Mid,Hybrid,1.2,33909.0,8.44,7.8,3250.0,14,2.820943252342568
+HU-0134,Hungary,Data & Analytics,Junior,Hybrid,0.8,32984.0,8.66,4.88,3250.0,13,2.1969235164961325
+HU-0135,Hungary,Data & Analytics,Junior,Fully Remote,1.6,36064.0,8.27,10.0,6500.0,17,0.0
+HU-0136,Hungary,Sales,Mid,Hybrid,3.8,33220.0,8.79,8.18,3250.0,5,2.961835456357664
+HU-0137,Hungary,Sales,Lead,Fully Remote,2.1,20775.0,5.22,7.38,6500.0,3,0.0
+HU-0138,Hungary,Sales,Senior,Hybrid,9.5,44911.0,4.46,4.59,3250.0,12,1.2080345035902043
+HU-0139,Hungary,Product Management,Junior,Fully Remote,6.7,34226.0,6.38,6.04,6500.0,10,0.0
+HU-0140,Hungary,Data & Analytics,Junior,In-Office,0.5,47821.0,7.16,5.75,0.0,16,5.874853136983608
+HU-0141,Hungary,Sales,Mid,Hybrid,0.5,22665.0,6.86,10.0,3250.0,5,2.08023341872564
+HU-0142,Hungary,Data & Analytics,Mid,In-Office,3.9,22637.0,6.65,7.59,0.0,9,3.8199398597943524
+HU-0143,Hungary,Product Management,Senior,Hybrid,0.9,33072.0,7.2,4.92,3250.0,12,1.8379873706204621
+HU-0144,Hungary,Engineering,Junior,Fully Remote,5.5,41843.0,7.69,7.5,6500.0,16,0.0
+HU-0145,Hungary,Data & Analytics,Mid,In-Office,3.1,26462.0,5.96,4.25,0.0,3,6.841824963463003
+HU-0146,Hungary,HR & Ops,Lead,Fully Remote,0.9,26191.0,6.91,4.36,6500.0,16,0.0
+HU-0147,Hungary,Data & Analytics,Junior,Fully Remote,2.3,37604.0,6.92,7.48,6500.0,3,0.0
+HU-0148,Hungary,Engineering,Mid,Fully Remote,1.8,32810.0,7.67,7.92,6500.0,12,0.0
+HU-0149,Hungary,Engineering,Lead,In-Office,7.2,38809.0,8.59,7.19,0.0,11,3.9484818242506416
+HU-0150,Hungary,HR & Ops,Junior,Hybrid,0.5,32935.0,9.62,10.0,3250.0,6,2.2691410170684723
+HU-0151,Hungary,Sales,Junior,Hybrid,7.9,37696.0,6.7,7.95,3250.0,10,1.5307023433507818
+HU-0152,Hungary,Sales,Mid,Hybrid,3.7,44563.0,5.2,7.66,3250.0,9,1.4469975087092886
+HU-0153,Hungary,Sales,Senior,Hybrid,4.7,26477.0,7.31,5.58,3250.0,7,2.6450720378269432
+HU-0154,Hungary,Engineering,Junior,Hybrid,0.5,43294.0,5.69,8.69,3250.0,9,2.5409787170025924
+HU-0155,Hungary,Data & Analytics,Lead,Fully Remote,3.5,23071.0,10.0,4.32,6500.0,5,0.0
+HU-0156,Hungary,HR & Ops,Mid,In-Office,3.1,39265.0,6.15,9.53,0.0,15,7.401456315067151
+HU-0157,Hungary,Product Management,Mid,Fully Remote,2.7,44935.0,7.68,8.11,6500.0,3,0.0
+HU-0158,Hungary,Sales,Junior,Fully Remote,5.4,31332.0,8.12,10.0,6500.0,4,0.0
+HU-0159,Hungary,Sales,Junior,Hybrid,2.8,39512.0,8.01,7.98,3250.0,3,2.264801790270393
+HU-0160,Hungary,HR & Ops,Mid,Hybrid,6.8,31590.0,10.0,8.78,3250.0,6,1.6519580875376243
+HU-0161,Hungary,HR & Ops,Mid,Hybrid,0.9,39098.0,7.36,6.98,3250.0,3,2.601247312825631
+HU-0162,Hungary,Product Management,Junior,Fully Remote,5.7,19191.0,6.0,6.74,6500.0,12,0.0
+HU-0163,Hungary,HR & Ops,Mid,Fully Remote,0.7,36135.0,5.94,5.22,6500.0,15,0.0
+HU-0164,Hungary,Sales,Mid,Hybrid,5.9,37768.0,8.5,5.23,3250.0,3,1.3563928535762522
+HU-0165,Hungary,Sales,Manager,Hybrid,9.9,44413.0,7.37,7.68,3250.0,10,2.10340950519047
+HU-0166,Hungary,HR & Ops,Mid,Fully Remote,1.4,41477.0,5.94,6.73,6500.0,13,0.0
+HU-0167,Hungary,HR & Ops,Senior,Hybrid,2.6,33871.0,8.13,5.79,3250.0,10,2.377732968851112
+HU-0168,Hungary,HR & Ops,Mid,Fully Remote,3.8,36876.0,7.85,5.45,6500.0,15,0.0
+HU-0169,Hungary,Data & Analytics,Mid,Fully Remote,0.5,24877.0,7.33,6.85,6500.0,12,0.0
+HU-0170,Hungary,Product Management,Senior,Fully Remote,2.4,46509.0,8.08,5.16,6500.0,9,0.0
+HU-0171,Hungary,Sales,Mid,In-Office,1.6,39838.0,7.31,7.03,0.0,12,7.084916904045347
+HU-0172,Hungary,Sales,Lead,Hybrid,7.2,21974.0,6.89,5.81,3250.0,14,1.8440471319393743
+HU-0173,Hungary,Engineering,Junior,Fully Remote,7.3,36722.0,7.97,7.18,6500.0,15,0.0
+HU-0174,Hungary,Data & Analytics,Junior,Hybrid,4.2,37256.0,6.53,5.67,3250.0,15,1.350822583310822
+HU-0175,Hungary,Engineering,Senior,In-Office,3.7,29582.0,5.85,4.78,0.0,5,6.230051454733495
+HU-0176,Hungary,HR & Ops,Senior,Fully Remote,4.6,35678.0,8.39,3.26,6500.0,10,0.0
+HU-0177,Hungary,Data & Analytics,Mid,In-Office,1.6,28879.0,6.78,6.26,0.0,17,6.284466173273423
+HU-0178,Hungary,HR & Ops,Senior,Fully Remote,1.8,25168.0,9.0,8.98,6500.0,8,0.0
+HU-0179,Hungary,Engineering,Mid,In-Office,2.8,30707.0,8.23,8.6,0.0,3,5.335870666762233
+HU-0180,Hungary,Data & Analytics,Junior,Hybrid,9.7,36201.0,7.09,7.89,3250.0,8,1.6305610262078452
+HU-0181,Hungary,HR & Ops,Lead,Fully Remote,4.5,41498.0,7.58,3.8,6500.0,6,0.0
+HU-0182,Hungary,Data & Analytics,Senior,Fully Remote,2.8,35489.0,10.0,8.07,6500.0,7,0.0
+HU-0183,Hungary,Product Management,Mid,In-Office,5.2,41567.0,8.11,6.84,0.0,8,6.181740626335283
+HU-0184,Hungary,Product Management,Junior,Hybrid,1.6,39541.0,8.3,6.79,3250.0,17,1.2814867267823065
+HU-0185,Hungary,Engineering,Manager,Hybrid,4.6,27752.0,6.89,9.21,3250.0,5,2.745746571534252
+HU-0186,Hungary,Data & Analytics,Junior,Fully Remote,1.9,39488.0,9.21,7.72,6500.0,6,0.0
+HU-0187,Hungary,Data & Analytics,Lead,Hybrid,1.1,39681.0,9.18,10.0,3250.0,5,2.664770731431714
+HU-0188,Hungary,Data & Analytics,Lead,Fully Remote,3.3,47193.0,6.3,4.69,6500.0,5,0.0
+HU-0189,Hungary,Engineering,Junior,Fully Remote,4.1,37875.0,9.26,4.81,6500.0,10,0.0
+HU-0190,Hungary,Sales,Senior,Hybrid,2.2,26357.0,7.8,5.66,3250.0,3,2.794813938384717
+HU-0191,Hungary,Data & Analytics,Mid,In-Office,2.9,31121.0,6.19,6.07,0.0,13,3.067907939493849
+HU-0192,Hungary,Sales,Junior,Hybrid,4.1,22032.0,6.88,9.78,3250.0,7,1.2532396580900473
+HU-0193,Hungary,HR & Ops,Junior,Fully Remote,5.1,38573.0,8.05,5.86,6500.0,9,0.0
+HU-0194,Hungary,Product Management,Manager,Hybrid,7.9,46578.0,6.6,6.5,3250.0,12,2.75259328098297
+HU-0195,Hungary,Sales,Mid,In-Office,1.5,18262.0,5.88,7.13,0.0,7,3.3864674657523293
+HU-0196,Hungary,Engineering,Manager,Hybrid,10.6,46874.0,7.07,8.66,3250.0,6,1.6303745803079277
+HU-0197,Hungary,Engineering,Mid,Hybrid,3.5,38481.0,7.25,4.04,3250.0,16,2.504722884794784
+HU-0198,Hungary,HR & Ops,Mid,In-Office,5.4,27464.0,6.39,8.06,0.0,9,7.649005431538614
+HU-0199,Hungary,HR & Ops,Senior,Hybrid,4.2,36797.0,7.06,6.42,3250.0,13,1.2571362117103662
+HU-0200,Hungary,Data & Analytics,Mid,Fully Remote,0.8,27690.0,8.1,6.65,6500.0,13,0.0
+HU-0201,Hungary,Product Management,Junior,Fully Remote,0.5,38083.0,7.31,8.93,6500.0,14,0.0
+HU-0202,Hungary,Engineering,Senior,In-Office,4.5,35444.0,6.58,6.18,0.0,3,6.61997692072369
+HU-0203,Hungary,Sales,Junior,Hybrid,2.5,37305.0,7.09,5.1,3250.0,17,2.776651629405244
+HU-0204,Hungary,Data & Analytics,Mid,Fully Remote,4.2,28567.0,6.84,4.59,6500.0,4,0.0
+HU-0205,Hungary,HR & Ops,Mid,Hybrid,2.3,29587.0,7.51,7.36,3250.0,5,2.8520148352065013
+HU-0206,Hungary,Engineering,Junior,Hybrid,1.3,38513.0,7.52,6.9,3250.0,4,2.9174865938168746
+HU-0207,Hungary,Engineering,Lead,In-Office,1.2,31481.0,8.26,6.59,0.0,16,5.622445937957616
+HU-0208,Hungary,Product Management,Junior,Fully Remote,4.6,36043.0,7.24,6.2,6500.0,11,0.0
+HU-0209,Hungary,Product Management,Mid,Hybrid,1.1,38171.0,7.87,9.26,3250.0,3,1.8214187918066764
+HU-0210,Hungary,Product Management,Mid,In-Office,4.4,33444.0,8.91,6.54,0.0,5,6.225516025789666
+HU-0211,Hungary,Engineering,Senior,Fully Remote,1.7,43086.0,9.25,4.16,6500.0,4,0.0
+HU-0212,Hungary,Data & Analytics,Senior,Fully Remote,5.2,33701.0,5.52,8.02,6500.0,8,0.0
+HU-0213,Hungary,Product Management,Senior,In-Office,0.5,33491.0,5.31,9.36,0.0,17,4.024580162579999
+HU-0214,Hungary,Data & Analytics,Mid,Hybrid,0.8,30578.0,7.18,7.63,3250.0,11,2.9517866757917974
+HU-0215,Hungary,HR & Ops,Mid,Hybrid,4.1,42280.0,8.54,7.75,3250.0,10,2.7662285741486397
+HU-0216,Hungary,HR & Ops,Lead,Hybrid,2.9,30050.0,8.05,6.23,3250.0,8,1.8667338973936698
+HU-0217,Hungary,Product Management,Junior,Fully Remote,0.8,43781.0,8.26,6.44,6500.0,6,0.0
+HU-0218,Hungary,Data & Analytics,Senior,In-Office,8.2,36142.0,6.73,7.25,0.0,16,5.126776371643419
+HU-0219,Hungary,Engineering,Mid,Fully Remote,1.1,53775.0,4.65,8.5,6500.0,5,0.0
+HU-0220,Hungary,Data & Analytics,Mid,Fully Remote,1.9,30377.0,5.36,7.47,6500.0,10,0.0
+HU-0221,Hungary,HR & Ops,Lead,Fully Remote,0.8,43926.0,7.68,9.53,6500.0,10,0.0
+HU-0222,Hungary,HR & Ops,Mid,Fully Remote,1.7,38572.0,8.27,6.95,6500.0,14,0.0
+HU-0223,Hungary,Data & Analytics,Junior,Hybrid,2.4,31404.0,5.31,5.72,3250.0,15,1.19107121872329
+HU-0224,Hungary,Product Management,Mid,Hybrid,1.2,38666.0,9.29,5.76,3250.0,3,2.4593736115886102
+HU-0225,Hungary,Product Management,Manager,In-Office,5.1,38325.0,7.76,8.35,0.0,13,4.793117035116244
+HU-0226,Hungary,Engineering,Mid,Fully Remote,1.8,32676.0,6.92,8.31,6500.0,11,0.0
+HU-0227,Hungary,HR & Ops,Mid,Hybrid,4.6,37998.0,6.85,4.93,3250.0,15,2.6425503545723386
+HU-0228,Hungary,Engineering,Junior,Hybrid,0.8,43144.0,9.51,7.09,3250.0,9,2.012478533194316
+HU-0229,Hungary,Product Management,Senior,Hybrid,1.7,38579.0,8.68,7.14,3250.0,11,1.463034136492112
+HU-0230,Hungary,HR & Ops,Senior,Hybrid,0.5,32066.0,8.19,6.27,3250.0,3,1.278930927330363
+HU-0231,Hungary,Data & Analytics,Senior,Fully Remote,5.0,31671.0,6.12,4.68,6500.0,13,0.0
+HU-0232,Hungary,Engineering,Manager,Fully Remote,3.4,34388.0,8.94,5.64,6500.0,11,0.0
+HU-0233,Hungary,HR & Ops,Lead,Fully Remote,6.0,42787.0,7.04,5.37,6500.0,9,0.0
+HU-0234,Hungary,Data & Analytics,Junior,Hybrid,2.1,29723.0,7.96,5.32,3250.0,5,1.4501833291893604
+HU-0235,Hungary,Engineering,Junior,In-Office,5.6,37745.0,7.29,7.74,0.0,3,6.870104614825404
+HU-0236,Hungary,Sales,Junior,Fully Remote,3.7,24063.0,6.08,7.22,6500.0,8,0.0
+HU-0237,Hungary,Engineering,Junior,Fully Remote,0.5,39162.0,7.38,6.1,6500.0,4,0.0
+HU-0238,Hungary,Sales,Senior,Fully Remote,1.0,40262.0,7.84,3.69,6500.0,10,0.0
+HU-0239,Hungary,Product Management,Junior,Hybrid,2.4,49193.0,7.07,6.95,3250.0,12,2.7708146458670617
+HU-0240,Hungary,HR & Ops,Lead,Fully Remote,3.4,41477.0,7.28,7.58,6500.0,11,0.0
+HU-0241,Hungary,Data & Analytics,Mid,Fully Remote,0.5,32192.0,7.07,5.7,6500.0,10,0.0
+HU-0242,Hungary,Product Management,Senior,Fully Remote,4.3,24258.0,8.1,5.08,6500.0,5,0.0
+HU-0243,Hungary,HR & Ops,Senior,Hybrid,2.7,38599.0,7.24,7.22,3250.0,12,1.1596621331257468
+HU-0244,Hungary,Sales,Lead,Hybrid,2.6,32709.0,7.87,7.9,3250.0,7,2.2566727305973076
+HU-0245,Hungary,HR & Ops,Lead,Hybrid,1.2,37339.0,8.12,4.4,3250.0,16,2.773864792634344
+HU-0246,Hungary,Sales,Mid,Fully Remote,3.2,29959.0,6.61,8.83,6500.0,8,0.0
+HU-0247,Hungary,Data & Analytics,Junior,Hybrid,0.5,33788.0,6.61,5.53,3250.0,7,2.4809293018894607
+HU-0248,Hungary,Engineering,Lead,Fully Remote,0.5,23100.0,6.2,6.17,6500.0,5,0.0
+HU-0249,Hungary,Engineering,Junior,Fully Remote,4.6,27677.0,7.49,8.57,6500.0,10,0.0
+HU-0250,Hungary,Data & Analytics,Lead,Hybrid,1.4,26689.0,7.32,7.59,3250.0,6,2.9651849440211757
+HU-0251,Hungary,Product Management,Manager,Fully Remote,1.5,41110.0,6.7,8.44,6500.0,3,0.0
+HU-0252,Hungary,HR & Ops,Junior,Hybrid,0.8,29209.0,8.32,9.73,3250.0,6,2.441340646498264
+HU-0253,Hungary,HR & Ops,Junior,Fully Remote,2.1,44646.0,8.22,4.61,6500.0,6,0.0
+HU-0254,Hungary,Data & Analytics,Mid,Fully Remote,0.5,29278.0,8.43,8.15,6500.0,8,0.0
+HU-0255,Hungary,Product Management,Junior,In-Office,1.3,49672.0,6.46,8.49,0.0,10,5.140640253550709
+HU-0256,Hungary,Sales,Senior,Hybrid,2.6,21358.0,8.71,6.84,3250.0,14,2.75285854968487
+HU-0257,Hungary,Data & Analytics,Junior,Hybrid,2.2,37970.0,10.0,6.96,3250.0,11,2.580219024534189
+HU-0258,Hungary,HR & Ops,Manager,In-Office,15.0,35270.0,7.35,3.63,0.0,17,5.314153285994038
+HU-0259,Hungary,Product Management,Senior,Hybrid,1.7,26520.0,7.51,8.57,3250.0,7,2.559268712266958
+HU-0260,Hungary,Sales,Senior,Hybrid,1.7,31143.0,7.26,3.6,3250.0,10,1.34465580468145
+HU-0261,Hungary,Data & Analytics,Lead,Hybrid,2.5,33171.0,6.32,8.85,3250.0,4,2.569998348847167
+HU-0262,Hungary,Product Management,Mid,Fully Remote,0.7,36749.0,8.01,4.67,6500.0,11,0.0
+HU-0263,Hungary,Engineering,Senior,Fully Remote,7.3,28445.0,6.92,8.89,6500.0,10,0.0
+HU-0264,Hungary,Sales,Junior,Hybrid,3.0,37977.0,7.42,7.99,3250.0,10,2.1937585746723443
+HU-0265,Hungary,Product Management,Manager,Fully Remote,0.7,35838.0,7.82,8.31,6500.0,16,0.0
+HU-0266,Hungary,Engineering,Senior,Fully Remote,5.5,40454.0,7.94,5.58,6500.0,10,0.0
+HU-0267,Hungary,Product Management,Lead,Fully Remote,0.5,28963.0,6.28,4.8,6500.0,9,0.0
+HU-0268,Hungary,HR & Ops,Senior,Fully Remote,14.2,32135.0,6.31,4.15,6500.0,11,0.0
+HU-0269,Hungary,Sales,Mid,Fully Remote,7.0,45095.0,6.25,8.44,6500.0,10,0.0
+HU-0270,Hungary,Sales,Manager,Fully Remote,3.0,28658.0,9.54,7.79,6500.0,9,0.0
+HU-0271,Hungary,HR & Ops,Senior,Fully Remote,0.5,25253.0,8.77,7.85,6500.0,3,0.0
+HU-0272,Hungary,Engineering,Lead,Fully Remote,0.8,30583.0,7.85,7.24,6500.0,4,0.0
+HU-0273,Hungary,HR & Ops,Mid,Hybrid,1.1,22568.0,7.15,8.22,3250.0,7,1.864961460836242
+HU-0274,Hungary,Engineering,Junior,Fully Remote,1.0,46710.0,6.69,6.36,6500.0,16,0.0
+HU-0275,Hungary,HR & Ops,Junior,In-Office,2.4,33021.0,7.64,7.06,0.0,15,4.123801188294097
+HU-0276,Hungary,Sales,Senior,Hybrid,10.1,33088.0,10.0,6.11,3250.0,11,1.1656085494290915
+HU-0277,Hungary,Sales,Manager,Hybrid,2.1,40198.0,7.95,6.89,3250.0,12,2.113935067520897
+HU-0278,Hungary,Engineering,Mid,Hybrid,3.8,29921.0,8.21,10.0,3250.0,15,1.9857517942705987
+HU-0279,Hungary,Data & Analytics,Mid,Fully Remote,4.1,33488.0,3.94,6.86,6500.0,15,0.0
+HU-0280,Hungary,HR & Ops,Senior,Fully Remote,7.2,29736.0,7.31,3.84,6500.0,5,0.0
+HU-0281,Hungary,HR & Ops,Junior,In-Office,0.5,22715.0,5.53,5.89,0.0,10,7.979282145890812
+HU-0282,Hungary,HR & Ops,Mid,Fully Remote,1.8,35355.0,6.42,5.21,6500.0,16,0.0
+HU-0283,Hungary,Engineering,Mid,In-Office,5.4,42180.0,7.26,6.74,0.0,5,5.210518731038895
+HU-0284,Hungary,Data & Analytics,Mid,Hybrid,5.9,35555.0,7.24,6.07,3250.0,6,1.6451184732665367
+HU-0285,Hungary,Sales,Junior,Fully Remote,9.2,41439.0,6.24,6.48,6500.0,16,0.0
+HU-0286,Hungary,Data & Analytics,Mid,Hybrid,4.2,27329.0,6.85,6.29,3250.0,7,2.9709121420093565
+HU-0287,Hungary,Data & Analytics,Mid,Hybrid,1.0,29722.0,7.35,7.7,3250.0,9,1.3363815688565093
+HU-0288,Hungary,Engineering,Junior,Fully Remote,2.5,25940.0,6.69,5.86,6500.0,8,0.0
+HU-0289,Hungary,Product Management,Manager,Fully Remote,0.5,37566.0,7.02,7.34,6500.0,17,0.0
+HU-0290,Hungary,HR & Ops,Mid,Hybrid,3.6,32777.0,7.53,10.0,3250.0,4,2.2041073458540903
+HU-0291,Hungary,HR & Ops,Senior,Hybrid,2.8,32515.0,9.13,5.67,3250.0,15,2.999785333410099
+HU-0292,Hungary,Data & Analytics,Junior,Fully Remote,3.8,39683.0,4.54,7.89,6500.0,16,0.0
+HU-0293,Hungary,Sales,Manager,Fully Remote,9.3,31689.0,7.29,3.12,6500.0,7,0.0
+HU-0294,Hungary,Sales,Mid,In-Office,4.1,42558.0,7.29,6.15,0.0,17,7.611627891104664
+HU-0295,Hungary,Engineering,Senior,Hybrid,1.4,36650.0,7.44,7.74,3250.0,10,1.1733571223016614
+HU-0296,Hungary,HR & Ops,Mid,Hybrid,0.8,32437.0,6.75,6.28,3250.0,4,1.155062823218345
+HU-0297,Hungary,Data & Analytics,Manager,In-Office,6.7,24139.0,7.02,3.82,0.0,17,5.093323067309363
+HU-0298,Hungary,Sales,Junior,Fully Remote,0.8,39643.0,5.04,6.74,6500.0,4,0.0
+HU-0299,Hungary,Data & Analytics,Junior,Hybrid,0.6,36981.0,7.85,9.7,3250.0,9,1.146768033304017
+HU-0300,Hungary,Product Management,Lead,In-Office,0.8,37317.0,7.67,6.28,0.0,11,7.176086303043844
+HU-0301,Hungary,Sales,Mid,Hybrid,2.5,37541.0,6.76,8.24,3250.0,16,1.7109232805112906
+HU-0302,Hungary,Data & Analytics,Junior,Fully Remote,0.5,31296.0,9.33,8.49,6500.0,11,0.0
+HU-0303,Hungary,Sales,Mid,Fully Remote,9.7,33940.0,6.86,10.0,6500.0,12,0.0
+HU-0304,Hungary,Product Management,Mid,Hybrid,11.9,31790.0,7.65,5.82,3250.0,9,1.661405576798622
+HU-0305,Hungary,Sales,Junior,Fully Remote,12.7,43750.0,8.6,5.38,6500.0,5,0.0
+HU-0306,Hungary,Engineering,Senior,In-Office,0.5,33074.0,9.77,6.06,0.0,3,7.426414145484502
+HU-0307,Hungary,Product Management,Manager,Fully Remote,10.2,30665.0,5.65,7.72,6500.0,17,0.0
+HU-0308,Hungary,Engineering,Lead,Fully Remote,15.0,44231.0,6.31,3.32,6500.0,8,0.0
+HU-0309,Hungary,Engineering,Junior,Fully Remote,10.0,43470.0,6.88,7.78,6500.0,6,0.0
+HU-0310,Hungary,Data & Analytics,Lead,Hybrid,3.9,36655.0,6.71,7.62,3250.0,14,1.989823209553321
+HU-0311,Hungary,Product Management,Lead,In-Office,4.2,34091.0,8.22,5.7,0.0,6,3.0627409959445444
+HU-0312,Hungary,Sales,Mid,Hybrid,0.5,32343.0,6.58,8.04,3250.0,14,1.4173352490231836
+HU-0313,Hungary,Sales,Mid,In-Office,7.3,34692.0,8.72,7.83,0.0,6,4.999293475686077
+HU-0314,Hungary,Sales,Mid,Fully Remote,0.5,28877.0,7.75,8.34,6500.0,13,0.0
+HU-0315,Hungary,Product Management,Senior,Fully Remote,1.3,38384.0,8.4,6.82,6500.0,7,0.0
+HU-0316,Hungary,Engineering,Junior,In-Office,15.0,46568.0,6.18,6.99,0.0,17,6.864783561753544
+HU-0317,Hungary,Product Management,Junior,In-Office,1.9,38938.0,6.74,6.93,0.0,4,4.147059956173031
+HU-0318,Hungary,Sales,Mid,In-Office,0.5,27277.0,8.28,8.35,0.0,15,4.645314084504548
+HU-0319,Hungary,Data & Analytics,Mid,Hybrid,12.2,38186.0,8.46,7.97,3250.0,7,2.359339946503045
+HU-0320,Hungary,Product Management,Senior,Fully Remote,14.5,36362.0,6.66,7.77,6500.0,10,0.0
+HU-0321,Hungary,Product Management,Mid,Fully Remote,0.7,38124.0,6.83,8.14,6500.0,3,0.0
+HU-0322,Hungary,Data & Analytics,Senior,In-Office,7.0,29263.0,6.68,9.44,0.0,17,7.918304020799928
+HU-0323,Hungary,Data & Analytics,Mid,Fully Remote,1.7,35024.0,6.79,5.92,6500.0,8,0.0
+HU-0324,Hungary,Engineering,Mid,Fully Remote,1.7,41182.0,5.84,9.24,6500.0,10,0.0
+HU-0325,Hungary,Data & Analytics,Senior,Hybrid,1.1,27510.0,6.24,10.0,3250.0,12,2.6553422711383883
+HU-0326,Hungary,Data & Analytics,Mid,Fully Remote,0.5,31856.0,8.21,6.02,6500.0,5,0.0
+HU-0327,Hungary,Engineering,Senior,In-Office,1.1,32985.0,6.95,6.17,0.0,8,4.93385117440841
+HU-0328,Hungary,HR & Ops,Lead,Fully Remote,0.5,41989.0,8.38,6.16,6500.0,15,0.0
+HU-0329,Hungary,HR & Ops,Mid,Hybrid,9.0,43032.0,8.32,8.39,3250.0,17,2.971080961348078
+HU-0330,Hungary,Engineering,Junior,Hybrid,3.8,21594.0,7.97,4.61,3250.0,4,1.3591624570182603
+HU-0331,Hungary,Product Management,Senior,Hybrid,7.6,41983.0,6.75,6.65,3250.0,7,2.558672530638974
+HU-0332,Hungary,Engineering,Junior,Hybrid,4.4,43253.0,6.15,6.99,3250.0,16,1.3615398386018063
+HU-0333,Hungary,Sales,Junior,Fully Remote,0.5,42803.0,6.45,6.26,6500.0,11,0.0
+HU-0334,Hungary,HR & Ops,Senior,Hybrid,9.9,31293.0,9.44,6.84,3250.0,10,2.638277275503264
+HU-0335,Hungary,HR & Ops,Senior,Hybrid,8.1,33391.0,8.67,6.67,3250.0,17,2.670059922533694
+HU-0336,Hungary,Data & Analytics,Junior,Hybrid,1.5,24028.0,6.94,8.57,3250.0,3,1.7930784551289682
+HU-0337,Hungary,Product Management,Mid,Fully Remote,0.5,20335.0,6.47,7.61,6500.0,11,0.0
+HU-0338,Hungary,Engineering,Mid,Fully Remote,4.3,32469.0,5.89,9.36,6500.0,13,0.0
+HU-0339,Hungary,Data & Analytics,Lead,Fully Remote,4.6,35535.0,5.14,7.97,6500.0,4,0.0
+HU-0340,Hungary,HR & Ops,Senior,Hybrid,7.9,36237.0,7.72,5.75,3250.0,6,1.702415136772826
+HU-0341,Hungary,Product Management,Manager,Fully Remote,0.5,40748.0,9.07,6.54,6500.0,15,0.0
+HU-0342,Hungary,Sales,Lead,In-Office,0.5,56428.0,9.29,6.09,0.0,14,6.396577699830017
+HU-0343,Hungary,Sales,Lead,Hybrid,3.2,32228.0,8.33,7.78,3250.0,15,1.6509322004932847
+HU-0344,Hungary,Engineering,Mid,Hybrid,3.4,27611.0,6.88,9.04,3250.0,10,2.3065159189677336
+HU-0345,Hungary,Engineering,Lead,In-Office,0.5,38823.0,5.46,6.78,0.0,14,6.335430256677727
+HU-0346,Hungary,Sales,Mid,Fully Remote,1.8,36556.0,8.26,7.08,6500.0,14,0.0
+HU-0347,Hungary,Sales,Mid,In-Office,3.1,30978.0,7.74,6.52,0.0,4,4.569093901635808
+HU-0348,Hungary,HR & Ops,Senior,Hybrid,4.7,41376.0,7.22,8.62,3250.0,10,1.0351849759878298
+HU-0349,Hungary,Data & Analytics,Mid,In-Office,1.3,29316.0,6.62,5.65,0.0,8,6.934950416924126
+HU-0350,Hungary,Sales,Lead,In-Office,2.3,34100.0,7.92,4.31,0.0,12,6.2031077452884436
+HU-0351,Hungary,Sales,Junior,Fully Remote,5.9,34504.0,6.01,7.77,6500.0,17,0.0
+HU-0352,Hungary,Engineering,Mid,Fully Remote,10.8,28366.0,7.29,7.36,6500.0,9,0.0
+HU-0353,Hungary,HR & Ops,Mid,Hybrid,0.9,23032.0,6.14,9.39,3250.0,7,1.0582029026459532
+HU-0354,Hungary,Product Management,Senior,Hybrid,1.0,36533.0,10.0,3.76,3250.0,14,1.9685061124600434
+HU-0355,Hungary,HR & Ops,Lead,Fully Remote,9.8,44581.0,6.18,6.65,6500.0,3,0.0
+HU-0356,Hungary,Product Management,Mid,Fully Remote,1.8,41726.0,7.78,6.96,6500.0,15,0.0
+HU-0357,Hungary,Data & Analytics,Mid,Fully Remote,4.4,42195.0,5.56,4.53,6500.0,13,0.0
+HU-0358,Hungary,Engineering,Senior,Hybrid,3.3,29407.0,7.4,7.27,3250.0,8,2.71655944571191
+HU-0359,Hungary,Data & Analytics,Mid,In-Office,1.2,36498.0,8.26,8.28,0.0,14,4.0459306504042125
+HU-0360,Hungary,Sales,Senior,Hybrid,3.7,25031.0,8.92,10.0,3250.0,12,2.7607392525182366
+HU-0361,Hungary,Sales,Junior,Hybrid,3.7,36182.0,8.52,8.87,3250.0,4,2.55942305036077
+HU-0362,Hungary,Engineering,Lead,Fully Remote,3.1,44721.0,6.83,6.31,6500.0,12,0.0
+HU-0363,Hungary,Product Management,Junior,Fully Remote,0.5,44939.0,6.2,8.69,6500.0,3,0.0
+HU-0364,Hungary,Product Management,Junior,Hybrid,15.0,49213.0,6.31,8.77,3250.0,16,2.8654645408407236
+HU-0365,Hungary,Product Management,Junior,In-Office,1.8,41924.0,9.0,5.77,0.0,6,7.771156787382108
+HU-0366,Hungary,Data & Analytics,Manager,Fully Remote,3.6,38330.0,7.12,5.93,6500.0,16,0.0
+HU-0367,Hungary,Product Management,Mid,Hybrid,7.6,41123.0,7.95,7.15,3250.0,14,2.314988118512502
+HU-0368,Hungary,Sales,Mid,In-Office,1.9,39764.0,8.6,4.92,0.0,15,4.420176453253887
+HU-0369,Hungary,Data & Analytics,Manager,In-Office,5.2,29349.0,7.9,6.03,0.0,10,7.972525521102794
+HU-0370,Hungary,Data & Analytics,Senior,Fully Remote,12.5,24393.0,6.85,7.53,6500.0,11,0.0
+HU-0371,Hungary,Sales,Senior,Fully Remote,1.6,41179.0,7.89,8.36,6500.0,11,0.0
+HU-0372,Hungary,HR & Ops,Mid,Fully Remote,1.8,49653.0,6.25,6.23,6500.0,12,0.0
+HU-0373,Hungary,HR & Ops,Junior,Hybrid,8.3,41468.0,5.74,9.48,3250.0,16,2.2719004609076894
+HU-0374,Hungary,Sales,Senior,In-Office,0.6,21779.0,8.89,7.48,0.0,15,6.124115710467189
+HU-0375,Hungary,Sales,Manager,Fully Remote,0.5,31365.0,6.35,7.84,6500.0,13,0.0
+HU-0376,Hungary,Data & Analytics,Senior,Fully Remote,8.4,33623.0,6.63,5.42,6500.0,7,0.0
+HU-0377,Hungary,Sales,Junior,In-Office,6.0,22008.0,6.94,9.21,0.0,12,4.860600980040143
+HU-0378,Hungary,Engineering,Lead,Hybrid,12.6,25362.0,6.88,8.23,3250.0,15,2.3971429702614655
+HU-0379,Hungary,Engineering,Mid,In-Office,0.5,34740.0,8.52,6.0,0.0,4,5.674390037820778
+HU-0380,Hungary,Data & Analytics,Manager,Fully Remote,0.6,36831.0,7.45,6.04,6500.0,7,0.0
+HU-0381,Hungary,Sales,Senior,Hybrid,0.5,28098.0,7.24,6.93,3250.0,11,2.08286895321969
+HU-0382,Hungary,Sales,Junior,Fully Remote,4.0,25039.0,5.47,5.27,6500.0,9,0.0
+HU-0383,Hungary,Data & Analytics,Junior,Fully Remote,3.3,43353.0,7.36,8.28,6500.0,4,0.0
+HU-0384,Hungary,Engineering,Mid,Hybrid,1.6,32322.0,4.66,6.03,3250.0,7,2.8504939739023305
+HU-0385,Hungary,HR & Ops,Junior,Fully Remote,0.5,33324.0,7.28,7.23,6500.0,10,0.0
+HU-0386,Hungary,Sales,Lead,Fully Remote,3.6,31173.0,8.61,6.13,6500.0,5,0.0
+HU-0387,Hungary,Product Management,Mid,In-Office,3.0,29602.0,7.28,7.51,0.0,10,5.634014594279683
+HU-0388,Hungary,HR & Ops,Mid,Fully Remote,0.5,44119.0,8.45,8.01,6500.0,6,0.0
+HU-0389,Hungary,Sales,Senior,Hybrid,8.4,28841.0,6.12,6.43,3250.0,11,1.995290682092683
+HU-0390,Hungary,Sales,Senior,Fully Remote,0.8,36258.0,9.45,6.75,6500.0,11,0.0
+HU-0391,Hungary,Product Management,Mid,In-Office,4.8,35061.0,8.52,4.33,0.0,7,7.889298169059843
+HU-0392,Hungary,Product Management,Mid,Fully Remote,7.6,21363.0,7.57,9.35,6500.0,17,0.0
+HU-0393,Hungary,Sales,Mid,Hybrid,3.0,36687.0,6.88,9.0,3250.0,6,2.7188451817226085
+HU-0394,Hungary,Engineering,Mid,Fully Remote,1.0,24192.0,6.08,4.71,6500.0,9,0.0
+HU-0395,Hungary,HR & Ops,Lead,Hybrid,1.3,39448.0,7.51,6.1,3250.0,16,2.659844625966981
+HU-0396,Hungary,Data & Analytics,Junior,Hybrid,7.6,26695.0,9.04,7.2,3250.0,13,2.87296649603415
+HU-0397,Hungary,Sales,Lead,Fully Remote,1.2,38654.0,5.42,6.86,6500.0,5,0.0
+HU-0398,Hungary,Sales,Lead,Fully Remote,4.8,31993.0,7.01,5.77,6500.0,10,0.0
+HU-0399,Hungary,Product Management,Mid,In-Office,15.0,30280.0,8.08,4.78,0.0,14,6.699108171827982
+HU-0400,Hungary,Data & Analytics,Mid,In-Office,15.0,36474.0,8.32,7.09,0.0,13,7.630406733934594
+IN-0001,India,Sales,Lead,Fully Remote,1.7,19839.0,7.76,7.3,3500.0,9,0.0
+IN-0002,India,Sales,Mid,Fully Remote,3.9,14335.0,5.51,9.32,3500.0,16,0.0
+IN-0003,India,Engineering,Junior,Hybrid,4.1,15270.0,4.88,5.44,1750.0,12,2.927374331913302
+IN-0004,India,Sales,Senior,Hybrid,0.5,14474.0,6.43,8.12,1750.0,12,2.279495424075359
+IN-0005,India,Engineering,Junior,Fully Remote,1.4,17501.0,6.71,9.02,3500.0,14,0.0
+IN-0006,India,Data & Analytics,Junior,Hybrid,1.9,22213.0,10.0,8.54,1750.0,13,1.2086701057381648
+IN-0007,India,Data & Analytics,Mid,Fully Remote,0.5,17982.0,7.65,8.05,3500.0,8,0.0
+IN-0008,India,Engineering,Lead,Fully Remote,0.9,16404.0,4.83,7.68,3500.0,10,0.0
+IN-0009,India,Product Management,Senior,Fully Remote,0.5,12508.0,6.17,8.75,3500.0,5,0.0
+IN-0010,India,Data & Analytics,Manager,Hybrid,15.0,19988.0,7.54,5.77,1750.0,8,2.906375287411614
+IN-0011,India,Data & Analytics,Senior,In-Office,4.7,15191.0,7.5,4.42,0.0,9,3.77405620298413
+IN-0012,India,Product Management,Senior,Hybrid,0.5,18423.0,6.02,7.39,1750.0,11,1.3298933215163764
+IN-0013,India,Product Management,Mid,In-Office,0.5,16725.0,7.04,3.26,0.0,17,3.032962026694695
+IN-0014,India,Sales,Lead,Fully Remote,4.4,21017.0,6.14,8.65,3500.0,3,0.0
+IN-0015,India,Data & Analytics,Lead,Fully Remote,2.0,17434.0,5.68,8.63,3500.0,6,0.0
+IN-0016,India,Product Management,Mid,Hybrid,5.4,17788.0,7.91,6.75,1750.0,8,2.2507943863336264
+IN-0017,India,Sales,Mid,Fully Remote,9.0,19749.0,7.93,6.24,3500.0,15,0.0
+IN-0018,India,HR & Ops,Senior,Hybrid,3.2,25585.0,8.61,7.29,1750.0,11,2.0440029003041085
+IN-0019,India,Product Management,Junior,Hybrid,0.7,21198.0,8.29,7.48,1750.0,5,2.9749132339201547
+IN-0020,India,Sales,Senior,In-Office,5.3,17681.0,6.6,6.69,0.0,12,3.288831494860342
+IN-0021,India,Product Management,Mid,Fully Remote,10.9,18012.0,7.86,7.64,3500.0,12,0.0
+IN-0022,India,Product Management,Senior,Fully Remote,3.0,16111.0,7.37,6.54,3500.0,9,0.0
+IN-0023,India,Sales,Junior,Fully Remote,4.0,14580.0,7.16,8.21,3500.0,12,0.0
+IN-0024,India,Engineering,Mid,Fully Remote,1.4,16010.0,6.27,7.47,3500.0,14,0.0
+IN-0025,India,HR & Ops,Mid,Hybrid,1.7,15220.0,7.0,6.49,1750.0,12,1.6717086317216643
+IN-0026,India,Sales,Senior,Fully Remote,4.6,20352.0,7.09,8.8,3500.0,12,0.0
+IN-0027,India,Product Management,Manager,Fully Remote,9.2,14144.0,9.93,4.76,3500.0,17,0.0
+IN-0028,India,Sales,Lead,Fully Remote,3.5,22800.0,7.36,6.66,3500.0,5,0.0
+IN-0029,India,Product Management,Lead,Fully Remote,5.5,20707.0,6.27,8.25,3500.0,10,0.0
+IN-0030,India,Engineering,Mid,Hybrid,0.7,18074.0,6.6,6.32,1750.0,3,2.7261359925069817
+IN-0031,India,HR & Ops,Mid,Fully Remote,0.8,18001.0,6.41,7.26,3500.0,11,0.0
+IN-0032,India,Data & Analytics,Senior,Fully Remote,2.7,15994.0,9.61,7.62,3500.0,17,0.0
+IN-0033,India,Data & Analytics,Junior,Fully Remote,0.7,18972.0,6.52,5.51,3500.0,17,0.0
+IN-0034,India,HR & Ops,Mid,Fully Remote,3.5,21917.0,8.09,6.69,3500.0,3,0.0
+IN-0035,India,Engineering,Junior,Fully Remote,1.2,15469.0,6.55,6.57,3500.0,9,0.0
+IN-0036,India,Product Management,Senior,Fully Remote,5.5,12480.0,7.31,5.97,3500.0,9,0.0
+IN-0037,India,HR & Ops,Lead,Fully Remote,5.8,20532.0,7.95,10.0,3500.0,12,0.0
+IN-0038,India,Engineering,Mid,Hybrid,2.2,19168.0,6.91,6.26,1750.0,11,2.7220818690525963
+IN-0039,India,HR & Ops,Mid,Hybrid,0.7,13967.0,6.83,8.91,1750.0,7,1.506757189715903
+IN-0040,India,Engineering,Junior,Hybrid,3.6,15360.0,9.59,6.81,1750.0,17,2.1392602085399943
+IN-0041,India,Product Management,Senior,Fully Remote,15.0,14907.0,8.18,5.17,3500.0,10,0.0
+IN-0042,India,Data & Analytics,Junior,Fully Remote,3.4,15392.0,7.95,6.95,3500.0,11,0.0
+IN-0043,India,HR & Ops,Mid,Hybrid,0.5,16835.0,8.54,8.37,1750.0,6,1.0495482538687675
+IN-0044,India,Product Management,Senior,Fully Remote,0.5,17040.0,7.55,8.18,3500.0,4,0.0
+IN-0045,India,Data & Analytics,Senior,Hybrid,1.4,15657.0,10.0,9.74,1750.0,10,1.4588373530314267
+IN-0046,India,Data & Analytics,Senior,Fully Remote,0.8,15271.0,7.05,10.0,3500.0,4,0.0
+IN-0047,India,Data & Analytics,Senior,Fully Remote,5.9,17176.0,7.69,7.18,3500.0,8,0.0
+IN-0048,India,HR & Ops,Senior,Hybrid,6.5,18604.0,5.86,6.41,1750.0,3,2.4046290367714995
+IN-0049,India,Engineering,Senior,Fully Remote,1.0,16861.0,6.01,7.48,3500.0,13,0.0
+IN-0050,India,Data & Analytics,Mid,Fully Remote,1.4,22171.0,5.56,6.4,3500.0,4,0.0
+IN-0051,India,Engineering,Senior,Fully Remote,0.9,19829.0,8.53,8.19,3500.0,6,0.0
+IN-0052,India,Data & Analytics,Junior,Fully Remote,8.4,12273.0,3.94,4.85,3500.0,15,0.0
+IN-0053,India,Sales,Mid,Fully Remote,2.4,19885.0,6.52,10.0,3500.0,6,0.0
+IN-0054,India,Product Management,Mid,Hybrid,3.7,20180.0,4.01,8.68,1750.0,3,2.4350737270252543
+IN-0055,India,HR & Ops,Senior,Hybrid,1.9,16435.0,6.6,4.87,1750.0,5,2.5652415781540183
+IN-0056,India,Engineering,Junior,Hybrid,3.5,12617.0,7.01,6.34,1750.0,17,2.3340030653617294
+IN-0057,India,Engineering,Mid,Fully Remote,1.7,18029.0,8.66,8.02,3500.0,11,0.0
+IN-0058,India,HR & Ops,Mid,In-Office,1.5,17972.0,7.68,8.26,0.0,5,5.8839485424861815
+IN-0059,India,Product Management,Junior,Hybrid,3.5,13962.0,6.6,5.49,1750.0,8,1.7476801719309039
+IN-0060,India,Data & Analytics,Senior,Fully Remote,3.1,12776.0,8.28,7.87,3500.0,10,0.0
+IN-0061,India,Sales,Senior,Hybrid,1.2,17685.0,7.62,4.48,1750.0,13,1.986528868210213
+IN-0062,India,HR & Ops,Mid,Hybrid,0.6,17161.0,7.65,7.27,1750.0,11,2.85413823210237
+IN-0063,India,HR & Ops,Junior,Hybrid,1.6,16498.0,6.16,9.07,1750.0,3,2.38415018381642
+IN-0064,India,Product Management,Mid,Fully Remote,1.9,17700.0,5.81,5.97,3500.0,4,0.0
+IN-0065,India,Data & Analytics,Senior,Fully Remote,3.5,14030.0,6.01,4.54,3500.0,17,0.0
+IN-0066,India,Sales,Lead,In-Office,8.6,16435.0,7.26,6.72,0.0,8,5.383035907437421
+IN-0067,India,HR & Ops,Senior,Fully Remote,0.5,19920.0,7.09,5.89,3500.0,8,0.0
+IN-0068,India,Engineering,Senior,Hybrid,1.0,16740.0,9.45,8.34,1750.0,15,2.801254589189795
+IN-0069,India,Sales,Senior,Hybrid,0.8,11981.0,8.06,6.07,1750.0,9,1.458801253393045
+IN-0070,India,HR & Ops,Mid,In-Office,2.4,16298.0,3.95,5.34,0.0,15,4.003320583442212
+IN-0071,India,Data & Analytics,Mid,Fully Remote,2.0,14147.0,7.32,3.77,3500.0,9,0.0
+IN-0072,India,Product Management,Junior,Hybrid,4.6,18962.0,5.86,7.65,1750.0,6,2.8181450527225893
+IN-0073,India,Engineering,Mid,Fully Remote,1.0,19148.0,5.84,6.56,3500.0,12,0.0
+IN-0074,India,HR & Ops,Lead,Hybrid,3.2,12028.0,6.63,5.62,1750.0,13,1.365946766829739
+IN-0075,India,Product Management,Mid,Hybrid,7.5,20732.0,6.8,7.69,1750.0,13,1.9467083586656022
+IN-0076,India,Sales,Senior,Fully Remote,8.5,13996.0,5.35,8.34,3500.0,7,0.0
+IN-0077,India,Data & Analytics,Lead,Hybrid,11.2,23613.0,7.84,7.08,1750.0,15,2.452161513356377
+IN-0078,India,Sales,Mid,Fully Remote,5.2,17824.0,5.31,7.2,3500.0,9,0.0
+IN-0079,India,Engineering,Junior,Fully Remote,8.3,13513.0,7.43,7.21,3500.0,14,0.0
+IN-0080,India,Sales,Junior,Fully Remote,0.9,13889.0,9.68,4.99,3500.0,3,0.0
+IN-0081,India,Sales,Senior,Fully Remote,0.8,19253.0,5.4,9.88,3500.0,4,0.0
+IN-0082,India,Product Management,Lead,Fully Remote,0.5,16591.0,6.66,6.09,3500.0,5,0.0
+IN-0083,India,Engineering,Senior,Fully Remote,4.3,17652.0,3.97,7.78,3500.0,4,0.0
+IN-0084,India,Product Management,Senior,Hybrid,9.7,23806.0,7.24,8.55,1750.0,12,1.8254334541660602
+IN-0085,India,HR & Ops,Mid,Hybrid,0.7,15483.0,8.37,7.19,1750.0,5,1.8707952604231992
+IN-0086,India,Data & Analytics,Mid,Hybrid,3.5,18216.0,8.46,8.31,1750.0,14,1.5826148925489756
+IN-0087,India,Sales,Senior,Fully Remote,4.8,23111.0,7.09,7.17,3500.0,5,0.0
+IN-0088,India,Engineering,Manager,In-Office,9.2,18974.0,8.27,4.37,0.0,17,6.417483085490426
+IN-0089,India,Sales,Mid,Hybrid,3.6,12216.0,10.0,6.9,1750.0,12,1.6719272971073043
+IN-0090,India,Sales,Mid,Fully Remote,12.3,19819.0,9.05,5.88,3500.0,9,0.0
+IN-0091,India,HR & Ops,Mid,Hybrid,1.5,13813.0,6.97,6.71,1750.0,8,2.081536465654673
+IN-0092,India,Product Management,Junior,Fully Remote,1.5,23065.0,5.26,4.84,3500.0,6,0.0
+IN-0093,India,HR & Ops,Mid,Hybrid,2.7,15038.0,7.11,9.09,1750.0,11,2.9345092450499037
+IN-0094,India,HR & Ops,Mid,Fully Remote,1.7,28690.0,5.86,9.2,3500.0,5,0.0
+IN-0095,India,Product Management,Senior,Fully Remote,0.5,23283.0,7.54,8.27,3500.0,8,0.0
+IN-0096,India,Product Management,Mid,In-Office,4.6,15132.0,5.78,8.41,0.0,12,7.529302818962636
+IN-0097,India,Sales,Mid,Fully Remote,4.9,18072.0,6.91,6.28,3500.0,11,0.0
+IN-0098,India,Engineering,Mid,Fully Remote,4.8,20713.0,8.01,5.85,3500.0,8,0.0
+IN-0099,India,HR & Ops,Mid,In-Office,1.5,20821.0,7.08,5.33,0.0,16,5.049906596781414
+IN-0100,India,Sales,Senior,In-Office,2.6,19592.0,6.06,7.47,0.0,10,3.603442339231202
+IN-0101,India,HR & Ops,Junior,Hybrid,1.6,22508.0,9.01,7.74,1750.0,10,1.243237972726486
+IN-0102,India,Data & Analytics,Junior,Fully Remote,0.5,17557.0,4.75,6.68,3500.0,6,0.0
+IN-0103,India,Data & Analytics,Senior,Fully Remote,2.9,16680.0,6.61,8.74,3500.0,6,0.0
+IN-0104,India,Product Management,Lead,Hybrid,0.5,16751.0,7.55,8.01,1750.0,6,1.4280793835399315
+IN-0105,India,Product Management,Senior,Fully Remote,0.5,21090.0,7.02,5.54,3500.0,7,0.0
+IN-0106,India,HR & Ops,Mid,Fully Remote,4.9,19315.0,7.22,5.78,3500.0,5,0.0
+IN-0107,India,Data & Analytics,Junior,Hybrid,0.5,19049.0,8.33,8.42,1750.0,7,1.1416070274258434
+IN-0108,India,Sales,Lead,Fully Remote,11.2,20863.0,6.96,8.36,3500.0,10,0.0
+IN-0109,India,Engineering,Mid,Fully Remote,2.5,10616.0,6.56,7.63,3500.0,5,0.0
+IN-0110,India,Engineering,Junior,Fully Remote,14.3,19116.0,6.51,9.65,3500.0,10,0.0
+IN-0111,India,Engineering,Lead,Fully Remote,0.5,18787.0,6.27,9.25,3500.0,11,0.0
+IN-0112,India,Engineering,Junior,Fully Remote,3.1,24008.0,7.95,7.46,3500.0,3,0.0
+IN-0113,India,Product Management,Mid,Fully Remote,1.5,12497.0,6.22,5.54,3500.0,8,0.0
+IN-0114,India,Engineering,Mid,Fully Remote,6.5,23606.0,8.02,4.84,3500.0,16,0.0
+IN-0115,India,Data & Analytics,Mid,Hybrid,1.6,18271.0,7.62,6.82,1750.0,17,2.266677163685179
+IN-0116,India,Product Management,Senior,Hybrid,1.1,19760.0,6.97,8.53,1750.0,9,1.4274423056440348
+IN-0117,India,Product Management,Junior,Fully Remote,6.8,24033.0,7.74,9.54,3500.0,9,0.0
+IN-0118,India,HR & Ops,Junior,Fully Remote,1.6,20019.0,6.13,7.43,3500.0,13,0.0
+IN-0119,India,Data & Analytics,Mid,Fully Remote,0.5,19441.0,7.77,8.55,3500.0,6,0.0
+IN-0120,India,HR & Ops,Junior,Fully Remote,1.7,18872.0,7.26,6.43,3500.0,12,0.0
+IN-0121,India,Engineering,Mid,Fully Remote,3.7,16259.0,6.28,7.73,3500.0,14,0.0
+IN-0122,India,Product Management,Senior,Hybrid,1.0,17897.0,8.23,8.64,1750.0,13,2.513219379475984
+IN-0123,India,Sales,Mid,Hybrid,2.0,15424.0,8.26,4.43,1750.0,9,2.120385108468467
+IN-0124,India,Data & Analytics,Manager,Hybrid,0.5,17840.0,8.99,6.78,1750.0,12,2.2227060615502836
+IN-0125,India,HR & Ops,Lead,Fully Remote,3.1,9591.0,8.16,8.22,3500.0,17,0.0
+IN-0126,India,Engineering,Senior,Fully Remote,4.9,19545.0,7.59,7.21,3500.0,13,0.0
+IN-0127,India,Data & Analytics,Mid,Hybrid,1.9,17562.0,6.25,5.61,1750.0,8,2.69411638174339
+IN-0128,India,Sales,Mid,Fully Remote,1.9,16790.0,9.94,3.15,3500.0,10,0.0
+IN-0129,India,Product Management,Mid,Hybrid,0.5,18791.0,5.92,6.85,1750.0,4,2.9563062441680783
+IN-0130,India,Engineering,Manager,Fully Remote,0.8,12839.0,8.14,6.69,3500.0,15,0.0
+IN-0131,India,Product Management,Junior,Hybrid,0.6,24945.0,8.12,6.07,1750.0,7,2.641376004188504
+IN-0132,India,Sales,Manager,In-Office,2.3,17630.0,5.79,6.71,0.0,10,7.514564459833846
+IN-0133,India,Product Management,Mid,In-Office,2.6,17475.0,7.05,7.26,0.0,12,5.441049891382459
+IN-0134,India,Data & Analytics,Lead,Hybrid,10.4,14525.0,7.51,8.41,1750.0,7,2.915312948777395
+IN-0135,India,Product Management,Senior,Fully Remote,0.5,18086.0,8.57,3.27,3500.0,12,0.0
+IN-0136,India,Data & Analytics,Senior,Fully Remote,3.2,22993.0,6.14,4.83,3500.0,12,0.0
+IN-0137,India,Data & Analytics,Manager,In-Office,2.6,21729.0,6.89,6.04,0.0,13,7.895146797125696
+IN-0138,India,Product Management,Junior,Fully Remote,2.5,21076.0,4.2,7.66,3500.0,5,0.0
+IN-0139,India,Data & Analytics,Junior,Fully Remote,7.2,19967.0,9.08,7.53,3500.0,11,0.0
+IN-0140,India,HR & Ops,Senior,Fully Remote,0.8,16709.0,5.72,7.51,3500.0,9,0.0
+IN-0141,India,Data & Analytics,Mid,Fully Remote,0.5,12779.0,7.39,6.22,3500.0,11,0.0
+IN-0142,India,Data & Analytics,Mid,Fully Remote,3.9,17276.0,6.88,6.31,3500.0,7,0.0
+IN-0143,India,Data & Analytics,Mid,Hybrid,1.5,17151.0,7.48,6.31,1750.0,9,2.945625722940429
+IN-0144,India,Data & Analytics,Manager,Fully Remote,0.5,21776.0,7.97,7.95,3500.0,12,0.0
+IN-0145,India,Engineering,Senior,Fully Remote,1.0,19114.0,9.01,5.42,3500.0,9,0.0
+IN-0146,India,Engineering,Manager,In-Office,1.3,23804.0,7.5,7.78,0.0,9,7.791428140722369
+IN-0147,India,HR & Ops,Senior,Hybrid,3.4,22311.0,8.39,7.71,1750.0,10,2.048473313126321
+IN-0148,India,Engineering,Lead,Hybrid,0.7,16357.0,7.99,7.33,1750.0,5,1.4041686299548777
+IN-0149,India,Product Management,Mid,Fully Remote,1.9,11538.0,8.22,5.81,3500.0,6,0.0
+IN-0150,India,Product Management,Senior,Hybrid,2.3,22988.0,7.04,5.37,1750.0,9,1.619340400180319
+IN-0151,India,HR & Ops,Mid,Fully Remote,2.2,22894.0,8.29,5.83,3500.0,8,0.0
+IN-0152,India,HR & Ops,Senior,Fully Remote,12.8,13082.0,8.33,6.3,3500.0,5,0.0
+IN-0153,India,Product Management,Mid,Fully Remote,0.5,23433.0,8.3,3.25,3500.0,8,0.0
+IN-0154,India,Data & Analytics,Manager,Fully Remote,10.6,19376.0,6.21,6.5,3500.0,13,0.0
+IN-0155,India,HR & Ops,Senior,Fully Remote,3.1,18578.0,6.8,8.19,3500.0,15,0.0
+IN-0156,India,Product Management,Mid,In-Office,5.6,23813.0,7.49,7.35,0.0,12,3.9836643321409015
+IN-0157,India,HR & Ops,Manager,Fully Remote,2.0,22841.0,5.35,6.06,3500.0,11,0.0
+IN-0158,India,Sales,Junior,Fully Remote,2.1,20345.0,8.91,6.87,3500.0,12,0.0
+IN-0159,India,Sales,Lead,Fully Remote,7.4,19704.0,6.99,5.97,3500.0,3,0.0
+IN-0160,India,Sales,Junior,Fully Remote,7.9,20219.0,7.34,7.02,3500.0,5,0.0
+IN-0161,India,HR & Ops,Mid,Hybrid,1.0,16560.0,6.91,9.71,1750.0,7,1.1767564919218079
+IN-0162,India,HR & Ops,Senior,Fully Remote,0.8,17802.0,5.41,8.25,3500.0,12,0.0
+IN-0163,India,HR & Ops,Junior,Hybrid,2.4,14752.0,6.88,8.18,1750.0,9,2.075656558253497
+IN-0164,India,Engineering,Mid,Fully Remote,8.1,16801.0,7.26,6.06,3500.0,9,0.0
+IN-0165,India,HR & Ops,Lead,Hybrid,1.4,16680.0,8.41,8.52,1750.0,17,2.0465160963109628
+IN-0166,India,Data & Analytics,Manager,Hybrid,3.7,15713.0,7.79,4.87,1750.0,6,2.6309444744623502
+IN-0167,India,Product Management,Junior,In-Office,4.3,18492.0,7.62,6.12,0.0,9,3.5792638850188228
+IN-0168,India,Data & Analytics,Senior,Hybrid,5.3,16834.0,7.2,8.28,1750.0,8,1.1865097395707416
+IN-0169,India,HR & Ops,Mid,Hybrid,2.9,19808.0,8.2,8.51,1750.0,8,1.5953439586926075
+IN-0170,India,Data & Analytics,Junior,Fully Remote,1.8,12160.0,8.78,7.8,3500.0,8,0.0
+IN-0171,India,Engineering,Mid,Fully Remote,11.9,17592.0,7.85,7.24,3500.0,15,0.0
+IN-0172,India,Sales,Lead,Hybrid,3.3,18474.0,8.57,7.11,1750.0,7,1.359567661954088
+IN-0173,India,Data & Analytics,Lead,In-Office,4.6,16882.0,7.55,7.31,0.0,16,4.694409431243371
+IN-0174,India,Product Management,Senior,Fully Remote,1.5,17379.0,5.2,5.37,3500.0,3,0.0
+IN-0175,India,Data & Analytics,Mid,Fully Remote,3.9,12293.0,5.75,5.53,3500.0,8,0.0
+IN-0176,India,Product Management,Lead,Hybrid,1.0,19283.0,8.15,7.49,1750.0,11,2.019539346998098
+IN-0177,India,Product Management,Senior,Fully Remote,1.0,20331.0,6.99,7.06,3500.0,8,0.0
+IN-0178,India,HR & Ops,Senior,Fully Remote,4.4,19777.0,7.53,4.06,3500.0,15,0.0
+IN-0179,India,Engineering,Junior,Fully Remote,2.6,21739.0,9.01,7.48,3500.0,16,0.0
+IN-0180,India,Engineering,Mid,Hybrid,4.0,18726.0,8.47,8.56,1750.0,4,2.145506518496325
+IN-0181,India,HR & Ops,Junior,In-Office,1.1,19723.0,8.71,6.38,0.0,11,3.422663076467862
+IN-0182,India,Engineering,Junior,Fully Remote,3.2,18562.0,7.11,10.0,3500.0,12,0.0
+IN-0183,India,Sales,Junior,Fully Remote,2.1,20475.0,6.03,5.78,3500.0,3,0.0
+IN-0184,India,Engineering,Junior,Fully Remote,3.2,12322.0,6.93,6.26,3500.0,12,0.0
+IN-0185,India,Product Management,Junior,Fully Remote,1.2,14783.0,6.03,6.21,3500.0,14,0.0
+IN-0186,India,Product Management,Manager,Hybrid,4.4,23713.0,9.47,7.29,1750.0,16,1.5083581484871933
+IN-0187,India,Sales,Mid,Hybrid,5.7,9142.0,8.55,6.91,1750.0,6,1.0897768231541762
+IN-0188,India,Engineering,Lead,Fully Remote,1.1,17495.0,7.62,4.69,3500.0,15,0.0
+IN-0189,India,HR & Ops,Mid,Hybrid,1.3,22220.0,9.08,6.58,1750.0,14,1.7479405185546653
+IN-0190,India,HR & Ops,Mid,Hybrid,3.8,17664.0,5.18,7.25,1750.0,3,1.915428102996465
+IN-0191,India,Engineering,Manager,Fully Remote,4.2,16542.0,7.71,8.64,3500.0,12,0.0
+IN-0192,India,Sales,Senior,Fully Remote,4.3,18466.0,5.43,10.0,3500.0,6,0.0
+IN-0193,India,Sales,Senior,In-Office,4.0,16729.0,7.19,8.5,0.0,6,4.2824026318405295
+IN-0194,India,HR & Ops,Lead,Fully Remote,1.7,18111.0,6.63,5.64,3500.0,11,0.0
+IN-0195,India,Product Management,Manager,Hybrid,1.8,15540.0,8.39,6.36,1750.0,5,2.9245281560703438
+IN-0196,India,Engineering,Mid,Fully Remote,1.0,21991.0,7.27,6.56,3500.0,11,0.0
+IN-0197,India,Data & Analytics,Senior,Hybrid,0.6,23124.0,9.21,10.0,1750.0,5,1.6680014376531878
+IN-0198,India,Data & Analytics,Junior,Hybrid,4.1,17520.0,6.88,7.15,1750.0,11,2.6992223730221596
+IN-0199,India,HR & Ops,Mid,Hybrid,0.5,13009.0,8.45,5.41,1750.0,6,2.230350699321294
+IN-0200,India,Product Management,Junior,In-Office,9.7,16114.0,7.39,5.75,0.0,6,6.652660105026811
+IN-0201,India,Data & Analytics,Senior,In-Office,6.1,17338.0,5.24,7.64,0.0,5,5.469936327150702
+IN-0202,India,Data & Analytics,Lead,Hybrid,6.8,19820.0,6.5,8.43,1750.0,11,2.4416504561656014
+IN-0203,India,Sales,Junior,Fully Remote,8.3,14371.0,6.82,6.5,3500.0,17,0.0
+IN-0204,India,Data & Analytics,Mid,Fully Remote,1.8,15231.0,8.33,7.83,3500.0,5,0.0
+IN-0205,India,Product Management,Junior,Hybrid,6.6,19838.0,8.16,3.99,1750.0,15,1.4456136848005703
+IN-0206,India,HR & Ops,Lead,Hybrid,0.6,21380.0,6.2,7.56,1750.0,10,2.577543431130987
+IN-0207,India,Product Management,Junior,Fully Remote,0.5,15762.0,6.83,8.09,3500.0,13,0.0
+IN-0208,India,Product Management,Mid,Fully Remote,5.4,13200.0,9.42,5.55,3500.0,17,0.0
+IN-0209,India,Sales,Junior,Hybrid,0.5,29823.0,7.73,6.15,1750.0,16,1.7488383538045935
+IN-0210,India,Sales,Manager,Fully Remote,15.0,20820.0,6.61,4.0,3500.0,8,0.0
+IN-0211,India,Engineering,Mid,Fully Remote,3.9,17039.0,7.59,9.18,3500.0,7,0.0
+IN-0212,India,Sales,Lead,Hybrid,4.9,21129.0,8.52,6.32,1750.0,8,2.917108015899056
+IN-0213,India,HR & Ops,Senior,Hybrid,1.0,17552.0,7.05,7.76,1750.0,14,2.3397817357168136
+IN-0214,India,Sales,Mid,Fully Remote,3.9,21122.0,7.6,7.71,3500.0,7,0.0
+IN-0215,India,Product Management,Mid,Fully Remote,0.5,18574.0,6.61,9.07,3500.0,17,0.0
+IN-0216,India,Product Management,Senior,Fully Remote,6.4,18329.0,7.86,6.57,3500.0,9,0.0
+IN-0217,India,Product Management,Mid,Fully Remote,0.7,17591.0,7.2,5.99,3500.0,8,0.0
+IN-0218,India,Product Management,Senior,Hybrid,4.2,12789.0,8.18,7.66,1750.0,17,1.3611300333504495
+IN-0219,India,Engineering,Mid,Fully Remote,0.9,24977.0,6.09,8.73,3500.0,6,0.0
+IN-0220,India,Data & Analytics,Senior,Fully Remote,0.5,14610.0,6.01,6.54,3500.0,16,0.0
+IN-0221,India,Engineering,Junior,Fully Remote,2.3,13104.0,8.13,5.37,3500.0,17,0.0
+IN-0222,India,Data & Analytics,Senior,Fully Remote,0.6,17234.0,6.9,4.49,3500.0,5,0.0
+IN-0223,India,Product Management,Senior,In-Office,4.6,14539.0,7.54,4.67,0.0,9,5.137178347756485
+IN-0224,India,Engineering,Manager,Fully Remote,0.9,17814.0,6.63,8.1,3500.0,9,0.0
+IN-0225,India,Sales,Senior,In-Office,1.5,20476.0,8.28,6.02,0.0,4,5.127671488605998
+IN-0226,India,Sales,Senior,In-Office,2.9,21583.0,6.47,5.59,0.0,11,7.162433873098225
+IN-0227,India,Data & Analytics,Junior,Fully Remote,1.2,20933.0,6.84,5.73,3500.0,8,0.0
+IN-0228,India,HR & Ops,Junior,Hybrid,1.7,16900.0,8.54,7.53,1750.0,17,1.4446364184284526
+IN-0229,India,Product Management,Mid,Fully Remote,5.9,18179.0,8.41,6.44,3500.0,11,0.0
+IN-0230,India,Data & Analytics,Junior,Hybrid,0.7,19468.0,6.97,6.99,1750.0,5,1.9490928528963474
+IN-0231,India,Sales,Junior,Fully Remote,0.5,11672.0,9.35,8.82,3500.0,6,0.0
+IN-0232,India,Sales,Junior,Hybrid,1.4,20054.0,7.98,9.71,1750.0,15,1.8095831886410685
+IN-0233,India,Data & Analytics,Junior,Fully Remote,1.9,12754.0,5.75,4.38,3500.0,11,0.0
+IN-0234,India,Data & Analytics,Senior,Hybrid,2.7,25345.0,8.04,7.89,1750.0,14,1.3257444563286958
+IN-0235,India,Sales,Mid,Fully Remote,1.6,16544.0,6.54,5.63,3500.0,5,0.0
+IN-0236,India,Engineering,Mid,In-Office,5.5,17334.0,7.72,6.13,0.0,7,7.390905229021548
+IN-0237,India,Data & Analytics,Junior,Fully Remote,0.5,15229.0,6.95,7.26,3500.0,16,0.0
+IN-0238,India,Engineering,Senior,Hybrid,2.0,15732.0,7.69,7.08,1750.0,9,2.5031061126980525
+IN-0239,India,Product Management,Junior,Fully Remote,1.7,26187.0,5.91,7.15,3500.0,17,0.0
+IN-0240,India,HR & Ops,Mid,Fully Remote,3.7,21385.0,8.19,7.81,3500.0,5,0.0
+IN-0241,India,HR & Ops,Mid,Hybrid,11.9,12423.0,6.21,7.84,1750.0,14,2.074620518007221
+IN-0242,India,Data & Analytics,Junior,In-Office,2.5,23415.0,5.87,5.53,0.0,7,3.6822555913522925
+IN-0243,India,Product Management,Senior,Fully Remote,15.0,22296.0,7.44,5.86,3500.0,4,0.0
+IN-0244,India,Sales,Mid,In-Office,1.3,16988.0,9.12,4.34,0.0,10,6.058689529212359
+IN-0245,India,Product Management,Senior,Hybrid,0.5,19104.0,7.18,6.12,1750.0,3,2.5415453764212144
+IN-0246,India,Product Management,Junior,Hybrid,0.6,17946.0,8.44,10.0,1750.0,8,1.8084715116789587
+IN-0247,India,Product Management,Senior,Fully Remote,1.8,25101.0,8.29,5.61,3500.0,12,0.0
+IN-0248,India,Engineering,Mid,Fully Remote,1.3,15133.0,7.98,5.01,3500.0,16,0.0
+IN-0249,India,Engineering,Junior,In-Office,0.5,18526.0,6.83,6.98,0.0,9,5.5290534175985755
+IN-0250,India,Data & Analytics,Mid,Fully Remote,2.0,16459.0,5.69,6.63,3500.0,9,0.0
+IN-0251,India,Sales,Mid,Hybrid,1.4,12841.0,4.95,7.11,1750.0,11,2.9310216491358663
+IN-0252,India,Data & Analytics,Senior,Fully Remote,0.5,25890.0,6.68,8.91,3500.0,16,0.0
+IN-0253,India,Data & Analytics,Senior,Fully Remote,1.2,13746.0,8.41,7.62,3500.0,7,0.0
+IN-0254,India,Product Management,Junior,Hybrid,7.6,18792.0,6.25,6.61,1750.0,12,2.619763171411422
+IN-0255,India,Data & Analytics,Mid,Hybrid,1.3,11733.0,8.44,6.76,1750.0,17,1.7781214192373052
+IN-0256,India,HR & Ops,Senior,Hybrid,4.4,16563.0,6.46,6.65,1750.0,4,2.797413659149586
+IN-0257,India,Product Management,Mid,Fully Remote,3.3,19519.0,7.13,8.11,3500.0,3,0.0
+IN-0258,India,HR & Ops,Manager,Fully Remote,2.0,15031.0,7.85,6.34,3500.0,10,0.0
+IN-0259,India,Product Management,Lead,Fully Remote,1.0,20112.0,6.21,4.11,3500.0,3,0.0
+IN-0260,India,Data & Analytics,Mid,Fully Remote,1.6,17031.0,7.2,6.73,3500.0,17,0.0
+IN-0261,India,Product Management,Junior,In-Office,3.1,22176.0,6.7,4.19,0.0,9,3.6052438808616936
+IN-0262,India,Data & Analytics,Senior,Hybrid,1.5,22902.0,8.45,10.0,1750.0,8,1.7207968102390292
+IN-0263,India,HR & Ops,Mid,Fully Remote,0.8,15888.0,7.28,5.35,3500.0,6,0.0
+IN-0264,India,HR & Ops,Mid,In-Office,0.5,18276.0,7.27,6.26,0.0,13,5.167041086859202
+IN-0265,India,Data & Analytics,Senior,Fully Remote,7.4,18660.0,8.87,7.19,3500.0,4,0.0
+IN-0266,India,Data & Analytics,Mid,Hybrid,2.0,20230.0,8.39,6.97,1750.0,6,2.1220974707334075
+IN-0267,India,Sales,Lead,Fully Remote,3.4,18052.0,6.17,6.36,3500.0,12,0.0
+IN-0268,India,Engineering,Junior,Hybrid,2.4,18685.0,7.5,8.03,1750.0,3,1.8666389804657937
+IN-0269,India,Engineering,Mid,Fully Remote,7.2,17124.0,6.91,9.09,3500.0,12,0.0
+IN-0270,India,HR & Ops,Senior,Fully Remote,2.8,18415.0,7.1,7.95,3500.0,15,0.0
+IN-0271,India,Product Management,Junior,Fully Remote,2.3,22673.0,10.0,9.02,3500.0,12,0.0
+IN-0272,India,Product Management,Lead,Fully Remote,9.0,20326.0,7.45,5.23,3500.0,8,0.0
+IN-0273,India,Sales,Senior,Fully Remote,4.5,20525.0,4.56,7.28,3500.0,14,0.0
+IN-0274,India,HR & Ops,Mid,Fully Remote,0.5,20603.0,6.35,7.03,3500.0,14,0.0
+IN-0275,India,Engineering,Senior,Fully Remote,0.7,17446.0,4.68,7.33,3500.0,11,0.0
+IN-0276,India,Data & Analytics,Senior,Hybrid,5.4,19148.0,7.2,9.46,1750.0,5,2.3970197648026197
+IN-0277,India,Sales,Mid,Fully Remote,6.3,14093.0,4.62,6.47,3500.0,13,0.0
+IN-0278,India,Product Management,Senior,Hybrid,2.8,22568.0,6.55,6.79,1750.0,17,2.5408232734225464
+IN-0279,India,Engineering,Mid,Fully Remote,2.8,7981.0,5.18,7.6,3500.0,10,0.0
+IN-0280,India,Product Management,Mid,In-Office,3.5,17686.0,7.66,3.83,0.0,12,3.9517611418015677
+IN-0281,India,Sales,Lead,In-Office,2.0,22107.0,7.2,6.14,0.0,14,4.320335678368325
+IN-0282,India,Sales,Mid,Fully Remote,4.0,13090.0,7.36,6.6,3500.0,12,0.0
+IN-0283,India,Engineering,Junior,Hybrid,0.5,19439.0,7.47,6.02,1750.0,11,2.2358071311328676
+IN-0284,India,Sales,Junior,Fully Remote,11.4,15549.0,5.33,8.39,3500.0,4,0.0
+IN-0285,India,HR & Ops,Senior,In-Office,4.9,16672.0,7.82,4.91,0.0,11,5.198842519440718
+IN-0286,India,Engineering,Senior,Hybrid,3.5,21405.0,9.91,7.2,1750.0,8,1.229295606044353
+IN-0287,India,HR & Ops,Mid,Fully Remote,1.3,18713.0,7.49,7.24,3500.0,6,0.0
+IN-0288,India,Product Management,Mid,Fully Remote,0.6,10676.0,6.49,8.83,3500.0,8,0.0
+IN-0289,India,Data & Analytics,Lead,Fully Remote,1.8,14485.0,5.29,6.78,3500.0,13,0.0
+IN-0290,India,Engineering,Junior,Fully Remote,3.8,21511.0,5.91,8.2,3500.0,12,0.0
+IN-0291,India,Sales,Mid,Hybrid,3.5,19616.0,8.14,8.45,1750.0,7,1.3823660781946325
+IN-0292,India,Product Management,Junior,Fully Remote,1.7,24293.0,8.29,6.99,3500.0,15,0.0
+IN-0293,India,Data & Analytics,Junior,Fully Remote,3.3,24058.0,7.31,5.17,3500.0,6,0.0
+IN-0294,India,Data & Analytics,Senior,Fully Remote,5.9,16768.0,7.96,4.65,3500.0,3,0.0
+IN-0295,India,HR & Ops,Mid,Fully Remote,0.5,27012.0,7.85,6.96,3500.0,13,0.0
+IN-0296,India,Data & Analytics,Junior,Fully Remote,2.1,18088.0,7.61,5.99,3500.0,16,0.0
+IN-0297,India,Data & Analytics,Lead,Hybrid,5.0,14534.0,6.81,8.78,1750.0,7,1.2356144261353685
+IN-0298,India,Sales,Manager,Fully Remote,2.8,15719.0,7.21,7.92,3500.0,14,0.0
+IN-0299,India,HR & Ops,Mid,Hybrid,3.7,9876.0,6.58,7.12,1750.0,10,1.4419963150472703
+IN-0300,India,Data & Analytics,Junior,Fully Remote,2.5,23785.0,7.02,5.06,3500.0,7,0.0

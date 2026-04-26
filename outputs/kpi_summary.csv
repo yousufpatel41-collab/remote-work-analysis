@@ -1,0 +1,13 @@
+country,work_mode,employees,avg_prod,avg_sat,total_saving_eur
+Germany,Fully Remote,318,7.09,6.77,3816000.0
+Germany,Hybrid,316,7.75,7.5,1896000.0
+Germany,In-Office,166,7.12,6.5,0.0
+Hungary,Fully Remote,171,7.16,6.71,1111500.0
+Hungary,Hybrid,153,7.58,7.3,497250.0
+Hungary,In-Office,76,7.48,6.49,0.0
+India,Fully Remote,170,7.05,6.94,595000.0
+India,Hybrid,97,7.58,7.32,169750.0
+India,In-Office,33,7.09,6.11,0.0
+Poland,Fully Remote,215,7.0,6.9,1505000.0
+Poland,Hybrid,194,7.52,7.36,679000.0
+Poland,In-Office,91,7.38,6.38,0.0
