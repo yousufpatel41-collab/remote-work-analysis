@@ -75,3 +75,22 @@ python src/analyse.py
 ## 📬 Author
 
 **Yousuf Patel** — [LinkedIn](https://linkedin.com/in/yousuf-patel) · [Email](mailto:yousuf9patel@gmail.com)
+
+---
+
+## 📊 Output Charts
+
+### Remote Work Adoption by Country
+![Adoption by Country](outputs/adoption_by_country.png)
+
+### Productivity & Satisfaction by Work Mode
+![Productivity by Work Mode](outputs/productivity_by_workmode.png)
+
+### Annual Cost Savings by Country
+![Cost Savings](outputs/cost_savings.png)
+
+### Country × Work Mode KPI Heatmaps
+![Country Heatmap](outputs/country_workmode_heatmap.png)
+
+### Meeting Load vs Productivity
+![Meetings vs Productivity](outputs/meetings_productivity.png)
