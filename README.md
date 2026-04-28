@@ -38,7 +38,7 @@ remote-work-analysis/
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/remote-work-analysis.git
+git clone https://github.com/yousufpatel41-collab/remote-work-analysis.git
 cd remote-work-analysis
 pip install -r requirements.txt
 
