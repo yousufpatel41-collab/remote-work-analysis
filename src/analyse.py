@@ -1,7 +1,7 @@
 """
 analyse.py
-Main analysis pipeline for 4-country remote work study.
-Generates charts ready for Power BI dashboard integration.
+Analysis of a generated four-country workforce scenario.
+Outputs describe configured assumptions rather than employer observations.
 """
 
 from pathlib import Path
@@ -51,7 +51,7 @@ def chart_adoption_by_country(df: pd.DataFrame):
         ax.bar(countries, vals, bottom=bottom, label=mode, color=colors[mode], edgecolor="white")
         bottom += np.array(vals)
 
-    ax.set_title("Synthetic scenario: Remote Work Adoption by Country - IT Sector (BMW Collaboration)", fontsize=13)
+    ax.set_title("Synthetic workforce scenario: work mode by country", fontsize=13)
     ax.set_ylabel("% of Employees")
     ax.set_ylim(0, 110)
     ax.legend(loc="upper right")
@@ -84,7 +84,7 @@ def chart_productivity_by_workmode(df: pd.DataFrame):
         ax.set_ylabel("Mean Score (1–10)")
         ax.set_ylim(0, 10)
 
-    fig.suptitle("Productivity & Satisfaction Across Work Modes", fontsize=13)
+    fig.suptitle("Synthetic scenario: productivity and satisfaction", fontsize=13)
     plt.tight_layout()
     plt.savefig(f"{OUTPUT_DIR}/productivity_by_workmode.png", dpi=150)
     plt.close()
@@ -107,8 +107,8 @@ def chart_cost_savings(df: pd.DataFrame):
         ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.02,
                 f"€{val:.2f}M", ha="center", va="bottom", fontweight="bold")
 
-    ax.set_title("Synthetic scenario: Estimated Annual Office Cost Savings by Country", fontsize=13)
-    ax.set_ylabel("Total Savings (€ Millions)")
+    ax.set_title("Synthetic scenario: gross avoided office cost by country", fontsize=13)
+    ax.set_ylabel("Gross avoided cost (€ millions)")
     ax.yaxis.set_major_formatter(mticker.FormatStrFormatter("€%.1fM"))
     plt.tight_layout()
     plt.savefig(f"{OUTPUT_DIR}/cost_savings_simulation.png", dpi=150)

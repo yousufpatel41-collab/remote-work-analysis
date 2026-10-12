@@ -38,7 +38,7 @@ for country, cfg in COUNTRIES.items():
         p=[p_remote, p_hybrid, p_office],
     )
 
-    # Productivity: Hybrid > Remote > In-Office (slight edge)
+    # Assumed means: Hybrid 7.6, In-Office 7.2, Fully Remote 7.0
     base_prod = {"Fully Remote": 7.0, "Hybrid": 7.6, "In-Office": 7.2}
     productivity = np.array([
         np.clip(np.random.normal(base_prod[wm], 1.2), 1, 10)
