@@ -4,12 +4,13 @@ Generates a synthetic 4-country workforce dataset for remote work analysis.
 Run this first before analyse.py.
 """
 
-import os
+from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
 import numpy as np
 import pandas as pd
 
 np.random.seed(42)
-os.makedirs("data", exist_ok=True)
+(ROOT / "data").mkdir(exist_ok=True)
 
 N = 2000  # total employees
 
@@ -81,6 +82,6 @@ for country, cfg in COUNTRIES.items():
         })
 
 df = pd.DataFrame(records)
-df.to_csv("data/synthetic_workforce_data.csv", index=False)
-print(f"✅ Generated {len(df)} employee records → data/synthetic_workforce_data.csv")
+df.to_csv(ROOT / "data/synthetic_workforce_data.csv", index=False)
+print(f" Generated {len(df)} employee records -> data/synthetic_workforce_data.csv")
 print(df["work_mode"].value_counts())

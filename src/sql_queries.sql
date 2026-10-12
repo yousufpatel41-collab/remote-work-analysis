@@ -1,6 +1,6 @@
 -- ============================================================
 -- Remote Work Analytics SQL Queries
--- Author: Yousuf Patel | BMW Collaboration Project
+-- Author: Yousuf Patel | Synthetic Workforce Portfolio Project
 -- Table: workforce (matches synthetic_workforce_data.csv schema)
 -- ============================================================
 

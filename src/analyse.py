@@ -4,17 +4,18 @@ Main analysis pipeline for 4-country remote work study.
 Generates charts ready for Power BI dashboard integration.
 """
 
-import os
+from pathlib import Path
+ROOT = Path(__file__).resolve().parents[1]
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import seaborn as sns
 
-DATA_PATH = "data/synthetic_workforce_data.csv"
-OUTPUT_DIR = "outputs"
+DATA_PATH = ROOT / "data/synthetic_workforce_data.csv"
+OUTPUT_DIR = ROOT / "outputs"
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+OUTPUT_DIR.mkdir(exist_ok=True)
 sns.set_theme(style="whitegrid", palette="muted")
 
 
@@ -50,14 +51,14 @@ def chart_adoption_by_country(df: pd.DataFrame):
         ax.bar(countries, vals, bottom=bottom, label=mode, color=colors[mode], edgecolor="white")
         bottom += np.array(vals)
 
-    ax.set_title("Remote Work Adoption by Country — IT Sector (BMW Collaboration)", fontsize=13)
+    ax.set_title("Synthetic scenario: Remote Work Adoption by Country - IT Sector (BMW Collaboration)", fontsize=13)
     ax.set_ylabel("% of Employees")
     ax.set_ylim(0, 110)
     ax.legend(loc="upper right")
     plt.tight_layout()
     plt.savefig(f"{OUTPUT_DIR}/adoption_by_country.png", dpi=150)
     plt.close()
-    print(f"✅ Saved → {OUTPUT_DIR}/adoption_by_country.png")
+    print(f" Saved -> {OUTPUT_DIR}/adoption_by_country.png")
 
 
 # ── Chart 2: Productivity & satisfaction by work mode ─────────────────────────
@@ -87,7 +88,7 @@ def chart_productivity_by_workmode(df: pd.DataFrame):
     plt.tight_layout()
     plt.savefig(f"{OUTPUT_DIR}/productivity_by_workmode.png", dpi=150)
     plt.close()
-    print(f"✅ Saved → {OUTPUT_DIR}/productivity_by_workmode.png")
+    print(f" Saved -> {OUTPUT_DIR}/productivity_by_workmode.png")
 
 
 # ── Chart 3: Cost savings simulation ─────────────────────────────────────────
@@ -106,16 +107,16 @@ def chart_cost_savings(df: pd.DataFrame):
         ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.02,
                 f"€{val:.2f}M", ha="center", va="bottom", fontweight="bold")
 
-    ax.set_title("Estimated Annual Office Cost Savings by Country", fontsize=13)
+    ax.set_title("Synthetic scenario: Estimated Annual Office Cost Savings by Country", fontsize=13)
     ax.set_ylabel("Total Savings (€ Millions)")
     ax.yaxis.set_major_formatter(mticker.FormatStrFormatter("€%.1fM"))
     plt.tight_layout()
     plt.savefig(f"{OUTPUT_DIR}/cost_savings_simulation.png", dpi=150)
     plt.close()
-    print(f"✅ Saved → {OUTPUT_DIR}/cost_savings_simulation.png")
+    print(f" Saved -> {OUTPUT_DIR}/cost_savings_simulation.png")
 
 
-# ── Country × Work Mode KPI summary ──────────────────────────────────────────
+# ── Country x Work Mode KPI summary ──────────────────────────────────────────
 
 def print_kpi_summary(df: pd.DataFrame):
     summary = df.groupby(["country", "work_mode"]).agg(
@@ -125,13 +126,13 @@ def print_kpi_summary(df: pd.DataFrame):
         total_cost_saving_eur=("annual_office_cost_saving_eur", "sum"),
     ).round(2)
 
-    print("\n📊 KPI Summary — Country × Work Mode")
+    print("\n KPI Summary - Country x Work Mode")
     print("=" * 80)
     print(summary.to_string())
 
     # Export for Power BI
     summary.reset_index().to_csv(f"{OUTPUT_DIR}/kpi_summary.csv", index=False)
-    print(f"\n✅ KPI table saved → {OUTPUT_DIR}/kpi_summary.csv")
+    print(f"\n KPI table saved -> {OUTPUT_DIR}/kpi_summary.csv")
 
 
 if __name__ == "__main__":
@@ -140,4 +141,4 @@ if __name__ == "__main__":
     chart_productivity_by_workmode(df)
     chart_cost_savings(df)
     print_kpi_summary(df)
-    print("\n🎉 Analysis complete — all outputs in outputs/")
+    print("\n Analysis complete - all outputs in outputs/")
